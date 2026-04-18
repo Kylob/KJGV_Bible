@@ -2,7 +2,7 @@
 *A programmatic, **as‑literal‑as‑it‑gets** translation of the Westminster Leningrad Codex*
 
 ## **Overview**
-The **KJGV Bible** is a 39‑volume translation of the Hebrew Scriptures (Tanakh), built directly from the Westminster Leningrad Codex. This repository contains the complete text of **Genesis**, presented with full morphological transparency and a consistent, rule‑driven methodology.
+The **KJGV Bible** is a multi‑volume, programmatically generated translation of the Hebrew Scriptures (Tanakh), built directly from the Westminster Leningrad Codex. This repository contains the complete text of **Genesis**, presented with full morphological transparency and a consistent, rule‑driven methodology.
 
 ## **Features**
 - **Programmatic translation**  
@@ -23,7 +23,7 @@ The **KJGV Bible** is a 39‑volume translation of the Hebrew Scriptures (Tanakh
 - **Hebraic‑perspective**  
   Preserves the form and the way ancient Hebrews expressed themselves — **the structure, the worldview, the meaning**.
 
-- **Extensive glossaries**  
+- **Comprehensive glossaries**  
   Includes both Hebrew→English and English→Hebrew glossaries.
 
 ## **Design Tradeoffs**
@@ -37,4 +37,4 @@ Ideal for:
 - Software developers working with biblical text  
 
 ## **License**
-Released into the **Public Domain (CC0)**. You are free to quote, adapt, analyze, and build upon this work for any purpose.
+Released into the Public Domain under **CC0**. You are free to quote, adapt, analyze, and build upon this work for any purpose.
