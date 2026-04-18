@@ -135,7 +135,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,"dry land",יַבָּשָׁה|yabashah,f,"dry land","לְ[יַבָּשָׁה]|lei[yabashah]|to [dry] [land]",לַיַּבָּשָׁה֙,Hfs
 ,earth,אָרֶץ|aretz,b,"earth (land)","[אָרֶץ]|[aretz]|[earth] (land)",אֶ֔רֶץ,Hbs
 "Gen 1:10 ב: and the gathering together of the waters called he Seas:",,,,,,,,
-,"gathering together",מִקְוֵה|mikveh,m,"reservoir (of waiting expectantly)","וּלְ[מִקְוֵה]|ule[mikveh]|and to [reservoir] (of waiting expectantly)",וּלְמִקְוֵ֥ה,Hms
+,"gathering together",מִקְוֵה|mikveh,m,"reservoir (wait expectantly you of)","וּלְ[מִקְוֵה]|ule[mikveh]|and to [reservoir] (wait expectantly you of)",וּלְמִקְוֵ֥ה,Hms
 ,water,מַיִם|maiyim,m,waters,"הַ[מַ]יִם|ha[mai]yim|the [waters]",הַמַּ֖יִם,Hmd
 ,call,קָרֹא|karo,V,call,"[קָרַא]|[kara]|he [call]",קָרָ֣א,HVpSA3ms
 ,sea,יָם|yam,m,sea,[יָמִ]ים|[yam]im|[seas],יַמִּ֑ים,Hmp
@@ -205,7 +205,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,God,אֱלֹה|eloh,M,"God (mighty one)","[אֱלֹהִ]ים|[eloh]im|[God] (mighty one)",אֱלֹהִ֗ים,Mp
 "Gen 1:14 ב: Let there be lights in the firmament of the heaven",,,,,,,,
 ,"let be",הָיֹה|haiyoh,V,exist,"יְ[הִי]|ye[hi]|let him [exist]",יְהִ֤י,HVjSA3ms
-,light,מָאוֹר|maor,m,"luminary (of light)","[מָאֹרֹ]ת|[maor]ot|[luminaries] (of lights)",מְאֹרֹת֙,Hmp
+,light,מָאוֹר|maor,m,"luminary (give light of)","[מָאֹרֹ]ת|[maor]ot|[luminaries] (give light ofs)",מְאֹרֹת֙,Hmp
 ,firmament,רָקִיע|rakia,m,"overlay (hammering)","בְּ[רָקִיע]|be[rakia]|in [overlay] (hammering)",בִּרְקִ֣יעַ,Hms
 ,heaven,שָׁמָה|shamah,m,heaven,"הַ[שָׁמַ]יִם|ha[shamai]yim|the [heavens]",הַשָּׁמַ֔יִם,Hmd
 "Gen 1:14 ג: to divide the day from the night;",,,,,,,,
@@ -222,7 +222,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,year,שְׁנָה|shenah,f,year,"וּ[שְׁנִ]ים׃|u[sheni]m|and [years]",וְשָׁנִֽים׃,Hfp
 "Gen 1:15 א: And let them be for lights in the firmament of the heaven",,,,,,,,
 ,"let be",הָיֹה|haiyoh,V,exist,"וְ[הָי]וּ|ve[haiy]u|and they [exist]",וְהָי֤וּ,HVpSA3cp
-,light,מָאוֹר|maor,m,"luminary (of light)","לְ[מָאוֹרֹ]ת|le[maor]ot|for [luminaries] (of lights)",לִמְאוֹרֹת֙,Hmp
+,light,מָאוֹר|maor,m,"luminary (give light of)","לְ[מָאוֹרֹ]ת|le[maor]ot|for [luminaries] (give light ofs)",לִמְאוֹרֹת֙,Hmp
 ,firmament,רָקִיע|rakia,m,"overlay (hammering)","בְּ[רָקִיע]|be[rakia]|in [overlay] (hammering)",בִּרְקִ֣יעַ,Hms
 ,heaven,שָׁמָה|shamah,m,heaven,"הַ[שָׁמַ]יִם|ha[shamai]yim|the [heavens]",הַשָּׁמַ֔יִם,Hmd
 "Gen 1:15 ב: to give light upon the earth:",,,,,,,,
@@ -237,19 +237,19 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,God,אֱלֹה|eloh,M,"God (mighty one)","[אֱלֹהִ]ים|[eloh]im|[God] (mighty one)",אֱלֹהִ֔ים,Mp
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
 ,two,שְׁנַה|shenah,m,"two (2)","[שְׁנֵ]י|[shene]i|[two] (2)",שְׁנֵ֥י,Hmd
-,light,מָאוֹר|maor,m,"luminary (of light)","הַ[מָאֹרֹ]ת|ha[maor]ot|the [luminaries] (of lights)",הַמְּאֹרֹ֖ת,Hmp
+,light,מָאוֹר|maor,m,"luminary (give light of)","הַ[מָאֹרֹ]ת|ha[maor]ot|the [luminaries] (give light ofs)",הַמְּאֹרֹ֖ת,Hmp
 ,great,גְדוֹל|gedol,m,great,"הַ[גְדֹלִ]ים|ha[gedol]im|the [great]",הַגְּדֹלִ֑ים,Hmp
 "Gen 1:16 ב: the greater light to rule the day,",,,,,,,,
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
-,light,מָאוֹר|maor,m,"luminary (of light)","הַ[מָאוֹר]|ha[maor]|the [luminary] (of light)",הַמָּא֤וֹר,Hms
+,light,מָאוֹר|maor,m,"luminary (give light of)","הַ[מָאוֹר]|ha[maor]|the [luminary] (give light of)",הַמָּא֤וֹר,Hms
 ,greater,גְדוֹל|gedol,m,great,"הַ[גְדֹל]|ha[gedol]|the [great]",הַגָּדֹל֙,Hms
-,rule,מֶמְשָׁלָה|memshalah,b,"of be ruling","לְ[מֶמְשָׁלָת]|le[memshalat]|for [of] [be] [ruling]",לְמֶמְשֶׁ֣לֶת,Hbs
+,rule,מֶמְשָׁלָה|memshalah,b,"be ruling of","לְ[מֶמְשָׁלָת]|le[memshalat]|to [be] [ruling] [of]",לְמֶמְשֶׁ֣לֶת,Hbs
 ,day,יוֹם|yom,m,day,"הַ[יוֹם]|hai[yom]|the [day]",הַיּ֔וֹם,Hms
 "Gen 1:16 ג: and the lesser light to rule the night:",,,,,,,,
 ,and,אֵת|et,,even,"וְ[אֵת]־|ve[et]|and [even]",וְאֶת־,H
-,light,מָאוֹר|maor,m,"luminary (of light)","הַ[מָאוֹר]|ha[maor]|the [luminary] (of light)",הַמָּא֤וֹר,Hms
+,light,מָאוֹר|maor,m,"luminary (give light of)","הַ[מָאוֹר]|ha[maor]|the [luminary] (give light of)",הַמָּא֤וֹר,Hms
 ,lesser,קְטַן|ketan,m,lesser,"הַ[קְטַן]|ha[ketan]|the [lesser]",הַקָּטֹן֙,Hms
-,rule,מֶמְשָׁלָה|memshalah,b,"of be ruling","לְ[מֶמְשָׁלָת]|le[memshalat]|for [of] [be] [ruling]",לְמֶמְשֶׁ֣לֶת,Hbs
+,rule,מֶמְשָׁלָה|memshalah,b,"be ruling of","לְ[מֶמְשָׁלָת]|le[memshalat]|to [be] [ruling] [of]",לְמֶמְשֶׁ֣לֶת,Hbs
 ,night,לַילָה|laiylah,m,night,"הַ[לַילָה]|ha[laiylah]|the [night]",הַלַּ֔יְלָה,Hms
 "Gen 1:16 ד: [he made] the stars also.",,,,,,,,
 ,,אֵת|et,,even,"וְ[אֵת]|ve[et]|and [even]",וְאֵ֖ת,H
@@ -349,7 +349,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 1:22 ד: and let fowl multiply in the earth.",,,,,,,,
 ,fowl,עוֹף|of,m,"bird (flying)","וְהַ[עוֹף]|veha[of]|and the [bird] (flying)",וְהָע֖וֹף,Hms
 ,multiply,רָבֹה|ravoh,V,exceed,"יִ[רְב]|yi[rev]|let him [exceed]",יִ֥רֶב,HVjSA3ms
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]׃|be[aretz]|in [earth] (land)",בָּאָֽרֶץ׃,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]׃|be[aretz]|on [earth] (land)",בָּאָֽרֶץ׃,Hbs
 "Gen 1:23 א: And the evening and the morning were the fifth day.",,,,,,,,
 ,were,הָיֹה|haiyoh,V,exist,"וַיְ[הִי]־|vaiye[hi]|and he [exist]",וַֽיְהִי־,HViSA3ms
 ,evening,עָרְב|arev,m,"evening (get dark)","[עָרְב]|[arev]|[evening] (get dark)",עֶ֥רֶב,Hms
@@ -609,7 +609,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,field,שָׂדֶה|sadeh,m,field,"הַ[שָׂדֶה]|ha[sadeh]|the [field]",הַשָּׂדֶ֗ה,Hms
 ,before,טֶרֶם|terem,,before,[טֶרֶם]|[terem]|[before],טֶ֚רֶם,H
 ,was,הָיֹה|haiyoh,V,exist,"יְ[הִיה]|ye[hih]|he [exist]",יִֽהְיֶ֣ה,HViSA3ms
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|in [earth] (land)",בָאָ֔רֶץ,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|on [earth] (land)",בָאָ֔רֶץ,Hbs
 "Gen 2:5 ב: and every herb of the field before it grew:",,,,,,,,
 ,every,כָּל|kal,m,all,"וְ[כָּל]־|ve[kal]|and [all]",וְכָל־,Hms
 ,herb,עֵשֶׂב|esev,m,herb,[עֵשֶׂב]|[esev]|[herb],עֵ֥שֶׂב,Hms
@@ -684,10 +684,10 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,every,כָּל|kal,m,all,[כָּל]־|[kal]|[all],כָּל־,Hms
 ,tree,עֵץ|etz,m,"tree (make firm)","[עֵץ]|[etz]|[tree] (make firm)",עֵ֛ץ,Hms
 ,"be pleasant",חָמֹד|chamod,V,"seek after","נֶ[חְמָד]|ne[chmad]|being [sought] [after]",נֶחְמָ֥ד,HVrSPmsa
-,sight,מַרְאֶה|mareh,m,"appearance (of seeing)","לְ[מַרְאֶה]|le[mareh]|for [appearance] (of seeing)",לְמַרְאֶ֖ה,Hms
+,sight,מַרְאֶה|mareh,m,"appearance (seeing of)","לְ[מַרְאֶה]|le[mareh]|for [appearance] (seeing of)",לְמַרְאֶ֖ה,Hms
 "Gen 2:9 ג: and good for food;",,,,,,,,
 ,good,טוֹב|tov,m,good,"וְ[טוֹב]|ve[tov]|and [good]",וְט֣וֹב,Hms
-,food,מַאֲכָל|maachal,m,"of food (of eating)","לְ[מַאֲכָל]|le[maachal]|for [of] [food] (of eating)",לְמַאֲכָ֑ל,Hms
+,food,מַאֲכָל|maachal,m,"food (eating) of","לְ[מַאֲכָל]|le[maachal]|for [food] (eating) [of]",לְמַאֲכָ֑ל,Hms
 "Gen 2:9 ד: the tree of life also in the midst of the garden,",,,,,,,,
 ,tree,עֵץ|etz,m,"tree (make firm)","וְ[עֵץ]|ve[etz]|and [tree] (make firm)",וְעֵ֤ץ,Hms
 ,life,חַי|chai,m,life,"הַ[חַיִ]ים|ha[chaiy]im|the [life]",הַֽחַיִּים֙,Hmp
@@ -815,7 +815,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,good,טוֹב|tov,m,good,[טוֹב]|[tov]|[good],ט֛וֹב,Hms
 ,"should be",הָיֹה|haiyoh,V,exist,[הְי]וֹת|[hei]ot|[exist],הֱי֥וֹת,HVcSA
 ,man,אָדָם|adam,m,"human being","הַ[אָדָם]|ha[adam]|the [human] [being]",הָֽאָדָ֖ם,Hms
-,alone,בַד|vad,m,aloneness,"לְ[בַד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֑וֹ,Hms
+,alone,בָד|vad,m,aloneness,"לְ[בָד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֑וֹ,Hms
 "Gen 2:18 ג: I will make him an help meet for him.",,,,,,,,
 ,make,עָשֹׂה|asoh,V,make,"אֶ[עֱשַׂה]־|e[esah]|I [make]",אֶֽעֱשֶׂהּ־,HViSA1cs
 ,,|,,,"לוֹ|lo|for him",לּ֥וֹ,
@@ -951,7 +951,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,wife,אִשָׁה|ishah,f,woman,"וְ[אִשַׁ]תוֹ|ve[isha]to|and [woman] him",וְאִשְׁתּ֑וֹ,Hfs
 "Gen 2:25 ג: and were not ashamed.",,,,,,,,
 ,not,לֹא|lo,,not,"וְ[לֹא]|ve[lo]|and [not]",וְלֹ֖א,H
-,"be ashamed",בּוֹשׁ|bosh,V,"be ashamed","יִתְ[בֹּשָׁש]וּ׃|yit[boshash]u|they make themselves [ashamed] !",יִתְבֹּשָֽׁשׁוּ׃,HViIR3mp
+,"be ashamed",בוֹשׁ|vosh,V,"be ashamed","יִתְ[בֹשָׁש]וּ׃|yit[voshash]u|they make themselves [ashamed] !",יִתְבֹּשָֽׁשׁוּ׃,HViIR3mp
 "Gen 3:1 א: Now the serpent was more subtil than any beast of the field",,,,,,,,
 ,serpent,נָחָשׁ|nachash,m,"serpent (soothsaying)","וְהַ[נָחָשׁ]|veha[nachash]|and the [serpent] (soothsaying)",וְהַנָּחָשׁ֙,Hms
 ,was,הָיֹה|haiyoh,V,exist,"[הָיַה]|[haiyah]|he [exist]",הָיָ֣ה,HVpSA3ms
@@ -1042,7 +1042,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,that,כִּי|ki,,that,[כִּי]|[ki]|[that],כִּ֣י,H
 ,good,טוֹב|tov,m,good,[טוֹב]|[tov]|[good],טוֹב֩,Hms
 ,tree,עֵץ|etz,m,"tree (make firm)","הַ[עֵץ]|ha[etz]|the [tree] (make firm)",הָעֵ֨ץ,Hms
-,food,מַאֲכָל|maachal,m,"of food (of eating)","לְ[מַאֲכָל]|le[maachal]|for [of] [food] (of eating)",לְמַאֲכָ֜ל,Hms
+,food,מַאֲכָל|maachal,m,"food (eating) of","לְ[מַאֲכָל]|le[maachal]|for [food] (eating) [of]",לְמַאֲכָ֜ל,Hms
 "Gen 3:6 ב: and that it [was] pleasant to the eyes,",,,,,,,,
 ,that,כִּי|ki,,that,"וְ[כִּי]|ve[ki]|and [that]",וְכִ֧י,H
 ,pleasant,תַאֲבָה|taavah,f,longing,[תַאוֹה]־|[taoh]|[longing],תַֽאֲוָה־,Hfs
@@ -1289,7 +1289,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,sweat,זֵעָה|zeah,f,sweat,"בְּ[זֵעַ]ת|be[zea]t|in [sweat]",בְּזֵעַ֤ת,Hfs
 ,face,אַף|af,m,nostril,"[אַפֵ]יךָ|[af]eicha|[nostrils] you (m)",אַפֶּ֨יךָ֙,Hmd
 ,eat,אָכֹל|achol,V,eat,"תֹ[אכֵל]|to[chel]|you [eat]",תֹּ֣אכַל,HViSA2ms
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶ֔חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶ֔חֶם,Hbs
 ,till,עַד|ad,,until,[עַד]|[ad]|[until],עַ֤ד,H
 ,return,שׁוֹב|shov,V,return,"[שׁוּב]ךָ|[shuv]cha|[return] you (m)",שֽׁוּבְךָ֙,HVcSA
 ,unto,אֵלֶי|elei,,unto,[אֵל]־|[el]|[unto],אֶל־,H
@@ -1580,7 +1580,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,fugitive,נוֹע|noa,V,shake,[נָע]|[na]|[shaking],נָ֥ע,HVrSAmsa
 ,vagabond,נוֹד|nod,V,waver,"וְ[נָד]|ve[nad]|and [wavering]",וָנָ֖ד,HVrSAmsa
 ,be,הָיֹה|haiyoh,V,exist,"תִ[הְיֶה]|ti[hyeh]|you [exist]",תִּֽהְיֶ֥ה,HViSA2ms
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]׃|be[aretz]|in [earth] (land)",בָאָֽרֶץ׃,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]׃|be[aretz]|on [earth] (land)",בָאָֽרֶץ׃,Hbs
 "Gen 4:13 א: And Cain said unto the LORD,",,,,,,,,
 ,say,אָמֹר|amor,V,say,"וַיֹ[אמֵר]|vaiyo[mer]|and he [say]",וַיֹּ֥אמֶר,HViSA3ms
 ,Cain,קַיִן|kaiyin,M,"Cain (acquired spearhead)","[קַיִן]|[kaiyin]|[Cain] (acquired spearhead)",קַ֖יִן,M
@@ -1588,7 +1588,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,LORD,יְהֹוָה|yehovah,M,"Yehovah (self existing)","[יְהֹוָה]|[yehovah]|[Yehovah] (self existing)",יְהוָ֑ה,M
 "Gen 4:13 ב: My punishment [is] greater than I can bear.",,,,,,,,
 ,greater,גְדוֹל|gedol,m,great,[גְדוֹל]|[gedol]|[great],גָּד֥וֹל,Hms
-,punishment,עֲוֹן|on,b,"consequence (twistedness) of","[עֲוֹנִ]י|[on]i|[consequence] (twistedness) [of] me",עֲוֺנִ֖י,Hbs
+,punishment,עֲוֹן|on,b,"of consequence (twistedness)","[עֲוֹנִ]י|[on]i|[of] [consequence] (twistedness) me",עֲוֺנִ֖י,Hbs
 ,bear,נָשֹׂא|naso,V,"lift up","מִ[נְשֹׂא]׃|mi[nso]|more than [lift] [up]",מִנְּשֹֽׂא׃,HVcSA
 "Gen 4:14 א: Behold, thou hast driven me out this day",,,,,,,,
 ,behold,הִן|hin,,"here be","[הִן]|[hin]|[here] [be]",הֵן֩,H
@@ -1606,7 +1606,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,be,הָיֹה|haiyoh,V,exist,"וְ[הֵיַי]תִי|ve[heiyaiy]ti|and I [exist]",וְהָיִ֜יתִי,HVpSA1cs
 ,fugitive,נוֹע|noa,V,shake,[נָע]|[na]|[shaking],נָ֤ע,HVrSAmsa
 ,vagabond,נוֹד|nod,V,waver,"וְ[נָד]|ve[nad]|and [wavering]",וָנָד֙,HVrSAmsa
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|in [earth] (land)",בָּאָ֔רֶץ,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|on [earth] (land)",בָּאָ֔רֶץ,Hbs
 "Gen 4:14 ה: and it shall come to pass, [that] every one that findeth me shall slay me.",,,,,,,,
 ,"come to pass",הָיֹה|haiyoh,V,exist,"וְ[הָיַה]|ve[haiyah]|and he [exist]",וְהָיָ֥ה,HVpSA3ms
 ,"every one",כָּל|kal,m,any,[כָּל]־|[kal]|[any],כָל־,Hms
@@ -2288,11 +2288,11 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,face,פָּן|pan,b,face,[פָּנֵ]י|[pan]ei|[faces],פְּנֵ֣י,Hbp
 ,earth,אֲדָמָה|adamah,f,ground,"הַ[אֲדָמָה]|ha[adamah]|the [ground]",הָֽאֲדָמָ֑ה,Hfs
 "Gen 6:1 ב: and daughters were born unto them,",,,,,,,,
-,daughter,בֵּנָה|benah,f,daughter,"וּ[בֵּנ]וֹת|u[ben]ot|that [daughters]",וּבָנ֖וֹת,Hfp
+,daughter,בֵּנָה|benah,f,daughter,"וּ[בֵּנ]וֹת|u[ben]ot|and [daughters]",וּבָנ֖וֹת,Hfp
 ,"be born",יָלֹד|yalod,V,bear,"[יֻלַד]וּ|[yulad]u|they be [born] !",יֻלְּד֥וּ,HVpIP3cp
 ,,|,,,"לְהֶם׃|lehem|to them (m)",לָהֶֽם׃,
 "Gen 6:2 א: That the sons of God saw the daughters of men",,,,,,,,
-,see,רָאֹה|raoh,V,see,"וַיִ[רְא]וּ|vaiyi[r]u|and they [see]",וַיִּרְא֤וּ,HViSA3mp
+,see,רָאֹה|raoh,V,see,"וַיִ[רְא]וּ|vaiyi[r]u|that they [see]",וַיִּרְא֤וּ,HViSA3mp
 ,son,בֵּן|ben,m,son,[בֵּנֵ]י־|[ben]ei|[sons],בְנֵי־,Hmp
 ,God,אֱלֹה|eloh,M,"God (mighty one)","הַ[אֱלֹהִ]ים|ha[eloh]im|the [God] (mighty one)",הָֽאֱלֹהִים֙,Mp
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
@@ -2332,7 +2332,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 6:4 א: There were giants in the earth in those days;",,,,,,,,
 ,giants,נְפִלִים|nefilim,M,"Nephilim (fallen)","הַ[נְפִלִים]|ha[nefilim]|the [Nephilim] (fallen)",הַנְּפִלִ֞ים,M
 ,were,הָיֹה|haiyoh,V,exist,"[הָי]וּ|[haiy]u|they [exist]",הָי֣וּ,HVpSA3cp
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|in [earth] (land)",בָאָרֶץ֮,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|on [earth] (land)",בָאָרֶץ֮,Hbs
 ,day,יוֹם|yom,m,day,"בְּ[יֹמִ]ים|bei[yom]im|in [days]",בַּיָּמִ֣ים,Hmp
 ,those,הֵם|hem,m,they,"הַ[הֵם]|ha[hem]|the [they]",הָהֵם֒,Hmp
 "Gen 6:4 ב: and also after that,",,,,,,,,
@@ -2348,7 +2348,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,daughter,בֵּנָה|benah,f,daughter,[בֵּנ]וֹת|[ben]ot|[daughters],בְּנ֣וֹת,Hfp
 ,man,אָדָם|adam,m,"human being","הַ[אָדָם]|ha[adam]|the [human] [being]",הָֽאָדָ֔ם,Hms
 "Gen 6:4 ד: and they bare [children] to them, the same [became] mighty men",,,,,,,,
-,bare,יָלֹד|yalod,V,bear,"וַ[יָלַד]וּ|vai[yalad]u|and they [bear]",וְיָלְד֖וּ,HVpSA3cp
+,bare,יָלֹד|yalod,V,bear,"וַ[יָלַד]וּ|vai[yalad]u|that they [bear]",וְיָלְד֖וּ,HVpSA3cp
 ,,|,,,"לְהֶם|lehem|to them (m)",לָהֶ֑ם,
 ,"the same",הֵמָה|hemah,m,"they them (m)","[הֵמָה]|[hemah]|[they] [them] (m)",הֵ֧מָּה,Hmp
 ,mighty,גִבּוֹר|gibor,m,mighty,"הַ[גִבֹּרִ]ים|ha[gibor]im|the [mighty]",הַגִּבֹּרִ֛ים,Hmp
@@ -2365,11 +2365,11 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,great,רַבָה|ravah,f,abundant,[רַבָה]|[ravah]|[abundant],רַבָּ֛ה,Hfs
 ,wickedness,רָעָה|raah,f,evil,[רָעַ]ת|[raa]t|[evil],רָעַ֥ת,Hfs
 ,man,אָדָם|adam,m,"human being","הַ[אָדָם]|ha[adam]|the [human] [being]",הָאָדָ֖ם,Hms
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|in [earth] (land)",בָּאָ֑רֶץ,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|on [earth] (land)",בָּאָ֑רֶץ,Hbs
 "Gen 6:5 ב: and [that] every imagination of the thoughts of his heart",,,,,,,,
 ,every,כָּל|kal,m,all,"וְ[כָּל]־|ve[kal]|and [all]",וְכָל־,Hms
 ,imagination,יֵצֶר|yetzer,m,forming,[יֵצֶר]|[yetzer]|[forming],יֵ֨צֶר֙,Hms
-,thoughts,מַחְשְׁבָה|machshevah,f,"of weaving","[מַחְשְׁבֹ]ת|[machshevo]t|[of] [weavings]",מַחְשְׁבֹ֣ת,Hfp
+,thoughts,מַחְשְׁבָה|machshevah,f,"weaving of","[מַחְשְׁבֹ]ת|[machshevo]t|[weavings] [of]",מַחְשְׁבֹ֣ת,Hfp
 ,heart,לֵב|lev,m,heart,"[לֵב]וֹ|[lev]o|[heart] him",לִבּ֔וֹ,Hms
 "Gen 6:5 ג: [was] only evil continually.",,,,,,,,
 ,only,רַק|rak,,"be only","[רַק]|[rak]|[be] [only]",רַ֥ק,H
@@ -2383,7 +2383,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,make,עָשֹׂה|asoh,V,make,"[עָשַׂה]|[asah]|he [make]",עָשָׂ֥ה,HVpSA3ms
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
 ,man,אָדָם|adam,m,"human being","הַ[אָדָם]|ha[adam]|the [human] [being]",הָֽאָדָ֖ם,Hms
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|in [earth] (land)",בָּאָ֑רֶץ,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|on [earth] (land)",בָּאָ֑רֶץ,Hbs
 "Gen 6:6 ב: and it grieved him at his heart.",,,,,,,,
 ,grieve,עָצֹב|atzov,V,grieve,"וַיִתְ[עַצֵב]|vaiyit[atzev]|and he [grieve] ! himself",וַיִּתְעַצֵּ֖ב,HViIR3ms
 ,at,אֵלֶי|elei,,unto,[אֵל]־|[el]|[unto],אֶל־,H
@@ -2575,7 +2575,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 6:17 ג: [and] every thing that [is] in the earth shall die.",,,,,,,,
 ,"every thing",כָּל|kal,m,all,[כָּל]|[kal]|[all],כֹּ֥ל,Hms
 ,that,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]־|[asher]|[then] [that]",אֲשֶׁר־,H
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|in [earth] (land)",בָּאָ֖רֶץ,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|on [earth] (land)",בָּאָ֖רֶץ,Hbs
 ,die,גָוֹע|goa,V,expire,"יִ[גְוַע]׃|yi[gva]|he [expire]",יִגְוָֽע׃,HViSA3ms
 "Gen 6:18 א: But with thee will I establish my covenant;",,,,,,,,
 ,establish,קוֹם|kom,V,"rise up","וְהֶ[קִמְ]תִי|vehe[kim]ti|and I do [rise] [up]",וַהֲקִמֹתִ֥י,HVpCA1cs
@@ -2635,7 +2635,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,take,לָקֹח|lakoach,V,take,"[קַח]־|[kach]|[take] you",קַח־,HVvSA2ms
 ,,|,,,"לְךָ|lecha|to you (m)",לְךָ֗,
 ,all,כָּל|kal,m,all,"מִ[כָּל]־|mi[kal]|from [all]",מִכָּל־,Hms
-,food,מַאֲכָל|maachal,m,"of food (of eating)","[מַאֲכָל]|[maachal]|[of] [food] (of eating)",מַֽאֲכָל֙,Hms
+,food,מַאֲכָל|maachal,m,"food (eating) of","[מַאֲכָל]|[maachal]|[food] (eating) [of]",מַֽאֲכָל֙,Hms
 ,that,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֣ר,H
 ,eat,אָכֹל|achol,V,eat,"יֵ[אָכֵל]|ye[achel]|he be [eaten]",יֵֽאָכֵ֔ל,HViSP3ms
 "Gen 6:21 ב: and thou shalt gather [it] to thee;",,,,,,,,
@@ -2841,7 +2841,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 7:11 ה: were all the fountains of the great deep broken up,",,,,,,,,
 ,"be broken up",בָּקֹע|bakoa,V,"split open","נִ[בְּקַע]וּ|ni[beka]u|they be [split] [open]",נִבְקְעוּ֙,HVpSP3cp
 ,all,כָּל|kal,m,all,[כָּל]־|[kal]|[all],כָּֽל־,Hms
-,fountain,מַעְיָן|mayan,m,"of spring (of eye)","[מַעְיָנֹ]ת|[mayan]ot|[of] [springs] (of eyes)",מַעְיְנֹת֙,Hmp
+,fountain,מַעְיָן|mayan,m,"spring (eye) of","[מַעְיָנֹ]ת|[mayan]ot|[springs] (eyes) [of]",מַעְיְנֹת֙,Hmp
 ,deep,תְהוֹם|tehom,b,deep,[תְהוֹם]|[tehom]|[deep],תְּה֣וֹם,Hbs
 ,great,רַבָה|ravah,f,abundant,[רַבָה]|[ravah]|[abundant],רַבָּ֔ה,Hfs
 "Gen 7:11 ו: and the windows of heaven were opened.",,,,,,,,
@@ -3095,7 +3095,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,water,מַיִם|maiyim,m,waters,"הַ[מַ]יִם׃|ha[mai]yim|the [waters]",הַמָּֽיִם׃,Hmd
 "Gen 8:2 א: The fountains also of the deep [...] were stopped,",,,,,,,,
 ,"be stopped",סָכֹר|sachor,V,"shut off","וַיִ[סֳכְר]וּ|vaiyi[sachr]u|and they be [shut] [off]",וַיִּסָּֽכְרוּ֙,HViSP3mp
-,fountain,מַעְיָן|mayan,m,"of spring (of eye)","[מַעְיָנֹ]ת|[mayan]ot|[of] [springs] (of eyes)",מַעְיְנֹ֣ת,Hmp
+,fountain,מַעְיָן|mayan,m,"spring (eye) of","[מַעְיָנֹ]ת|[mayan]ot|[springs] (eyes) [of]",מַעְיְנֹ֣ת,Hmp
 ,deep,תְהוֹם|tehom,b,deep,[תְהוֹם]|[tehom]|[deep],תְּה֔וֹם,Hbs
 "Gen 8:2 ב: and the windows of heaven",,,,,,,,
 ,window,אֲרֻבָּה|arubah,f,"hatch (making ambush)","וְ[אֲרֻבֹּ]ת|ve[arubo]t|and [hatches] (making ambush)",וַֽאֲרֻבֹּ֖ת,Hfp
@@ -3275,7 +3275,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,hundredth,מֵאָה|meah,b,"hundred (100)","[מֵא]וֹת|[me]ot|[hundreds] (100's)",מֵא֜וֹת,Hbp
 ,year,שְׁנָה|shenah,f,year,[שְׁנָה]|[shenah]|[year],שָׁנָ֗ה,Hfs
 "Gen 8:13 ב: in the first [month], the first [day] of the month,",,,,,,,,
-,first,רִאשׁוֹן|rishon,m,first,"בְּ[רִאשׁוֹן]|be[rishon]|in [first]",בָּֽרִאשׁוֹן֙,Hms
+,first,רִאשׁוֹן|rishon,m,"first (head of)","בְּ[רִאשׁוֹן]|be[rishon]|in [first] (head of)",בָּֽרִאשׁוֹן֙,Hms
 ,first,אֶחָד|echad,m,"first (1st)","בְּ[אֶחָד]|be[echad]|in [first] (1st)",בְּאֶחָ֣ד,Hms
 ,month,חֹדֶשׁ|chodesh,m,"new moon (renewing)","לְ[חֹדֶשׁ]|le[chodesh]|to [new] [moon] (renewing)",לַחֹ֔דֶשׁ,Hms
 "Gen 8:13 ג: the waters were dried up from off the earth:",,,,,,,,
@@ -3287,7 +3287,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,remove,סוֹר|sor,V,"be turned aside","וַיַ[סִר]|vaiya[sir]|and he make [turned] [aside]",וַיָּ֤סַר,HViCA3ms
 ,Noah,נֹח|noach,M,"Noah (be made at rest)","[נֹח]|[noach]|[Noah] (be made at rest)",נֹ֨חַ֙,M
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
-,covering,מִכְסֵה|michseh,m,"of covering","[מִכְסֵה]|[michseh]|[of] [covering]",מִכְסֵ֣ה,Hms
+,covering,מִכְסֵה|michseh,m,"covering of","[מִכְסֵה]|[michseh]|[covering] [of]",מִכְסֵ֣ה,Hms
 ,ark,תֵבָה|tevah,f,boat,"הַ[תֵבָה]|ha[tevah]|the [boat]",הַתֵּבָ֔ה,Hfs
 "Gen 8:13 ה: and looked, and, behold, the face of the ground was dry.",,,,,,,,
 ,look,רָאֹה|raoh,V,see,"וַיִ[רְא]|vaiyi[r]|and he [see]",וַיַּ֕רְא,HViSA3ms
@@ -3344,7 +3344,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,with,אֵת|et,,"along with","[אֵתְ]ךְ|[et]ech|[along] [with] you (f)",אִתָּ֑ךְ,H
 "Gen 8:17 ד: that they may breed abundantly in the earth, and be fruitful,",,,,,,,,
 ,"breed abundantly",שָׁרֹץ|sharotz,V,swarm,"וְ[שָׁרַצ]וּ|ve[sharatz]u|that they [swarm]",וְשָֽׁרְצ֣וּ,HVpSA3cp
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|in [earth] (land)",בָאָ֔רֶץ,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|on [earth] (land)",בָאָ֔רֶץ,Hbs
 ,"be fruitful",פָרֹה|faroh,V,"be fruitful","וְ[פָר]וּ|ve[far]u|and they [be] [fruitful]",וּפָר֥וּ,HVpSA3cp
 "Gen 8:17 ה: and multiply upon the earth.",,,,,,,,
 ,multiply,רָבֹה|ravoh,V,exceed,"וְ[רָב]וּ|ve[rav]u|and they [exceed]",וְרָב֖וּ,HVpSA3cp
@@ -3562,7 +3562,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,multiply,רָבֹה|ravoh,V,exceed,"וּ[רְב]וּ|u[rev]u|and [exceed] you all",וּרְב֑וּ,HVvSA2mp
 "Gen 9:7 ב: bring forth abundantly in the earth, and multiply therein.",,,,,,,,
 ,"bring forth abundantly",שָׁרֹץ|sharotz,V,swarm,"[שְׁרַצ]וּ|[sheratz]u|[swarm] you all",שִׁרְצ֥וּ,HVvSA2mp
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|in [earth] (land)",בָאָ֖רֶץ,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|on [earth] (land)",בָאָ֖רֶץ,Hbs
 ,multiply,רָבֹה|ravoh,V,exceed,"וּ[רְב]וּ־|u[rev]u|and [exceed] you all",וּרְבוּ־,HVvSA2mp
 ,,|,,,"בָּה׃ס|bah|in her",בָֽהּ׃ס,
 "Gen 9:8 א: And God spake unto Noah,",,,,,,,,
@@ -3763,7 +3763,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Noah,נֹח|noach,M,"Noah (be made at rest)","[נֹח]|[noach]|[Noah] (be made at rest)",נֹ֑חַ,M
 "Gen 9:19 ב: and of them was the whole earth overspread.",,,,,,,,
 ,them,אֵלֶה|eleh,c,"these here","וּמִ[אֵלֶה]|umi[eleh]|and from [these] [here]",וּמֵאֵ֖לֶּה,Hcp
-,"be overspread",נָפֹץ|nafotz,V,"be scattered","[נָפַצָ]ה|[nafatza]h|she [be] [scattered]",נָֽפְצָ֥ה,HVpSA3fs
+,"be overspread",נָפֹּץ|napotz,V,"be scattered","[נָפַּצָ]ה|[napatza]h|she [be] [scattered]",נָֽפְצָ֥ה,HVpSA3fs
 ,whole,כָּל|kal,m,all,[כָּל]־|[kal]|[all],כָל־,Hms
 ,earth,אָרֶץ|aretz,b,"earth (land)","הַ[אָרֶץ]׃|ha[aretz]|the [earth] (land)",הָאָֽרֶץ׃,Hbs
 "Gen 9:20 א: And Noah began [to be] an husbandman,",,,,,,,,
@@ -3913,7 +3913,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Japheth,יָפֶּת|yapet,M,"Japheth (he open wide)","[יָפֶּת]|[yapet]|[Japheth] (he open wide)",יֶ֔פֶת,M
 "Gen 10:2 ב: Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",,,,,,,,
 ,Gomer,גֹמֶר|gomer,M,"Gomer (be brought to an end)","[גֹמֶר]|[gomer]|[Gomer] (be brought to an end)",גֹּ֣מֶר,M
-,Magog,מָגוֹג|magog,M,"Magog (of pierced feet)","וּ[מָגוֹג]|u[magog]|and [Magog] (of pierced feet)",וּמָג֔וֹג,M
+,Magog,מָגוֹג|magog,M,"Magog (pierced feet of)","וּ[מָגוֹג]|u[magog]|and [Magog] (pierced feet of)",וּמָג֔וֹג,M
 ,Madai,מָדַי|madai,M,"Medes (appraising me)","וּ[מָדַי]|u[madai]|and [Medes] (appraising me)",וּמָדַ֖י,M
 ,Javan,יָוָן|yavan,M,"Javan (intoxicated)","וַ[יָוָן]|vai[yavan]|and [Javan] (intoxicated)",וְיָוָ֣ן,M
 ,Tubal,תוּבַל|tuval,M,"Tubal (you cause to be borne along)","וְ[תֻבַל]|ve[tuval]|and [Tubal] (you cause to be borne along)",וְתֻבָ֑ל,M
@@ -3978,7 +3978,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,begin,חָלֹל|chalol,V,start,"הֵ[חְל]|he[chel]|he do [start]",הֵחֵ֔ל,HVpCA3ms
 ,be,הָיֹה|haiyoh,V,exist,"לְ[הְי]וֹת|le[hei]ot|to [exist]",לִֽהְי֥וֹת,HVcSA
 ,mighty,גִבּוֹר|gibor,m,mighty,[גִבֹּר]|[gibor]|[mighty],גִּבֹּ֖ר,Hms
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]׃|be[aretz]|in [earth] (land)",בָּאָֽרֶץ׃,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]׃|be[aretz]|on [earth] (land)",בָּאָֽרֶץ׃,Hbs
 "Gen 10:9 א: He was a mighty hunter before the LORD:",,,,,,,,
 ,he,הוּא|hu,m,he,[הוּא]־|[hu]|[he],הֽוּא־,Hms
 ,was,הָיֹה|haiyoh,V,exist,"[הָיַה]|[haiyah]|he [exist]",הָיָ֥ה,HVpSA3ms
@@ -3999,7 +3999,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 10:10 א: And the beginning of his kingdom was Babel,",,,,,,,,
 ,was,הָיֹה|haiyoh,V,exist,"וְתִ[הְי]|veti[hy]|and she [exist]",וַתְּהִ֨י,HViSA3fs
 ,beginning,רֵאשִׁית|reshit,f,beginning,[רֵאשִׁית]|[reshit]|[beginning],רֵאשִׁ֤ית,Hfs
-,kingdom,מַמְלָכָה|mamlachah,f,"of kingdom","[מַמְלָכַ]תוֹ|[mamlacha]to|[of] [kingdom] him",מַמְלַכְתּוֹ֙,Hfs
+,kingdom,מַמְלָכָה|mamlachah,f,"kingdom of","[מַמְלָכַ]תוֹ|[mamlacha]to|[kingdom] [of] him",מַמְלַכְתּוֹ֙,Hfs
 ,Babel,בָּבֶל|bavel,M,"Babylon (mixed up)","[בָּבֶל]|[bavel]|[Babylon] (mixed up)",בָּבֶ֔ל,M
 "Gen 10:10 ב: and Erech, and Accad, and Calneh,",,,,,,,,
 ,Erech,אֶרֶך|erech,M,"Erech (long)","וְ[אֶרֶך]|ve[erech]|and [Erech] (long)",וְאֶ֖רֶךְ,M
@@ -4101,7 +4101,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Hamathite,חֲמָתִי|chamati,M,"Hamathite (walled)","הַ[חֲמָתִי]|ha[chamati]|the [Hamathite] (walled)",הַֽחֲמָתִ֑י,M
 "Gen 10:18 ד: and afterward were the families of the Canaanites spread abroad.",,,,,,,,
 ,afterward,אַחֲר|achar,,after,"וְ[אַחֲר]|ve[achar]|and [after]",וְאַחַ֣ר,H
-,"spread abroad",פּוֹץ|potz,V,"scatter abroad","נָ[פֹּצ]וּ|na[potz]u|they be [scattered] [abroad]",נָפֹ֔צוּ,HVpSP3cp
+,"spread abroad",פוֹץ|fotz,V,"scatter abroad","נָ[פֹצ]וּ|na[fotz]u|they be [scattered] [abroad]",נָפֹ֔צוּ,HVpSP3cp
 ,family,מִשְׁפָּחָה|mishpachah,f,family,[מִשְׁפָּח]וֹת|[mishpach]ot|[families],מִשְׁפְּח֖וֹת,Hfp
 ,Canaanite,כְּנַעַנִי|kenaani,M,"Canaanite (be subdued you them)","הַ[כְּנַעַנִי]׃|ha[kenaani]|the [Canaanite] (be subdued you them)",הַֽכְּנַעֲנִֽי׃,M
 "Gen 10:19 א: And the border of the Canaanites was from Sidon,",,,,,,,,
@@ -4231,7 +4231,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Joktan,יֻקְטָן|yuktan,M,"Joktan (he cause to be made lesser)","[יֻקְטָן]׃|[yuktan]|[Joktan] (he cause to be made lesser)",יָקְטָֽן׃,M
 "Gen 10:30 א: And their dwelling was",,,,,,,,
 ,was,הָיֹה|haiyoh,V,exist,"וַיְ[הִי]|vaiye[hi]|and he [exist]",וַֽיְהִ֥י,HViSA3ms
-,dwelling,מוֹשֵׁב|moshev,m,"dwelling (of sitting down)","[מוֹשֵׁבָ]ם|[moshev]am|[dwelling] (of sitting down) them (m)",מוֹשָׁבָ֖ם,Hms
+,dwelling,מוֹשֵׁב|moshev,m,"dwelling (settle you of)","[מוֹשֵׁבָ]ם|[moshev]am|[dwelling] (settle you of) them (m)",מוֹשָׁבָ֖ם,Hms
 "Gen 10:30 ב: from Mesha, as thou goest unto Sephar",,,,,,,,
 ,Mesha,מִישָׁא|misha,M,"Mesha (she withdraw)","מִ[מִשָׁא]|mi[misha]|from [Mesha] (she withdraw)",מִמֵּשָׁ֑א,M
 ,go,בּוֹא|bo,V,come,"[בֻּא]כָה|[bu]chah|[come] you (m)",בֹּאֲכָ֥ה,HVcSA
@@ -4260,7 +4260,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,these,אֵלֶה|eleh,c,"these here","וּמִ[אֵלֶה]|umi[eleh]|and from [these] [here]",וּמֵאֵ֜לֶּה,Hcp
 ,divide,פָּרֹד|parod,V,separate,"נִ[פְּרַד]וּ|ni[perad]u|they be [separated]",נִפְרְד֧וּ,HVpSP3cp
 ,nation,גוֹי|goy,m,"nation (being risen)","הַ[גוֹיִ]ם|ha[goy]im|the [nations] (being risen)",הַגּוֹיִ֛ם,Hmp
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|in [earth] (land)",בָּאָ֖רֶץ,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|on [earth] (land)",בָּאָ֖רֶץ,Hbs
 ,after,אַחֲר|achar,,after,[אַחֲר]|[achar]|[after],אַחַ֥ר,H
 ,flood,מַבּוּל|mabul,m,"flood (be bearing along)","הַ[מַבּוּל]׃פ|ha[mabul]|the [flood] (be bearing along)",הַמַּבּֽוּל׃פ,Hms
 "Gen 11:1 א: And the whole earth",,,,,,,,
@@ -4324,7 +4324,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,name,שֵׁם|shem,m,name,[שֵׁם]|[shem]|[name],שֵׁ֑ם,Hms
 "Gen 11:4 ה: lest we be scattered abroad upon the face of the whole earth.",,,,,,,,
 ,lest,פֵּן|pen,,lest,[פֵּן]־|[pen]|[lest],פֶּן־,H
-,"scatter abroad",פּוֹץ|potz,V,"scatter abroad","נָ[פּוּץ]|na[putz]|we [scatter] [abroad]",נָפ֖וּץ,HViSA1cp
+,"scatter abroad",פוֹץ|fotz,V,"scatter abroad","נָ[פוּץ]|na[futz]|we [scatter] [abroad]",נָפ֖וּץ,HViSA1cp
 ,upon,עַל|al,,upon,[עַל]־|[al]|[upon],עַל־,H
 ,face,פָּן|pan,b,face,[פָּנֵ]י|[pan]ei|[faces],פְּנֵ֥י,Hbp
 ,whole,כָּל|kal,m,all,[כָּל]־|[kal]|[all],כָל־,Hms
@@ -4382,7 +4382,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,speech,שְׂפָתָה|sefatah,f,"speech (lip)","[שְׂפָת]|[sefat]|[speech] (lip)",שְׂפַ֥ת,Hfs
 ,another,רֵע|rea,m,fellow,"[רֵעֵ]הוּ׃|[ree]hu|[fellow] him",רֵעֵֽהוּ׃,Hms
 "Gen 11:8 א: So the LORD scattered them abroad from thence",,,,,,,,
-,"scatter abroad",פּוֹץ|potz,V,"scatter abroad","וַיַ[פִּץ]|vaiya[pitz]|so he do [scatter] [abroad]",וַיָּ֨פֶץ,HViCA3ms
+,"scatter abroad",פוֹץ|fotz,V,"scatter abroad","וַיַ[פִץ]|vaiya[fitz]|so he do [scatter] [abroad]",וַיָּ֨פֶץ,HViCA3ms
 ,LORD,יְהֹוָה|yehovah,M,"Yehovah (self existing)","[יְהֹוָה]|[yehovah]|[Yehovah] (self existing)",יְהוָ֥ה,M
 ,,אֵת|et,,even,"[אֵתָ]ם|[et]am|[even] them (m)",אֹתָ֛ם,H
 ,thence,שָׁם|sham,,there,"מִ[שָׁם]|mi[sham]|from [there]",מִשָּׁ֖ם,H
@@ -4411,7 +4411,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,earth,אָרֶץ|aretz,b,"earth (land)","הַ[אָרֶץ]|ha[aretz]|the [earth] (land)",הָאָ֑רֶץ,Hbs
 "Gen 11:9 ג: and from thence did the LORD scatter them abroad upon the face of all the earth.",,,,,,,,
 ,thence,שָׁם|sham,,there,"וּמִ[שָׁם]|umi[sham]|and from [there]",וּמִשָּׁם֙,H
-,"scatter abroad",פּוֹץ|potz,V,"scatter abroad","הֶ[פִּיצָ]ם|he[pitz]am|he do [scatter] [abroad] them (m)",הֱפִיצָ֣ם,HVpCA3ms
+,"scatter abroad",פוֹץ|fotz,V,"scatter abroad","הֶ[פִיצָ]ם|he[fitz]am|he do [scatter] [abroad] them (m)",הֱפִיצָ֣ם,HVpCA3ms
 ,LORD,יְהֹוָה|yehovah,M,"Yehovah (self existing)","[יְהֹוָה]|[yehovah]|[Yehovah] (self existing)",יְהוָ֔ה,M
 ,upon,עַל|al,,upon,[עַל]־|[al]|[upon],עַל־,H
 ,face,פָּן|pan,b,face,[פָּנֵ]י|[pan]ei|[faces],פְּנֵ֖י,Hbp
@@ -4954,7 +4954,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,that,כִּי|ki,,that,[כִּי]|[ki]|[that],כִּ֛י,H
 ,woman,אִשָׁה|ishah,f,woman,[אִשָׁה]|[ishah]|[woman],אִשָּׁ֥ה,Hfs
 ,fair,יָפָה|yafah,f,beautiful,[יָפַ]ת־|[yafa]t|[beautiful],יְפַת־,Hfs
-,"to look upon",מַרְאֶה|mareh,m,"sight (of seeing)","[מַרְאֶה]|[mareh]|[sight] (of seeing)",מַרְאֶ֖ה,Hms
+,"to look upon",מַרְאֶה|mareh,m,"sight (seeing of)","[מַרְאֶה]|[mareh]|[sight] (seeing of)",מַרְאֶ֖ה,Hms
 ,thou,אָת|at,f,"you (f)","[אָת]׃|[at]|[you] (f)",אָֽתְּ׃,Hfs
 "Gen 12:12 א: Therefore it shall come to pass, when the Egyptians shall see thee,",,,,,,,,
 ,"come to pass",הָיֹה|haiyoh,V,exist,"וְ[הָיַה]|ve[haiyah]|and he [exist]",וְהָיָ֗ה,HVpSA3ms
@@ -5146,7 +5146,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,which,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]־|[asher]|[then] [that]",אֲשֶׁר־,H
 ,make,עָשֹׂה|asoh,V,make,"[עָשַׂה]|[asah]|he [make]",עָ֥שָׂה,HVpSA3ms
 ,there,שָׁם|sham,,there,[שָׁם]|[sham]|[there],שָׁ֖ם,H
-,first,רִאשׁוֹנָה|rishonah,f,first,"בְּ[רִאשֹׁנָה]|be[rishonah]|in [first]",בָּרִאשֹׁנָ֑ה,Hfs
+,first,רִאשׁוֹנָה|rishonah,f,"first (head of)","בְּ[רִאשֹׁנָה]|be[rishonah]|in [first] (head of)",בָּרִאשֹׁנָ֑ה,Hfs
 "Gen 13:4 ב: and there Abram called on the name of the LORD.",,,,,,,,
 ,call,קָרֹא|karo,V,call,"וַיִ[קְרַא]|vaiyi[kra]|and he [call]",וַיִּקְרָ֥א,HViSA3ms
 ,there,שָׁם|sham,,there,[שָׁם]|[sham]|[there],שָׁ֛ם,H
@@ -5720,7 +5720,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Salem,שָׁלֵם|shalem,M,"Salem (restore you)","[שָׁלֵם]|[shalem]|[Salem] (restore you)",שָׁלֵ֔ם,M
 "Gen 14:18 ב: brought forth bread and wine:",,,,,,,,
 ,"bring forth",יָצֹא|yatzo,V,"go out","הוֹ[צִיא]|ho[tzi]|he do [go] [out]",הוֹצִ֖יא,HVpCA3ms
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶ֣חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶ֣חֶם,Hbs
 ,wine,יַיִן|yaiyin,m,"wine (intoxication)","וַ[יַיִן]|vai[yaiyin]|and [wine] (intoxication)",וָיָ֑יִן,Hms
 "Gen 14:18 ג: and he [was] the priest of the most high God.",,,,,,,,
 ,he,הוּא|hu,m,he,"וְ[הוּא]|ve[hu]|and [he]",וְה֥וּא,Hms
@@ -5841,7 +5841,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Abram,אַבְרָם|avram,M,"Abram (father lifted up)","[אַבְרָם]|[avram]|[Abram] (father lifted up)",אַבְרָ֗ם,M
 "Gen 15:1 ד: I [am] thy shield,",,,,,,,,
 ,I,אָנֹכִי|anochi,c,I,[אָנֹכִי]|[anochi]|[I],אָנֹכִי֙,Hcs
-,shield,מָגִן|magin,b,"shield (of protection)","[מָגִן]|[magin]|[shield] (of protection)",מָגֵ֣ן,Hbs
+,shield,מָגִן|magin,b,"shield (be a protection of)","[מָגִן]|[magin]|[shield] (be a protection of)",מָגֵ֣ן,Hbs
 ,,|,,,"לְךְ|lech|to you (f)",לָ֔ךְ,
 "Gen 15:1 ה: [and] thy exceeding great reward.",,,,,,,,
 ,reward,שְׂכָר|sechar,m,"wage (hire you)","[שְׂכָר]ךָ|[sechar]cha|[wage] (hire you) you (m)",שְׂכָרְךָ֖,Hms
@@ -6076,7 +6076,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,for,כִּי|ki,,for,[כִּי]|[ki]|[for],כִּ֧י,H
 ,not,לֹא|lo,,not,[לֹא]־|[lo]|[not],לֹא־,H
 ,full,שָׁלֵם|shalem,m,"complete (restore you)","[שָׁלֵם]|[shalem]|[complete] (restore you)",שָׁלֵ֛ם,Hms
-,iniquity,עֲוֹן|on,b,"consequence (twistedness) of","[עֲוֹן]|[on]|[consequence] (twistedness) [of]",עֲוֺ֥ן,Hbs
+,iniquity,עֲוֹן|on,b,"of consequence (twistedness)","[עֲוֹן]|[on]|[of] [consequence] (twistedness)",עֲוֺ֥ן,Hbs
 ,Amorite,אֱמֹרִי|emori,M,"Amorite (sayers)","הַ[אֱמֹרִי]|ha[emori]|the [Amorite] (sayers)",הָאֱמֹרִ֖י,M
 ,yet,עַד|ad,,"even to","[עַד]־|[ad]|[even] [to]",עַד־,H
 ,,הֵנָה|henah,,hereunto,[הֵנָה]׃|[henah]|[hereunto],הֵֽנָּה׃,H
@@ -6539,7 +6539,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 17:8 ב: the land wherein thou art a stranger,",,,,,,,,
 ,,אֵת|et,,even,[אֵת]׀|[et]|[even],אֵ֣ת׀,H
 ,land,אָרֶץ|aretz,b,land,[אָרֶץ]|[aretz]|[land],אֶ֣רֶץ,Hbs
-,"wherein art a stranger",מְגוּר|megur,m,"of sojourning","[מְגֻרֵ]יךָ|[megur]eicha|[of] [sojournings] you (m)",מְגֻרֶ֗יךָ,Hmp
+,"wherein art a stranger",מְגוּר|megur,m,"sojourning of","[מְגֻרֵ]יךָ|[megur]eicha|[sojournings] [of] you (m)",מְגֻרֶ֗יךָ,Hmp
 "Gen 17:8 ג: all the land of Canaan,",,,,,,,,
 ,,אֵת|et,,even,[אֵת]|[et]|[even],אֵ֚ת,H
 ,all,כָּל|kal,m,all,[כָּל]־|[kal]|[all],כָּל־,Hms
@@ -6940,7 +6940,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 18:5 א: And I will fetch a morsel of bread,",,,,,,,,
 ,fetch,לָקֹח|lakoach,V,take,"וְאֶ[קַחָ]ה|vee[kacha]h|and let me [take]",וְאֶקְחָ֨ה,HVhSA1cs
 ,morsel,פַּת|pat,f,fragment,[פַּת]־|[pat]|[fragment],פַת־,Hfs
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶ֜חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶ֜חֶם,Hbs
 "Gen 18:5 ב: and comfort ye your hearts;",,,,,,,,
 ,comfort,סָעֹד|saod,V,sustain,"וּ[סְעַד]וּ|u[sead]u|and [sustain] you all",וְסַעֲד֤וּ,HVvSA2mp
 ,heart,לֵב|lev,m,heart,"[לֵב]כֶם|[lev]chem|[heart] you all (m)",לִבְּכֶם֙,Hms
@@ -6977,7 +6977,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 18:6 ד: knead [it], and make cakes upon the hearth.",,,,,,,,
 ,knead,לוֹשׁ|losh,V,knead,"[לוּשִׁ]י|[lush]i|[knead] you",ל֖וּשִׁי,HVvSA2fs
 ,make,עָשֹׂה|asoh,V,make,"וַ[עֲשִׂ]י|va[as]i|and [make] you",וַעֲשִׂ֥י,HVvSA2fs
-,"cake upon the hearth",עֻגָה|ugah,f,"bread on a stick (rotating)","[עֻג]וֹת׃|[ug]ot|[bread] [on] [sticks] (rotatings)",עֻגֽוֹת׃,Hfp
+,"cake upon the hearth",עֻגָה|ugah,f,"bread on a stick (she be rotated)","[עֻג]וֹת׃|[ug]ot|[bread] [on] [sticks] (she be rotateds)",עֻגֽוֹת׃,Hfp
 "Gen 18:7 א: And Abraham ran unto the herd,",,,,,,,,
 ,unto,אֵלֶי|elei,,unto,"וְ[אֵל]־|ve[el]|and [unto]",וְאֶל־,H
 ,herd,בָּקָר|bakar,b,"herd (he search)","הַ[בָּקָר]|ha[bakar]|the [herd] (he search)",הַבָּקָ֖ר,Hbs
@@ -7216,7 +7216,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,unto,אֵלֶי|elei,,unto,"[אֵלִ]י|[el]i|[unto] me",אֵלַ֖י,H
 "Gen 18:21 ג: they have done altogether",,,,,,,,
 ,do,עָשֹׂה|asoh,V,do,"[עָשׂ]וּ׀|[asu]|they [do]",עָשׂ֣וּ׀,HVpSA3cp
-,altogether,כָלָה|chalah,f,conclusiveness,[כָלָה]|[chalah]|[conclusiveness],כָּלָ֑ה,Hfs
+,altogether,כָּלָה|kalah,f,conclusiveness,[כָּלָה]|[kalah]|[conclusiveness],כָּלָ֑ה,Hfs
 "Gen 18:21 ד: and if not, I will know.",,,,,,,,
 ,if,אִם|im,,"if then","וְ[אִם]־|ve[im]|and [if] [then]",וְאִם־,H
 ,not,לֹא|lo,,not,[לֹא]|[lo]|[not],לֹ֖א,H
@@ -7491,7 +7491,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 19:3 ג: and he made them a feast,",,,,,,,,
 ,make,עָשֹׂה|asoh,V,make,"וַיַ[עֲשׂ]|vaiya[as]|and he [make]",וַיַּ֤עַשׂ,HViSA3ms
 ,,|,,,"לְהֶם|lehem|for them (m)",לָהֶם֙,
-,feast,מִשְׁתֶה|mishteh,m,"feast (of drinking)","[מִשְׁתֶה]|[mishteh]|[feast] (of drinking)",מִשְׁתֶּ֔ה,Hms
+,feast,מִשְׁתֶה|mishteh,m,"feast (drink you of)","[מִשְׁתֶה]|[mishteh]|[feast] (drink you of)",מִשְׁתֶּ֔ה,Hms
 "Gen 19:3 ד: and did bake unleavened bread,",,,,,,,,
 ,"unleavened bread",מַצָה|matzah,f,"unleavened bread","וּ[מַצ]וֹת|u[matz]ot|and [unleavened] [bread]",וּמַצּ֥וֹת,Hfp
 ,bake,אָפֹה|afoh,V,bake,"[אָפַה]|[afah]|he [bake]",אָפָ֖ה,HVpSA3ms
@@ -7734,7 +7734,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 19:15 ה: lest thou be consumed in the iniquity of the city.",,,,,,,,
 ,lest,פֵּן|pen,,lest,[פֵּן]־|[pen]|[lest],פֶּן־,H
 ,"be consumed",סָפֹה|safoh,V,amass,"תִ[סָפֵה]|ti[safeh]|you be [amassed]",תִּסָּפֶ֖ה,HViSP2ms
-,iniquity,עֲוֹן|on,b,"consequence (twistedness) of","בְּ[עֲוֹן]|be[on]|in [consequence] (twistedness) [of]",בַּעֲוֺ֥ן,Hbs
+,iniquity,עֲוֹן|on,b,"of consequence (twistedness)","בְּ[עֲוֹן]|be[on]|in [of] [consequence] (twistedness)",בַּעֲוֺ֥ן,Hbs
 ,city,עִיר|ir,f,"city (awaken you)","הַ[עִיר]׃|ha[ir]|the [city] (awaken you)",הָעִֽיר׃,Hfs
 "Gen 19:16 א: And while he lingered, the men laid hold upon his hand,",,,,,,,,
 ,linger,מָהֹה|mahoh,V,linger,"וַיִתְ[מַהֵמָה]׀|vaiyit[mahemah]|but he [linger] ! himself",וַֽיִּתְמַהְמָ֓הּ׀,HViIR3ms
@@ -7829,14 +7829,14 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,,שָׁם|sham,,there,"[שָׁמָ]ה|[sham]ah|[there] unto",שָׁ֖מָּה,H
 "Gen 19:20 ג: and it [is] a little one:",,,,,,,,
 ,it,הִוא|hiv,f,she,"וְ[הִיא]|ve[hi]|and [she]",וְהִ֣יא,Hfs
-,"little one",מִצְעָר|mitzar,m,"be of least bit","[מִצְעָר]|[mitzar]|[be] [of] [least] [bit]",מִצְעָ֑ר,Hms
+,"little one",מִצְעָר|mitzar,m,"be least bit of","[מִצְעָר]|[mitzar]|[be] [least] [bit] [of]",מִצְעָ֑ר,Hms
 "Gen 19:20 ד: Oh, let me escape thither,",,,,,,,,
 ,escape,מָלֹט|malot,V,"slip away","אֶ[מָלֵטָ]ה|e[maleta]h|let me be [slipped] [away]",אִמָּלְטָ֨ה,HVhSP1cs
 ,oh,נָא|na,,please,[נָא]|[na]|[please],נָּ֜א,H
 ,thither,שָׁם|sham,,there,"[שָׁמָ]ה|[sham]ah|[there] unto",שָׁ֗מָּה,H
 "Gen 19:20 ה: ([is] it not a little one?)",,,,,,,,
 ,not,לֹא|lo,,not,"הַ[לֹא]|ha[lo]|the [not]",הֲלֹ֥א,H
-,"little one",מִצְעָר|mitzar,m,"be of least bit","[מִצְעָר]|[mitzar]|[be] [of] [least] [bit]",מִצְעָ֛ר,Hms
+,"little one",מִצְעָר|mitzar,m,"be least bit of","[מִצְעָר]|[mitzar]|[be] [least] [bit] [of]",מִצְעָ֛ר,Hms
 ,it,הִוא|hiv,f,she,[הִוא]|[hiv]|[she],הִ֖וא,Hfs
 "Gen 19:20 ו: and my soul shall live.",,,,,,,,
 ,live,חָי|chai,V,live,"וְתִ[חִי]|veti[chi]|and she [live]",וּתְחִ֥י,HViSA3fs
@@ -8007,7 +8007,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Zoar,צֹעַר|tzoar,M,"Zoar (be made least)","בְּ[צוֹעַר]|be[tzoar]|in [Zoar] (be made least)",בְּצ֑וֹעַר,M
 "Gen 19:30 ה: and he dwelt in a cave,",,,,,,,,
 ,dwell,יָשֹׁב|yashov,V,"settle (sit down)","וַיִ[שַׁב]|vaiyi[shav]|and he [settle] (sit down)",וַיֵּ֨שֶׁב֙,HViSA3ms
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","בְּ[מְעֻרָה]|be[meurah]|in [cave] (of being naked)",בַּמְּעָרָ֔ה,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","בְּ[מְעֻרָה]|be[meurah]|in [cave] (is made naked)",בַּמְּעָרָ֔ה,Hfs
 "Gen 19:30 ו: he and his two daughters.",,,,,,,,
 ,he,הוּא|hu,m,he,[הוּא]|[hu]|[he],ה֖וּא,Hms
 ,two,שְׁתַה|shetah,f,"two (2)","וּ[שְׁתֵ]י|u[shete]i|and [two] (2)",וּשְׁתֵּ֥י,Hfd
@@ -8326,7 +8326,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,bring,בּוֹא|bo,V,bring,"הֶ[בִּא]תָ|he[bi]ta|you do [bring]",הֵבֵ֧אתָ,HVpCA2ms
 ,on,עַל|al,,upon,"[עַלִ]י|[al]i|[upon] me",עָלַ֛י,H
 ,on,עַל|al,,upon,"וְ[עַל]־|ve[al]|and [upon]",וְעַל־,H
-,kingdom,מַמְלָכָה|mamlachah,f,"of kingdom","[מַמְלָכַ]תִי|[mamlacha]ti|[of] [kingdom] me",מַמְלַכְתִּ֖י,Hfs
+,kingdom,מַמְלָכָה|mamlachah,f,"kingdom of","[מַמְלָכַ]תִי|[mamlacha]ti|[kingdom] [of] me",מַמְלַכְתִּ֖י,Hfs
 ,sin,חַטָאָה|chataah,f,sin,[חַטָאָה]|[chataah]|[sin],חֲטָאָ֣ה,Hfs
 ,great,גְדוֹלָה|gedolah,f,great,[גְדֹלָה]|[gedolah]|[great],גְדֹלָ֑ה,Hfs
 "Gen 20:9 ה: deeds [...] that ought not to be done.",,,,,,,,
@@ -8598,7 +8598,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 21:8 ב: and Abraham made a great feast",,,,,,,,
 ,make,עָשֹׂה|asoh,V,make,"וַיַ[עֲשׂ]|vaiya[as]|and he [make]",וַיַּ֤עַשׂ,HViSA3ms
 ,Abraham,אַבְרָהָם|avraham,M,"Abraham (father he be raised up)","[אַבְרָהָם]|[avraham]|[Abraham] (father he be raised up)",אַבְרָהָם֙,M
-,feast,מִשְׁתֶה|mishteh,m,"feast (of drinking)","[מִשְׁתֶה]|[mishteh]|[feast] (of drinking)",מִשְׁתֶּ֣ה,Hms
+,feast,מִשְׁתֶה|mishteh,m,"feast (drink you of)","[מִשְׁתֶה]|[mishteh]|[feast] (drink you of)",מִשְׁתֶּ֣ה,Hms
 ,great,גְדוֹל|gedol,m,great,[גְדוֹל]|[gedol]|[great],גָד֔וֹל,Hms
 "Gen 21:8 ג: the [same] day that Isaac was weaned.",,,,,,,,
 ,day,יוֹם|yom,m,day,"בְּ[יוֹם]|be[iom]|in [day]",בְּי֖וֹם,Hms
@@ -8697,7 +8697,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,morning,בֹּקֶר|boker,m,"morning (be searched)","בַּ[בֹּקֶר]|ba[boker]|in [morning] (be searched)",בַּבֹּ֡קֶר,Hms
 "Gen 21:14 ב: and took bread, and a bottle of water,",,,,,,,,
 ,take,לָקֹח|lakoach,V,take,"וַיִ[קַח]־|vaiyi[kach]|and he [take]",וַיִּֽקַּֽח־,HViSA3ms
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶחֶם֩,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶחֶם֩,Hbs
 ,bottle,חֵמֶת|chemet,f,"skin bag (joining)","וְ[חֵמַ]ת|ve[chema]t|and [skin] [bag] (joining)",וְחֵ֨מַת,Hfs
 ,water,מַיִם|maiyim,m,waters,[מַ]יִם|[mai]yim|[waters],מַ֜יִם,Hmd
 "Gen 21:14 ג: and gave [it] unto Hagar,",,,,,,,,
@@ -8962,7 +8962,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,seven,שֶׁבַע|sheva,f,"seven (7)","[שֶׁבַע]|[sheva]|[seven] (7)",שֶׁ֛בַע,Hfs
 ,"ewe lamb",כִּבְשָׂה|kivsah,f,"ewe lamb","[כִּבְשֹׂ]ת|[kivso]t|[ewe] [lambs]",כִּבְשֹׂ֥ת,Hfp
 ,flock,צֹאן|tzon,b,"flock (migration)","הַ[צֹאן]|ha[tzon]|the [flock] (migration)",הַצֹּ֖אן,Hbs
-,"by self",בַד|vad,m,aloneness,"לְ[בַד]הֶן׃|le[vad]hen|to [aloneness] them (f)",לְבַדְּהֶֽן׃,Hms
+,"by self",בָד|vad,m,aloneness,"לְ[בָד]הֶן׃|le[vad]hen|to [aloneness] them (f)",לְבַדְּהֶֽן׃,Hms
 "Gen 21:29 א: And Abimelech said unto Abraham,",,,,,,,,
 ,say,אָמֹר|amor,V,say,"וַיֹ[אמֵר]|vaiyo[mer]|and he [say]",וַיֹּ֥אמֶר,HViSA3ms
 ,Abimelech,אֲבִימֶלֶך|avimelech,M,"Abimelech (father me king)","[אֲבִימֶלֶך]|[avimelech]|[Abimelech] (father me king)",אֲבִימֶ֖לֶךְ,M
@@ -8977,7 +8977,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 21:29 ג: which thou hast set by themselves?",,,,,,,,
 ,which,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֥ר,H
 ,set,נָצֹב|natzov,V,position,"הִ[צִבְ]תָ|hi[tzive]ta|you do [position]",הִצַּ֖בְתָּ,HVpCA2ms
-,"by self",בַד|vad,m,aloneness,"לְ[בַד]נָה׃|le[vad]nah|to [aloneness] them (f)",לְבַדָּֽנָה׃,Hms
+,"by self",בָד|vad,m,aloneness,"לְ[בָד]נָה׃|le[vad]nah|to [aloneness] them (f)",לְבַדָּֽנָה׃,Hms
 "Gen 21:30 א: And he said,",,,,,,,,
 ,say,אָמֹר|amor,V,say,"וַיֹ[אמֵר]|vaiyo[mer]|and he [say]",וַיֹּ֕אמֶר,HViSA3ms
 "Gen 21:30 ב: For [these] seven ewe lambs shalt thou take of my hand,",,,,,,,,
@@ -9178,7 +9178,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
 ,fire,אֵשׁ|esh,b,fire,"הַ[אֵשׁ]|ha[esh]|the [fire]",הָאֵ֖שׁ,Hbs
 ,and,אֵת|et,,even,"וְ[אֵת]־|ve[et]|and [even]",וְאֶת־,H
-,knife,מַאֲכֶלָה|maachelah,f,"knife (of eating)","הַ[מַאֲכֶלַ]ת|ha[maachela]t|the [knife] (of eating)",הַֽמַּאֲכֶ֑לֶת,Hfs
+,knife,מַאֲכֶלָה|maachelah,f,"knife (eating of)","הַ[מַאֲכֶלַ]ת|ha[maachela]t|the [knife] (eating of)",הַֽמַּאֲכֶ֑לֶת,Hfs
 "Gen 22:6 ד: and they went both of them together.",,,,,,,,
 ,go,יָלֹך|yaloch,V,"be going","וַיִ[לְכ]וּ|vaiyi[lch]u|and they [be] [going]",וַיֵּלְכ֥וּ,HViSA3mp
 ,both,שְׁנַה|shenah,m,"two (2)","[שְׁנֵ]יהֶם|[shene]ihem|[two] (2) them (m)",שְׁנֵיהֶ֖ם,Hmd
@@ -9259,7 +9259,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 22:10 ב: and took the knife to slay his son.",,,,,,,,
 ,take,לָקֹח|lakoach,V,take,"וַיִ[קַח]|vaiyi[kach]|and he [take]",וַיִּקַּ֖ח,HViSA3ms
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
-,knife,מַאֲכֶלָה|maachelah,f,"knife (of eating)","הַ[מַאֲכֶלַ]ת|ha[maachela]t|the [knife] (of eating)",הַֽמַּאֲכֶ֑לֶת,Hfs
+,knife,מַאֲכֶלָה|maachelah,f,"knife (eating of)","הַ[מַאֲכֶלַ]ת|ha[maachela]t|the [knife] (eating of)",הַֽמַּאֲכֶ֑לֶת,Hfs
 ,slay,שָׁחֹט|shachot,V,slaughter,"לְ[שְׁחֹט]|le[shechot]|to [slaughter]",לִשְׁחֹ֖ט,HVcSA
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
 ,son,בֵּן|ben,m,son,"[בֵּנ]וֹ׃|[ben]o|[son] him",בְּנֽוֹ׃,Hms
@@ -9580,7 +9580,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,thou,אַתָה|atah,m,"you (m)","[אַתָה]|[atah]|[you] (m)",אַתָּה֙,Hms
 ,among,תוֹך|toch,m,midst,"בְּ[תוֹכֵ]נוּ|be[toch]enu|in [midst] us",בְּתוֹכֵ֔נוּ,Hms
 "Gen 23:6 ג: in the choice of our sepulchres",,,,,,,,
-,choice,מִבְחוֹר|mivchor,m,"of being chosen","בְּ[מִבְחֹר]|be[mivchor]|in [of] [being] [chosen]",בְּמִבְחַ֣ר,Hms
+,choice,מִבְחוֹר|mivchor,m,"choice (choose you of)","בְּ[מִבְחֹר]|be[mivchor]|in [choice] (choose you of)",בְּמִבְחַ֣ר,Hms
 ,sepulchre,קִבֵר|kiver,m,grave,"[קִבֵרֵ]ינוּ|[kiver]einu|[graves] us",קְבָרֵ֔ינוּ,Hmp
 "Gen 23:6 ד: bury thy dead;",,,,,,,,
 ,bury,קָבֹר|kavor,V,bury,"[קְבַר]|[kevar]|[bury] you",קְבֹ֖ר,HVvSA2ms
@@ -9633,7 +9633,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,give,נָתֹן|naton,V,give,"וַיִ[תַן]־|vaiyi[tan]|and let him [give]",וְיִתֶּן־,HVjSA3ms
 ,,|,,,"לִי|li|to me",לִ֗י,
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","[מְעֻרַ]ת|[meura]t|[cave] (of being naked)",מְעָרַ֤ת,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","[מְעֻרַ]ת|[meura]t|[cave] (is made naked)",מְעָרַ֤ת,Hfs
 ,Machpelah,מַכְפִלָה|machfilah,M,"Machpelah (do be doubling)","הַ[מַכְפִלָה]|ha[machfilah]|the [Machpelah] (do be doubling)",הַמַּכְפֵּלָה֙,M
 ,which,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]־|[asher]|[then] [that]",אֲשֶׁר־,H
 ,,|,,,"לוֹ|lo|to him",ל֔וֹ,
@@ -9682,7 +9682,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,give,נָתֹן|naton,V,give,"[נָתַ]תִי|[nata]ti|I [give]",נָתַ֣תִּי,HVpSA1cs
 ,,|,,,"לְךְ|lech|to you (f)",לָ֔ךְ,
 "Gen 23:11 ג: and the cave that [is] therein, I give it thee;",,,,,,,,
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","וְהַ[מְעֻרָה]|veha[meurah]|and the [cave] (of being naked)",וְהַמְּעָרָ֥ה,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","וְהַ[מְעֻרָה]|veha[meurah]|and the [cave] (is made naked)",וְהַמְּעָרָ֥ה,Hfs
 ,that,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]־|[asher]|[then] [that]",אֲשֶׁר־,H
 ,,|,,,"בּוֹ|bo|in him",בּ֖וֹ,
 ,,|,,,"לְךָ|lecha|to you (m)",לְךָ֣,
@@ -9792,7 +9792,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Mamre,מַמְרֵא|mamre,M,"Mamre (making bitter)","[מַמְרֵא]|[mamre]|[Mamre] (making bitter)",מַמְרֵ֑א,M
 "Gen 23:17 ג: the field, and the cave which [was] therein,",,,,,,,,
 ,field,שָׂדֶה|sadeh,m,field,"הַ[שָׂדֶה]|ha[sadeh]|the [field]",הַשָּׂדֶה֙,Hms
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","וְהַ[מְעֻרָה]|veha[meurah]|and the [cave] (of being naked)",וְהַמְּעָרָ֣ה,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","וְהַ[מְעֻרָה]|veha[meurah]|and the [cave] (is made naked)",וְהַמְּעָרָ֣ה,Hfs
 ,which,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]־|[asher]|[then] [that]",אֲשֶׁר־,H
 ,,|,,,"בּוֹ|bo|in him",בּ֔וֹ,
 "Gen 23:17 ד: and all the trees that [were] in the field,",,,,,,,,
@@ -9826,7 +9826,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,wife,אִשָׁה|ishah,f,woman,"[אִשַׁ]תוֹ|[isha]to|[woman] him",אִשְׁתּ֗וֹ,Hfs
 "Gen 23:19 ב: in the cave of the field of Machpelah",,,,,,,,
 ,in,אֵלֶי|elei,,unto,[אֵל]־|[el]|[unto],אֶל־,H
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","[מְעֻרַ]ת|[meura]t|[cave] (of being naked)",מְעָרַ֞ת,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","[מְעֻרַ]ת|[meura]t|[cave] (is made naked)",מְעָרַ֞ת,Hfs
 ,field,שָׂדֶה|sadeh,m,field,[שָׂדֶה]|[sadeh]|[field],שְׂדֵ֧ה,Hms
 ,Machpelah,מַכְפִלָה|machfilah,M,"Machpelah (do be doubling)","הַ[מַכְפִלָה]|ha[machfilah]|the [Machpelah] (do be doubling)",הַמַּכְפֵּלָ֛ה,M
 "Gen 23:19 ג: before Mamre:",,,,,,,,
@@ -9842,7 +9842,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,"make sure",קוֹם|kom,V,"rise up","וַיָ[קֻם]|vaiya[kum]|and he [rise] [up]",וַיָּ֨קָם,HViSA3ms
 "Gen 23:20 ב: the field, and the cave that [is] therein,",,,,,,,,
 ,field,שָׂדֶה|sadeh,m,field,"הַ[שָׂדֶה]|ha[sadeh]|the [field]",הַשָּׂדֶ֜ה,Hms
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","וְהַ[מְעֻרָה]|veha[meurah]|and the [cave] (of being naked)",וְהַמְּעָרָ֧ה,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","וְהַ[מְעֻרָה]|veha[meurah]|and the [cave] (is made naked)",וְהַמְּעָרָ֧ה,Hfs
 ,that,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]־|[asher]|[then] [that]",אֲשֶׁר־,H
 ,,|,,,"בּוֹ|bo|in him",בּ֛וֹ,
 "Gen 23:20 ג: unto Abraham for a possession of a buryingplace",,,,,,,,
@@ -10153,7 +10153,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 24:16 א: And the damsel [was] very fair to look upon,",,,,,,,,
 ,damsel,נַעֲרָה|naarah,f,"young woman (shaking off)","וְהַ[נַעֲרָ]|veha[naara]|and the [young] [woman] (shaking off)",וְהַֽנַּעֲרָ֗,Hfs
 ,fair,טוֹבָה|tovah,f,good,[טֹבַ]ת|[tova]t|[good],טֹבַ֤ת,Hfs
-,"to look upon",מַרְאֶה|mareh,m,"sight (of seeing)","[מַרְאֶה]|[mareh]|[sight] (of seeing)",מַרְאֶה֙,Hms
+,"to look upon",מַרְאֶה|mareh,m,"sight (seeing of)","[מַרְאֶה]|[mareh]|[sight] (seeing of)",מַרְאֶה֙,Hms
 ,very,מְאֹד|meod,,much,[מְאֹד]|[meod]|[much],מְאֹ֔ד,H
 "Gen 24:16 ב: a virgin,",,,,,,,,
 ,virgin,בְּתוּלָה|betulah,f,virgin,[בְּתוּלָה]|[betulah]|[virgin],בְּתוּלָ֕ה,Hfs
@@ -11141,7 +11141,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,son,בֵּן|ben,m,son,"[בֵּנָ]יו|[ben]av|[sons] him",בָּנָ֔יו,Hmp
 "Gen 25:9 ב: in the cave of Machpelah,",,,,,,,,
 ,in,אֵלֶי|elei,,unto,[אֵל]־|[el]|[unto],אֶל־,H
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","[מְעֻרַ]ת|[meura]t|[cave] (of being naked)",מְעָרַ֖ת,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","[מְעֻרַ]ת|[meura]t|[cave] (is made naked)",מְעָרַ֖ת,Hfs
 ,Machpelah,מַכְפִלָה|machfilah,M,"Machpelah (do be doubling)","הַ[מַכְפִלָה]|ha[machfilah]|the [Machpelah] (do be doubling)",הַמַּכְפֵּלָ֑ה,M
 "Gen 25:9 ג: in the field of Ephron",,,,,,,,
 ,in,אֵלֶי|elei,,unto,[אֵל]־|[el]|[unto],אֶל־,H
@@ -11219,9 +11219,9 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 25:13 ד: and Kedar, and Adbeel, and Mibsam,",,,,,,,,
 ,Kedar,קֵדָר|kedar,M,"Kedar (be gloomy you)","וְ[קֵדָר]|ve[kedar]|then [Kedar] (be gloomy you)",וְקֵדָ֥ר,M
 ,Adbeel,אַדְבְּאֵל|adbeel,M,"Adbeel (forever in God)","וְ[אַדְבְּאֵל]|ve[adbeel]|and [Adbeel] (forever in God)",וְאַדְבְּאֵ֖ל,M
-,Mibsam,מִבְשָׂם|mivsam,M,"Mibsam (of sweet balsam)","וּ[מִבְשָׂם]׃|u[mivsam]|and [Mibsam] (of sweet balsam)",וּמִבְשָֽׂם׃,M
+,Mibsam,מִבְּשָׂם|mibesam,M,"Mibsam (of sweet balsam)","וּ[מִבְּשָׂם]׃|u[mibesam]|and [Mibsam] (of sweet balsam)",וּמִבְשָֽׂם׃,M
 "Gen 25:14 א: And Mishma, and Dumah, and Massa,",,,,,,,,
-,Mishma,מִשְׁמָע|mishma,M,"Mishma (of heeding)","וּ[מִשְׁמָע]|u[mishma]|and [Mishma] (of heeding)",וּמִשְׁמָ֥ע,M
+,Mishma,מִשְׁמָע|mishma,M,"Mishma (heed you of)","וּ[מִשְׁמָע]|u[mishma]|and [Mishma] (heed you of)",וּמִשְׁמָ֥ע,M
 ,Dumah,דוּמָה|dumah,M,"Dumah (silence)","וְ[דוּמָה]|ve[dumah]|and [Dumah] (silence)",וְדוּמָ֖ה,M
 ,Massa,מַשָׂא|masa,M,"Massa (burden)","וּ[מַשָׂא]׃|u[masa]|and [Massa] (burden)",וּמַשָּֽׂא׃,M
 "Gen 25:15 א: Hadar, and Tema,",,,,,,,,
@@ -11383,7 +11383,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,womb,בֶּטֶן|beten,f,womb,"בַּ[בֶּטֶנָ]ה׃|ba[beten]ah|in [womb] her",בְּבִטְנָֽהּ׃,Hfs
 "Gen 25:25 א: And the first came out red, all over",,,,,,,,
 ,"come out",יָצֹא|yatzo,V,"go out","וַיִ[צַא]|vaiyi[tza]|and he [go] [out]",וַיֵּצֵ֤א,HViSA3ms
-,first,רִאשׁוֹן|rishon,m,first,"הַ[רִאשׁוֹן]|ha[rishon]|the [first]",הָרִאשׁוֹן֙,Hms
+,first,רִאשׁוֹן|rishon,m,"first (head of)","הַ[רִאשׁוֹן]|ha[rishon]|the [first] (head of)",הָרִאשׁוֹן֙,Hms
 ,red,אַדְמֹנִי|admoni,m,ruddy,[אַדְמוֹנִי]|[admoni]|[ruddy],אַדְמוֹנִ֔י,Hms
 ,"all over",כָּל|kal,m,all,"[כָּל]וֹ|[kal]o|[all] him",כֻּלּ֖וֹ,Hms
 "Gen 25:25 ב: like an hairy garment;",,,,,,,,
@@ -11522,7 +11522,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Jacob,יַעֲקֹב|yaakov,M,"Jacob (he supplants)","וַ[יַעֲקֹב]|vai[yaakov]|and [Jacob] (he supplants)",וְיַעֲקֹ֞ב,M
 ,give,נָתֹן|naton,V,give,"[נָתַן]|[natan]|he [give]",נָתַ֣ן,HVpSA3ms
 ,Esau,עֵשָׂו|esav,M,"Esau (doing hair)","לְ[עֵשָׂו]|le[esav]|to [Esau] (doing hair)",לְעֵשָׂ֗ו,M
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶ֚חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶ֚חֶם,Hbs
 ,pottage,נָזִיד|nazid,m,"stew (simmering)","וְ[נָזִיד]|ve[nazid]|and [stew] (simmering)",וּנְזִ֣יד,Hms
 ,lentile,עֲדָשׁ|adash,f,lentil,[עֲדָשִׁ]ים|[adashi]m|[lentils],עֲדָשִׁ֔ים,Hfp
 "Gen 25:34 ב: and he did eat and drink, and rose up, and went his way:",,,,,,,,
@@ -11540,9 +11540,9 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,famine,רָעָב|raav,m,"famine (being hungry)","[רָעָב]|[raav]|[famine] (being hungry)",רָעָב֙,Hms
 ,land,אָרֶץ|aretz,b,land,"בְּ[אָרֶץ]|be[aretz]|in [land]",בָּאָ֔רֶץ,Hbs
 "Gen 26:1 ב: beside the first famine",,,,,,,,
-,beside,בַד|vad,m,besides,"מִלְ[בַד]|mil[vad]|from to [besides]",מִלְּבַד֙,Hms
+,beside,בָד|vad,m,besides,"מִלְ[בָד]|mil[vad]|from to [besides]",מִלְּבַד֙,Hms
 ,famine,רָעָב|raav,m,"famine (being hungry)","הַ[רָעָב]|ha[raav]|the [famine] (being hungry)",הָרָעָ֣ב,Hms
-,first,רִאשׁוֹן|rishon,m,first,"הַ[רִאשׁוֹן]|ha[rishon]|the [first]",הָרִאשׁ֔וֹן,Hms
+,first,רִאשׁוֹן|rishon,m,"first (head of)","הַ[רִאשׁוֹן]|ha[rishon]|the [first] (head of)",הָרִאשׁ֔וֹן,Hms
 "Gen 26:1 ג: that was in the days of Abraham.",,,,,,,,
 ,that,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֥ר,H
 ,was,הָיֹה|haiyoh,V,exist,"[הָיַה]|[haiyah]|he [exist]",הָיָ֖ה,HVpSA3ms
@@ -11625,9 +11625,9 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,voice,קוֹל|kol,m,voice,"בְּ[קֹלִ]י|be[kol]i|in [voice] me",בְּקֹלִ֑י,Hms
 "Gen 26:5 ב: and kept my charge,",,,,,,,,
 ,keep,שָׁמֹר|shamor,V,guard,"וַיִ[שְׁמַר]|vaiyi[shmar]|and he [guard]",וַיִּשְׁמֹר֙,HViSA3ms
-,charge,מִשְׁמָרָה|mishmarah,f,"of guarding","[מִשְׁמָרַ]תִי|[mishmara]ti|[of] [guarding] me",מִשְׁמַרְתִּ֔י,Hfs
+,charge,מִשְׁמָרָה|mishmarah,f,"guarding of","[מִשְׁמָרַ]תִי|[mishmara]ti|[guarding] [of] me",מִשְׁמַרְתִּ֔י,Hfs
 "Gen 26:5 ג: my commandments, my statutes, and my laws.",,,,,,,,
-,commandment,מִצְה|mitzeh,f,"commandment (of commanding)","[מִצ]וֹתִי|[mitz]oti|[commandments] (of commandings) me",מִצְוֺתַ֖י,Hfp
+,commandment,מִצְה|mitzeh,f,"commandment (commanding of)","[מִצ]וֹתִי|[mitz]oti|[commandments] (commanding ofs) me",מִצְוֺתַ֖י,Hfp
 ,statute,חֻקָה|chukah,b,regulation,"[חֻק]וֹתִי|[chuk]oti|[regulations] me",חֻקּוֹתַ֥י,Hbp
 ,law,תוֹרָה|torah,f,"torah (direction)","וְ[תוֹרֹ]תִי׃|ve[toro]ti|and [torah] (directions) me",וְתוֹרֹתָֽי׃,Hfp
 "Gen 26:6 א: And Isaac dwelt in Gerar:",,,,,,,,
@@ -11658,7 +11658,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 26:7 ה: because she [was] fair to look upon.",,,,,,,,
 ,because,כִּי|ki,,for,[כִּי]־|[ki]|[for],כִּֽי־,H
 ,fair,טוֹבָה|tovah,f,good,[טוֹבַ]ת|[tova]t|[good],טוֹבַ֥ת,Hfs
-,"to look upon",מַרְאֶה|mareh,m,"sight (of seeing)","[מַרְאֶה]|[mareh]|[sight] (of seeing)",מַרְאֶ֖ה,Hms
+,"to look upon",מַרְאֶה|mareh,m,"sight (seeing of)","[מַרְאֶה]|[mareh]|[sight] (seeing of)",מַרְאֶ֖ה,Hms
 ,she,הִוא|hiv,f,she,[הִיא]׃|[hi]|[she],הִֽיא׃,Hfs
 "Gen 26:8 א: And it came to pass, when he had been there a long time,",,,,,,,,
 ,"come to pass",הָיֹה|haiyoh,V,exist,"וַיְ[הִי]|vaiye[hi]|and he [exist]",וַיְהִ֗י,HViSA3ms
@@ -12045,7 +12045,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 26:30 א: And he made them a feast,",,,,,,,,
 ,make,עָשֹׂה|asoh,V,make,"וַיַ[עֲשׂ]|vaiya[as]|and he [make]",וַיַּ֤עַשׂ,HViSA3ms
 ,,|,,,"לְהֶם|lehem|for them (m)",לָהֶם֙,
-,feast,מִשְׁתֶה|mishteh,m,"feast (of drinking)","[מִשְׁתֶה]|[mishteh]|[feast] (of drinking)",מִשְׁתֶּ֔ה,Hms
+,feast,מִשְׁתֶה|mishteh,m,"feast (drink you of)","[מִשְׁתֶה]|[mishteh]|[feast] (drink you of)",מִשְׁתֶּ֔ה,Hms
 "Gen 26:30 ב: and they did eat and drink.",,,,,,,,
 ,eat,אָכֹל|achol,V,eat,"וַיֹ[אכֵל]וּ|vaiyo[chel]u|and they [eat]",וַיֹּאכְל֖וּ,HViSA3mp
 ,drink,שָׁתֹה|shatoh,V,drink,"וַיִ[שְׁת]וּ׃|vaiyi[sht]u|and they [drink]",וַיִּשְׁתּֽוּ׃,HViSA3mp
@@ -12179,7 +12179,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 27:4 א: And make me savoury meat, such as I love,",,,,,,,,
 ,make,עָשֹׂה|asoh,V,make,"וַ[עֲשֵׂה]־|va[aseh]|and [make] you",וַעֲשֵׂה־,HVvSA2ms
 ,,|,,,"לִי|li|for me",לִ֨י,
-,"savoury meat",מַטְעַם|matam,m,"of tasting","[מַטְעַמִ]ים|[matam]im|[of] [tastings]",מַטְעַמִּ֜ים,Hmp
+,"savoury meat",מַטְעַם|matam,m,"savory (he taste of)","[מַטְעַמִ]ים|[matam]im|[savories] (he tastes of)",מַטְעַמִּ֜ים,Hmp
 ,such,אֲשֶׁר|asher,,"then that","כְּ[אֲשֶׁר]|ke[asher]|as [then] [that]",כַּאֲשֶׁ֥ר,H
 ,love,אָהֹב|ahov,V,love,"[אָהַבְ]תִי|[ahave]ti|I [love]",אָהַ֛בְתִּי,HVpSA1cs
 "Gen 27:4 ב: and bring [it] to me, that I may eat;",,,,,,,,
@@ -12232,7 +12232,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 27:7 ב: and make me savoury meat,",,,,,,,,
 ,make,עָשֹׂה|asoh,V,make,"וַ[עֲשֵׂה]־|va[aseh]|and [make] you",וַעֲשֵׂה־,HVvSA2ms
 ,,|,,,"לִי|li|for me",לִ֥י,
-,"savoury meat",מַטְעַם|matam,m,"of tasting","[מַטְעַמִ]ים|[matam]im|[of] [tastings]",מַטְעַמִּ֖ים,Hmp
+,"savoury meat",מַטְעַם|matam,m,"savory (he taste of)","[מַטְעַמִ]ים|[matam]im|[savories] (he tastes of)",מַטְעַמִּ֖ים,Hmp
 "Gen 27:7 ג: that I may eat,",,,,,,,,
 ,eat,אָכֹל|achol,V,eat,"וְאֹ[כֵלָ]ה|veo[chela]h|and let me [eat]",וְאֹכֵ֑לָה,HVhSA1cs
 "Gen 27:7 ד: and bless thee before the LORD",,,,,,,,
@@ -12269,7 +12269,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 27:9 ד: and I will make them savoury meat for thy father,",,,,,,,,
 ,make,עָשֹׂה|asoh,V,make,"וְאֶ[עֱשַׂה]|vee[esah]|and I [make]",וְאֶֽעֱשֶׂ֨ה,HViSA1cs
 ,,אֵת|et,,even,"[אֵתָ]ם|[et]am|[even] them (m)",אֹתָ֧ם,H
-,"savoury meat",מַטְעַם|matam,m,"of tasting","[מַטְעַמִ]ים|[matam]im|[of] [tastings]",מַטְעַמִּ֛ים,Hmp
+,"savoury meat",מַטְעַם|matam,m,"savory (he taste of)","[מַטְעַמִ]ים|[matam]im|[savories] (he tastes of)",מַטְעַמִּ֛ים,Hmp
 ,father,אָב|av,m,father,"לְ[אָבִ]יךָ|le[av]icha|for [father] you (m)",לְאָבִ֖יךָ,Hms
 "Gen 27:9 ה: such as he loveth:",,,,,,,,
 ,such,אֲשֶׁר|asher,,"then that","כְּ[אֲשֶׁר]|ke[asher]|as [then] [that]",כַּאֲשֶׁ֥ר,H
@@ -12339,7 +12339,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 27:14 ב: and his mother made savoury meat,",,,,,,,,
 ,make,עָשֹׂה|asoh,V,make,"וְתַ[עֲשׂ]|veta[as]|and she [make]",וַתַּ֤עַשׂ,HViSA3fs
 ,mother,אִם|im,f,mother,"[אִמ]וֹ|[im]o|[mother] him",אִמּוֹ֙,Hfs
-,"savoury meat",מַטְעַם|matam,m,"of tasting","[מַטְעַמִ]ים|[matam]im|[of] [tastings]",מַטְעַמִּ֔ים,Hmp
+,"savoury meat",מַטְעַם|matam,m,"savory (he taste of)","[מַטְעַמִ]ים|[matam]im|[savories] (he tastes of)",מַטְעַמִּ֔ים,Hmp
 "Gen 27:14 ג: such as his father loved.",,,,,,,,
 ,such,אֲשֶׁר|asher,,"then that","כְּ[אֲשֶׁר]|ke[asher]|as [then] [that]",כַּאֲשֶׁ֖ר,H
 ,love,אָהֹב|ahov,V,love,"[אָהַב]|[ahav]|he [love]",אָהֵ֥ב,HVpSA3ms
@@ -12379,10 +12379,10 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 27:17 א: And she gave the savoury meat",,,,,,,,
 ,give,נָתֹן|naton,V,give,"וְתִ[תַן]|veti[tan]|and she [give]",וַתִּתֵּ֧ן,HViSA3fs
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
-,"savoury meat",מַטְעַם|matam,m,"of tasting","הַ[מַטְעַמִ]ים|ha[matam]im|the [of] [tastings]",הַמַּטְעַמִּ֛ים,Hmp
+,"savoury meat",מַטְעַם|matam,m,"savory (he taste of)","הַ[מַטְעַמִ]ים|ha[matam]im|the [savories] (he tastes of)",הַמַּטְעַמִּ֛ים,Hmp
 "Gen 27:17 ב: and the bread, which she had prepared,",,,,,,,,
 ,and,אֵת|et,,even,"וְ[אֵת]־|ve[et]|and [even]",וְאֶת־,H
-,bread,לֶחֶם|lechem,b,"bread (is eating)","הַ[לֶחֶם]|ha[lechem]|the [bread] (is eating)",הַלֶּ֖חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","הַ[לֶחֶם]|ha[lechem]|the [bread] (be eating)",הַלֶּ֖חֶם,Hbs
 ,which,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֣ר,H
 ,prepare,עָשֹׂה|asoh,V,make,"[עָשָׂתָ]ה|[asata]h|she [make]",עָשָׂ֑תָה,HVpSA3fs
 "Gen 27:17 ג: into the hand of her son Jacob.",,,,,,,,
@@ -12623,7 +12623,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,make,עָשֹׂה|asoh,V,make,"וַיַ[עֲשׂ]|vaiya[as]|and he [make]",וַיַּ֤עַשׂ,HViSA3ms
 ,also,גַם|gam,,also,[גַם]־|[gam]|[also],גַּם־,H
 ,he,הוּא|hu,m,he,[הוּא]|[hu]|[he],הוּא֙,Hms
-,"savoury meat",מַטְעַם|matam,m,"of tasting","[מַטְעַמִ]ים|[matam]im|[of] [tastings]",מַטְעַמִּ֔ים,Hmp
+,"savoury meat",מַטְעַם|matam,m,"savory (he taste of)","[מַטְעַמִ]ים|[matam]im|[savories] (he tastes of)",מַטְעַמִּ֔ים,Hmp
 "Gen 27:31 ב: and brought it unto his father,",,,,,,,,
 ,bring,בּוֹא|bo,V,bring,"וַיַ[בִּא]|vaiya[bi]|and he do [bring]",וַיָּבֵ֖א,HViCA3ms
 ,father,אָב|av,m,father,"לְ[אָבִ]יו|le[av]iv|to [father] him",לְאָבִ֑יו,Hms
@@ -12798,7 +12798,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,fatness,מִשְׁמַן|mishman,m,"being oily","מִ[שְׁמַנֵ]י|mi[shman]ei|from [being] [oily]",מִשְׁמַנֵּ֤י,Hmp
 ,earth,אָרֶץ|aretz,b,land,"הַ[אָרֶץ]|ha[aretz]|the [land]",הָאָ֨רֶץ֙,Hbs
 ,be,הָיֹה|haiyoh,V,exist,"יְ[הִיה]|ye[hih]|he [exist]",יִהְיֶ֣ה,HViSA3ms
-,dwelling,מוֹשֵׁב|moshev,m,"dwelling (of sitting down)","[מוֹשֵׁב]ךָ|[moshev]cha|[dwelling] (of sitting down) you (m)",מֽוֹשָׁבֶ֔ךָ,Hms
+,dwelling,מוֹשֵׁב|moshev,m,"dwelling (settle you of)","[מוֹשֵׁב]ךָ|[moshev]cha|[dwelling] (settle you of) you (m)",מֽוֹשָׁבֶ֔ךָ,Hms
 "Gen 27:39 ג: and of the dew of heaven from above;",,,,,,,,
 ,dew,טַל|tal,m,dew,"וּמִ[טַל]|umi[tal]|and from [dew]",וּמִטַּ֥ל,Hms
 ,heaven,שָׁמָה|shamah,m,heaven,"הַ[שָׁמַ]יִם|ha[shamai]yim|the [heavens]",הַשָּׁמַ֖יִם,Hmd
@@ -13008,7 +13008,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,inherit,יָרֹשׁ|yarosh,V,possess,"לְ[רֹשְׁת]ךָ|le[roshet]cha|to [possess] you (m)",לְרִשְׁתְּךָ֙,HVcSA
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
 ,land,אָרֶץ|aretz,b,land,[אָרֶץ]|[aretz]|[land],אֶ֣רֶץ,Hbs
-,"wherein art a stranger",מְגוּר|megur,m,"of sojourning","[מְגֻרֵ]יךָ|[megur]eicha|[of] [sojournings] you (m)",מְגֻרֶ֔יךָ,Hmp
+,"wherein art a stranger",מְגוּר|megur,m,"sojourning of","[מְגֻרֵ]יךָ|[megur]eicha|[sojournings] [of] you (m)",מְגֻרֶ֔יךָ,Hmp
 "Gen 28:4 ד: which God gave unto Abraham.",,,,,,,,
 ,which,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]־|[asher]|[then] [that]",אֲשֶׁר־,H
 ,give,נָתֹן|naton,V,give,"[נָתַן]|[natan]|he [give]",נָתַ֥ן,HVpSA3ms
@@ -13292,7 +13292,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Luz,לוּז|luz,M,"Luz (be made perverse you)","[לוּז]|[luz]|[Luz] (be made perverse you)",ל֥וּז,M
 ,name,שֵׁם|shem,m,name,[שֵׁם]־|[shem]|[name],שֵׁם־,Hms
 ,city,עִיר|ir,f,"city (awaken you)","הַ[עִיר]|ha[ir]|the [city] (awaken you)",הָעִ֖יר,Hfs
-,first,רִאשׁוֹנָה|rishonah,f,first,"לְ[רִאשֹׁנָה]׃|le[rishonah]|to [first]",לָרִאשֹׁנָֽה׃,Hfs
+,first,רִאשׁוֹנָה|rishonah,f,"first (head of)","לְ[רִאשֹׁנָה]׃|le[rishonah]|to [first] (head of)",לָרִאשֹׁנָֽה׃,Hfs
 "Gen 28:20 א: And Jacob vowed a vow, saying,",,,,,,,,
 ,vow,נָדֹר|nador,V,promise,"וַיִ[דַר]|vaiyi[dar]|and he [promise]",וַיִּדַּ֥ר,HViSA3ms
 ,Jacob,יַעֲקֹב|yaakov,M,"Jacob (he supplants)","[יַעֲקֹב]|[yaakov]|[Jacob] (he supplants)",יַעֲקֹ֖ב,M
@@ -13313,7 +13313,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 28:20 ד: and will give me bread to eat,",,,,,,,,
 ,give,נָתֹן|naton,V,give,"וְ[נָתַן]־|ve[natan]|and he [give]",וְנָֽתַן־,HVpSA3ms
 ,,|,,,"לִי|li|to me",לִ֥י,
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶ֛חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶ֛חֶם,Hbs
 ,eat,אָכֹל|achol,V,eat,"לְ[אְכֹל]|le[echol]|to [eat]",לֶאֱכֹ֖ל,HVcSA
 "Gen 28:20 ה: and raiment to put on,",,,,,,,,
 ,raiment,בְּגָד|begad,m,"garment (treachery)","וּ[בְּגָד]|u[begad]|and [garment] (treachery)",וּבֶ֥גֶד,Hms
@@ -13366,7 +13366,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,lo,הִנֵה|hineh,,behold,"וְ[הִנֵה]־|ve[hineh]|and [behold]",וְהִנֵּה־,H
 ,there,שָׁם|sham,,there,[שָׁם]|[sham]|[there],שָׁ֞ם,H
 ,three,שְׁלוֹשָׁה|sheloshah,m,"three (3)","[שְׁלֹשָׁה]|[sheloshah]|[three] (3)",שְׁלֹשָׁ֤ה,Hms
-,flock,עֵדֶר|eder,m,"flock (being overlooked)","[עֵדֶרֵ]י־|[eder]ei|[flocks] (being overlooked)",עֶדְרֵי־,Hmp
+,flock,עֵדֶר|eder,m,"flock (he be overlooked)","[עֵדֶרֵ]י־|[eder]ei|[flocks] (he be overlooked)",עֶדְרֵי־,Hmp
 ,sheep,צֹאן|tzon,b,"sheep (migration)","[צֹאן]|[tzon]|[sheep] (migration)",צֹאן֙,Hbs
 ,lye,רָבֹץ|ravotz,V,repose,[רֹבֵצִ]ים|[rovetzi]m|[reposing],רֹבְצִ֣ים,HVrSAmpa
 ,by,עֲלֵי|alei,,upon,"[עֲלֵיָ]ה|[aley]ah|[upon] her",עָלֶ֔יהָ,H
@@ -13376,7 +13376,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,well,בְּאֵר|beer,f,"well (explaining)","הַ[בְּאֵר]|ha[beer]|the [well] (explaining)",הַבְּאֵ֣ר,Hfs
 ,that,הִוא|hiv,f,she,"הַ[הִוא]|ha[hiv]|the [she]",הַהִ֔וא,Hfs
 ,water,שָׁקֹה|shakoh,V,"give drink","יַ[שְׁק]וּ|ya[shk]u|they do [give] [drink]",יַשְׁק֖וּ,HViCA3mp
-,flock,עֵדֶר|eder,m,"flock (being overlooked)","הַ[עֵדֶרִ]ים|ha[eder]im|the [flocks] (being overlooked)",הָעֲדָרִ֑ים,Hmp
+,flock,עֵדֶר|eder,m,"flock (he be overlooked)","הַ[עֵדֶרִ]ים|ha[eder]im|the [flocks] (he be overlooked)",הָעֲדָרִ֑ים,Hmp
 "Gen 29:2 ד: and a great stone [was] upon the well’s mouth.",,,,,,,,
 ,stone,אֶבֶן|even,f,stone,"וְהַ[אֶבֶן]|veha[even]|and the [stone]",וְהָאֶ֥בֶן,Hfs
 ,great,גְדוֹלָה|gedolah,f,great,[גְדֹלָה]|[gedolah]|[great],גְּדֹלָ֖ה,Hfs
@@ -13387,7 +13387,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,gather,אָסֹף|asof,V,gather,"וְנֶ[אֱסַפ]וּ־|vene[esaf]u|and they be [gathered]",וְנֶאֶסְפוּ־,HVpSP3cp
 ,thither,שָׁם|sham,,there,"[שָׁמָ]ה|[sham]ah|[there] unto",שָׁ֣מָּה,H
 ,all,כָּל|kal,m,all,[כָּל]־|[kal]|[all],כָל־,Hms
-,flock,עֵדֶר|eder,m,"flock (being overlooked)","הַ[עֵדֶרִ]ים|ha[eder]im|the [flocks] (being overlooked)",הָעֲדָרִ֗ים,Hmp
+,flock,עֵדֶר|eder,m,"flock (he be overlooked)","הַ[עֵדֶרִ]ים|ha[eder]im|the [flocks] (he be overlooked)",הָעֲדָרִ֗ים,Hmp
 "Gen 29:3 ב: and they rolled the stone from the well’s mouth,",,,,,,,,
 ,roll,גָלֹל|galol,V,roll,"וְ[גָלַל]וּ|ve[galal]u|and they [roll]",וְגָלֲל֤וּ,HVpSA3cp
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
@@ -13473,7 +13473,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֤ר,H
 ,"gather together",אָסֹף|asof,V,gather,"יֵ[אֳסְפ]וּ|ye[asf]u|they be [gathered]",יֵאָֽסְפוּ֙,HViSP3mp
 ,all,כָּל|kal,m,all,[כָּל]־|[kal]|[all],כָּל־,Hms
-,flock,עֵדֶר|eder,m,"flock (being overlooked)","הַ[עֵדֶרִ]ים|ha[eder]im|the [flocks] (being overlooked)",הָ֣עֲדָרִ֔ים,Hmp
+,flock,עֵדֶר|eder,m,"flock (he be overlooked)","הַ[עֵדֶרִ]ים|ha[eder]im|the [flocks] (he be overlooked)",הָ֣עֲדָרִ֔ים,Hmp
 "Gen 29:8 ג: and [till] they roll the stone from the well’s mouth;",,,,,,,,
 ,roll,גָלֹל|galol,V,roll,"וְ[גָלַל]וּ|ve[galal]u|and they [roll]",וְגָֽלֲלוּ֙,HVpSA3cp
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
@@ -13621,7 +13621,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,tell,נָגֹד|nagod,V,"make known","הַ[גִידָ]ה|ha[gid]ah|do [make] [known] you eh",הַגִּ֥ידָה,HVvCA2ms
 ,,|,,,"לִי|li|to me",לִּ֖י,
 ,what,מָה|mah,,what,[מָה]־|[mah]|[what],מַה־,H
-,wages,מַשְׂכֻּרָה|maskurah,f,"compensation (of hiring)","[מַשְׂכֻּרַ]תךָ׃|[maskura]tcha|[compensation] (of hiring) you (m)",מַּשְׂכֻּרְתֶּֽךָ׃,Hfs
+,wages,מַשְׂכֻּרָה|maskurah,f,"compensation (hired of)","[מַשְׂכֻּרַ]תךָ׃|[maskura]tcha|[compensation] (hired of) you (m)",מַּשְׂכֻּרְתֶּֽךָ׃,Hfs
 "Gen 29:16 א: And Laban had two daughters:",,,,,,,,
 ,Laban,לָבָן|lavan,M,"Laban (he turn white)","וּלְ[לָבָן]|ule[lavan]|and to [Laban] (he turn white)",וּלְלָבָ֖ן,M
 ,two,שְׁתַה|shetah,f,"two (2)","[שְׁתֵ]י|[shete]i|[two] (2)",שְׁתֵּ֣י,Hfd
@@ -13645,7 +13645,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,,תֹאַר|toar,m,"looking at","[תֹאַר]|[toar]|[looking] [at]",תֹּ֖אַר,Hms
 "Gen 29:17 ג: and well favoured.",,,,,,,,
 ,well,יָפָה|yafah,f,beautiful,"וַ[יָפַ]ת|vai[yafa]t|and [beautiful]",וִיפַ֥ת,Hfs
-,favoured,מַרְאֶה|mareh,m,"appearance (of seeing)","[מַרְאֶה]׃|[mareh]|[appearance] (of seeing)",מַרְאֶֽה׃,Hms
+,favoured,מַרְאֶה|mareh,m,"appearance (seeing of)","[מַרְאֶה]׃|[mareh]|[appearance] (seeing of)",מַרְאֶֽה׃,Hms
 "Gen 29:18 א: And Jacob loved Rachel;",,,,,,,,
 ,love,אָהֹב|ahov,V,love,"וַיֹ[אהֵב]|vaiyo[hev]|and he [love]",וַיֶּאֱהַ֥ב,HViSA3ms
 ,Jacob,יַעֲקֹב|yaakov,M,"Jacob (he supplants)","[יַעֲקֹב]|[yaakov]|[Jacob] (he supplants)",יַעֲקֹ֖ב,M
@@ -13714,7 +13714,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,place,מְקוֹם|mekom,m,place,"הַ[מְקוֹם]|ha[mekom]|the [place]",הַמָּק֖וֹם,Hms
 "Gen 29:22 ב: and made a feast.",,,,,,,,
 ,make,עָשֹׂה|asoh,V,make,"וַיַ[עֲשׂ]|vaiya[as]|and he [make]",וַיַּ֥עַשׂ,HViSA3ms
-,feast,מִשְׁתֶה|mishteh,m,"feast (of drinking)","[מִשְׁתֶה]׃|[mishteh]|[feast] (of drinking)",מִשְׁתֶּֽה׃,Hms
+,feast,מִשְׁתֶה|mishteh,m,"feast (drink you of)","[מִשְׁתֶה]׃|[mishteh]|[feast] (drink you of)",מִשְׁתֶּֽה׃,Hms
 "Gen 29:23 א: And it came to pass in the evening,",,,,,,,,
 ,"come to pass",הָיֹה|haiyoh,V,exist,"וַיְ[הִי]|vaiye[hi]|and he [exist]",וַיְהִ֣י,HViSA3ms
 ,evening,עָרְב|arev,m,"evening (get dark)","בְּ[עָרְב]|be[arev]|in [evening] (get dark)",בָעֶ֔רֶב,Hms
@@ -14053,7 +14053,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,say,אָמֹר|amor,V,say,"וְתֹ[אמֵר]|veto[mer]|and she [say]",וַתֹּ֣אמֶר,HViSA3fs
 ,Rachel,רָחֵל|rachel,M,"Rachel (ewe sheep)","[רָחֵל]|[rachel]|[Rachel] (ewe sheep)",רָחֵ֗ל,M
 "Gen 30:8 ב: With great wrestlings have I wrestled with my sister,",,,,,,,,
-,wrestling,נַפְתוּל|naftul,m,"of being twisted","[נַפְתוּלֵ]י|[naftul]ei|[of] [being] [twisteds]",נַפְתּוּלֵ֨י,Hmp
+,wrestling,נַפְתוּל|naftul,m,"being twisted of","[נַפְתוּלֵ]י|[naftul]ei|[being] [twisted] [ofs]",נַפְתּוּלֵ֨י,Hmp
 ,great,אֱלֹה|eloh,m,mighty,[אֱלֹהִ]ים׀|[eloh]im|[mighty],אֱלֹהִ֧ים׀,Hmp
 ,wrestle,פָתֹל|fatol,V,"be twisted","נִ[פְתַלְ]תִי|ni[ftal]ti|I [be] made [twisted]",נִפְתַּ֛לְתִּי,HVpSP1cs
 ,with,עִם|im,,with,[עִם]־|[im]|[with],עִם־,H
@@ -14543,7 +14543,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,strake,פְּצָלָה|petzalah,f,peeling,[פְּצָל]וֹת|[petzal]ot|[peelings],פְּצָל֣וֹת,Hfp
 ,white,לְבָנָה|levanah,f,white,[לְבָנ]וֹת|[levan]ot|[white],לְבָנ֔וֹת,Hfp
 "Gen 30:37 ד: and made the white appear which [was] in the rods.",,,,,,,,
-,"make appear",מַחְשֹׂף|machsof,m,"of stripping","[מַחְשֹׂף]|[machsof]|[of] [stripping]",מַחְשֹׂף֙,Hms
+,"make appear",מַחְשֹׂף|machsof,m,"strip of","[מַחְשֹׂף]|[machsof]|[strip] [of]",מַחְשֹׂף֙,Hms
 ,white,לְבָן|levan,m,white,"הַ[לְבָן]|ha[levan]|the [white]",הַלָּבָ֔ן,Hms
 ,which,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֖ר,H
 ,in,עַל|al,,upon,[עַל]־|[al]|[upon],עַל־,H
@@ -14598,8 +14598,8 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 30:40 ד: and he put his own flocks by themselves,",,,,,,,,
 ,put,שָׁיֹת|shaiyot,V,set,"וַיָ[שִׁת]־|vaiya[shit]|and he [set]",וַיָּֽשֶׁת־,HViSA3ms
 ,,|,,,"לוֹ|lo|to him",ל֤וֹ,
-,flock,עֵדֶר|eder,m,"flock (being overlooked)","[עֵדֶרִ]ים|[eder]im|[flocks] (being overlooked)",עֲדָרִים֙,Hmp
-,"by self",בַד|vad,m,aloneness,"לְ[בַד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֔וֹ,Hms
+,flock,עֵדֶר|eder,m,"flock (he be overlooked)","[עֵדֶרִ]ים|[eder]im|[flocks] (he be overlooked)",עֲדָרִים֙,Hmp
+,"by self",בָד|vad,m,aloneness,"לְ[בָד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֔וֹ,Hms
 "Gen 30:40 ה: and put them not unto Laban’s cattle.",,,,,,,,
 ,not,לֹא|lo,,not,"וְ[לֹא]|ve[lo]|and [not]",וְלֹ֥א,H
 ,put,שָׁיֹת|shaiyot,V,set,"[שָׁתָ]ם|[shat]am|he [set] them (m)",שָׁתָ֖ם,HVpSA3ms
@@ -14747,7 +14747,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 31:7 ב: and changed my wages ten times;",,,,,,,,
 ,change,חָלֹף|chalof,V,change,"וְהֶ[חֱלִף]|vehe[chelif]|and he do [change]",וְהֶחֱלִ֥ף,HVpCA3ms
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
-,wages,מַשְׂכֻּרָה|maskurah,f,"compensation (of hiring)","[מַשְׂכֻּרַ]תִי|[maskura]ti|[compensation] (of hiring) me",מַשְׂכֻּרְתִּ֖י,Hfs
+,wages,מַשְׂכֻּרָה|maskurah,f,"compensation (hired of)","[מַשְׂכֻּרַ]תִי|[maskura]ti|[compensation] (hired of) me",מַשְׂכֻּרְתִּ֖י,Hfs
 ,ten,עֲשָׂרָה|asarah,m,"ten (10)","[עֲשָׂרַ]ת|[asara]t|[ten] (10)",עֲשֶׂ֣רֶת,Hms
 ,time,מֹנֶה|moneh,m,"time (number)","[מֹנִ]ים|[moni]m|[times] (numbers)",מֹנִ֑ים,Hmp
 "Gen 31:7 ג: but God suffered him not to hurt me.",,,,,,,,
@@ -15368,7 +15368,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 31:41 ד: and thou hast changed my wages ten times.",,,,,,,,
 ,change,חָלֹף|chalof,V,change,"וְתַ[חְלִף]|veta[chlif]|and you do [change]",וַתַּחֲלֵ֥ף,HViCA2ms
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
-,wages,מַשְׂכֻּרָה|maskurah,f,"compensation (of hiring)","[מַשְׂכֻּרַ]תִי|[maskura]ti|[compensation] (of hiring) me",מַשְׂכֻּרְתִּ֖י,Hfs
+,wages,מַשְׂכֻּרָה|maskurah,f,"compensation (hired of)","[מַשְׂכֻּרַ]תִי|[maskura]ti|[compensation] (hired of) me",מַשְׂכֻּרְתִּ֖י,Hfs
 ,ten,עֲשָׂרָה|asarah,m,"ten (10)","[עֲשָׂרַ]ת|[asara]t|[ten] (10)",עֲשֶׂ֥רֶת,Hms
 ,time,מֹנֶה|moneh,m,"time (number)","[מֹנִ]ים׃|[moni]m|[times] (numbers)",מֹנִֽים׃,Hmp
 "Gen 31:42 א: Except the God of my father,",,,,,,,,
@@ -15497,7 +15497,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,name,שֵׁם|shem,m,name,"[שֵׁמ]וֹ|[shem]o|[name] him",שְׁמ֖וֹ,Hms
 ,Galeed,גַלְעֵד|galed,M,"Galeed (heap witness)","[גַלְעֵד]׃|[galed]|[Galeed] (heap witness)",גַּלְעֵֽד׃,M
 "Gen 31:49 א: And Mizpah; for he said,",,,,,,,,
-,Mizpah,מִצְפֵה|mitzfeh,M,"Mizpah (of keep watch you)","וְהַ[מִצְפֵה]|veha[mitzfeh]|and the [Mizpah] (of keep watch you)",וְהַמִּצְפָּה֙,M
+,Mizpah,מִצְפֵה|mitzfeh,M,"Mizpah (he keep watch of)","וְהַ[מִצְפֵה]|veha[mitzfeh]|and the [Mizpah] (he keep watch of)",וְהַמִּצְפָּה֙,M
 ,for,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֣ר,H
 ,say,אָמֹר|amor,V,say,"[אָמַר]|[amar]|he [say]",אָמַ֔ר,HVpSA3ms
 "Gen 31:49 ב: The LORD watch between me and thee,",,,,,,,,
@@ -15603,10 +15603,10 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,call,קָרֹא|karo,V,call,"וַיִ[קְרַא]|vaiyi[kra]|and he [call]",וַיִּקְרָ֥א,HViSA3ms
 ,brethren,אָח|ach,m,brother,"לְ[אָחָ]יו|le[ach]av|to [brothers] him",לְאֶחָ֖יו,Hmp
 ,eat,אָכֹל|achol,V,eat,"לְ[אְכֹל]־|le[echol]|to [eat]",לֶאֱכָל־,HVcSA
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לָ֑חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לָ֑חֶם,Hbs
 "Gen 31:54 ג: and they did eat bread, and tarried all night in the mount.",,,,,,,,
 ,eat,אָכֹל|achol,V,eat,"וַיֹ[אכֵל]וּ|vaiyo[chel]u|and they [eat]",וַיֹּ֣אכְלוּ,HViSA3mp
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶ֔חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶ֔חֶם,Hbs
 ,"tarry all night",לוֹן|lon,V,"stay over","וַיָ[לִינ]וּ|vaiya[lin]u|and they [stay] [over]",וַיָּלִ֖ינוּ,HViSA3mp
 ,mount,הַר|har,m,mountain,"בְּ[הַר]׃|be[har]|on [mountain]",בָּהָֽר׃,Hms
 "Gen 31:55 א: And early in the morning Laban rose up,",,,,,,,,
@@ -15895,9 +15895,9 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,hand,יָד|yad,b,hand,"בְּ[יָד]־|be[yad]|in [hand]",בְּיַד־,Hbs
 ,servant,עֲבָד|avad,m,servant,"[עֲבָדָ]יו|[avad]av|[servants] him",עֲבָדָ֔יו,Hmp
 "Gen 32:16 ב: every drove by themselves;",,,,,,,,
-,,עֵדֶר|eder,m,"flock (being overlooked)","[עֵדֶר]|[eder]|[flock] (being overlooked)",עֵ֥דֶר,Hms
-,drove,עֵדֶר|eder,m,"flock (being overlooked)","[עֵדֶר]|[eder]|[flock] (being overlooked)",עֵ֖דֶר,Hms
-,"by self",בַד|vad,m,aloneness,"לְ[בַד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֑וֹ,Hms
+,,עֵדֶר|eder,m,"flock (he be overlooked)","[עֵדֶר]|[eder]|[flock] (he be overlooked)",עֵ֥דֶר,Hms
+,drove,עֵדֶר|eder,m,"flock (he be overlooked)","[עֵדֶר]|[eder]|[flock] (he be overlooked)",עֵ֖דֶר,Hms
+,"by self",בָד|vad,m,aloneness,"לְ[בָד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֑וֹ,Hms
 "Gen 32:16 ג: and said unto his servants,",,,,,,,,
 ,say,אָמֹר|amor,V,say,"וַיֹ[אמֵר]|vaiyo[mer]|and he [say]",וַ֤יֹּאמֶר,HViSA3ms
 ,unto,אֵלֶי|elei,,unto,[אֵל]־|[el]|[unto],אֶל־,H
@@ -15909,13 +15909,13 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,space,רֶוַח|revach,m,"breathing space","וְ[רֶוַח]|ve[revach]|and [breathing] [space]",וְרֶ֣וַח,Hms
 ,put,שׂוֹם|som,V,put,"תָ[שִׂימ]וּ|ta[sim]u|you all [put]",תָּשִׂ֔ימוּ,HViSA2mp
 ,betwixt,בֵּין|bein,,between,[בֵּין]|[bein]|[between],בֵּ֥ין,H
-,drove,עֵדֶר|eder,m,"flock (being overlooked)","[עֵדֶר]|[eder]|[flock] (being overlooked)",עֵ֖דֶר,Hms
+,drove,עֵדֶר|eder,m,"flock (he be overlooked)","[עֵדֶר]|[eder]|[flock] (he be overlooked)",עֵ֖דֶר,Hms
 ,,בֵּין|bein,,between,"וּ[בֵּין]|u[bein]|and [between]",וּבֵ֥ין,H
-,drove,עֵדֶר|eder,m,"flock (being overlooked)","[עֵדֶר]׃|[eder]|[flock] (being overlooked)",עֵֽדֶר׃,Hms
+,drove,עֵדֶר|eder,m,"flock (he be overlooked)","[עֵדֶר]׃|[eder]|[flock] (he be overlooked)",עֵֽדֶר׃,Hms
 "Gen 32:17 א: And he commanded the foremost, saying,",,,,,,,,
 ,command,צָוֹה|tzoh,V,command,"וַיְ[צַו]|vaiye[tzav]|and he [command] !",וַיְצַ֥ו,HViIA3ms
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
-,foremost,רִאשׁוֹן|rishon,m,first,"הַ[רִאשׁוֹן]|ha[rishon]|the [first]",הָרִאשׁ֖וֹן,Hms
+,foremost,רִאשׁוֹן|rishon,m,"first (head of)","הַ[רִאשׁוֹן]|ha[rishon]|the [first] (head of)",הָרִאשׁ֖וֹן,Hms
 ,say,אָמֹר|amor,V,say,"לְ[אְמֹר]|le[emor]|to [say]",לֵאמֹ֑ר,HVcSA
 "Gen 32:17 ב: When Esau my brother meeteth thee,",,,,,,,,
 ,when,כִּי|ki,,"that when","[כִּי]|[ki]|[that] [when]",כִּ֣י,H
@@ -15966,7 +15966,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,all,כָּל|kal,m,all,[כָּל]־|[kal]|[all],כָּל־,Hms
 ,follow,הָלֹך|haloch,V,go,"הַ[הֹלֵכִ]ים|ha[holechi]m|the [going]",הַהֹ֣לְכִ֔ים,HVrSAmpa
 ,,אַחֲר|achar,,after,[אַחֲרֵ]י|[achar]ei|[after],אַחֲרֵ֥י,Hmp
-,drove,עֵדֶר|eder,m,"flock (being overlooked)","הַ[עֵדֶרִ]ים|ha[eder]im|the [flocks] (being overlooked)",הָעֲדָרִ֖ים,Hmp
+,drove,עֵדֶר|eder,m,"flock (he be overlooked)","הַ[עֵדֶרִ]ים|ha[eder]im|the [flocks] (he be overlooked)",הָעֲדָרִ֖ים,Hmp
 ,say,אָמֹר|amor,V,say,"לְ[אְמֹר]|le[emor]|to [say]",לֵאמֹ֑ר,HVcSA
 "Gen 32:19 ד: On this manner shall ye speak unto Esau,",,,,,,,,
 ,manner,דֵבַר|devar,m,"matter (word)","כְּ[דֵבַר]|ke[devar]|as [matter] (word)",כַּדָּבָ֤ר,Hms
@@ -16051,7 +16051,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 32:24 א: And Jacob was left alone;",,,,,,,,
 ,"be left",יָתֹר|yator,V,remain,"וַיִ[וָּתֵר]|vaiyi[vater]|and he be [remained]",וַיִּוָּתֵ֥ר,HViSP3ms
 ,Jacob,יַעֲקֹב|yaakov,M,"Jacob (he supplants)","[יַעֲקֹב]|[yaakov]|[Jacob] (he supplants)",יַעֲקֹ֖ב,M
-,alone,בַד|vad,m,aloneness,"לְ[בַד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֑וֹ,Hms
+,alone,בָד|vad,m,aloneness,"לְ[בָד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֑וֹ,Hms
 "Gen 32:24 ב: and there wrestled a man with him",,,,,,,,
 ,wrestle,אָבֹק|avok,V,wrestle,"וַיֵ[אָבֵק]|vaiye[avek]|and he be [wrestled]",וַיֵּאָבֵ֥ק,HViSP3ms
 ,man,אִישׁ|ish,m,man,[אִישׁ]|[ish]|[man],אִישׁ֙,Hms
@@ -16232,7 +16232,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,handmaid,שִׁפְחָה|shifchah,f,"maid servant","הַ[שִׁפְח]וֹת|ha[shifch]ot|the [maid] [servants]",הַשְּׁפָח֛וֹת,Hfp
 ,and,אֵת|et,,even,"וְ[אֵת]־|ve[et]|and [even]",וְאֶת־,H
 ,child,יַלֵד|yaled,m,boy,"[יַלֵדֵ]יהֶן|[yaled]eihen|[boys] them (f)",יַלְדֵיהֶ֖ן,Hmp
-,foremost,רִאשׁוֹנָה|rishonah,f,first,[רִאשֹׁנָה]|[rishonah]|[first],רִֽאשֹׁנָ֑ה,Hfs
+,foremost,רִאשׁוֹנָה|rishonah,f,"first (head of)","[רִאשֹׁנָה]|[rishonah]|[first] (head of)",רִֽאשֹׁנָ֑ה,Hfs
 "Gen 33:2 ב: and Leah and her children after,",,,,,,,,
 ,and,אֵת|et,,even,"וְ[אֵת]־|ve[et]|and [even]",וְאֶת־,H
 ,Leah,לֵאָה|leah,M,"Leah (worn out)","[לֵאָה]|[leah]|[Leah] (worn out)",לֵאָ֤ה,M
@@ -16534,7 +16534,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Shechem,שְׁכֶם|shechem,M,"Shechem (load up you)","[שְׁכֶם]|[shechem]|[Shechem] (load up you)",שְׁכֶ֑ם,M
 "Gen 33:19 ה: for an hundred pieces of money.",,,,,,,,
 ,hundred,מֵאָה|meah,b,"hundred (100)","בְּ[מֵאָה]|be[meah]|in [hundred] (100)",בְּמֵאָ֖ה,Hbs
-,"pieces of money",קְשִׂיטָה|kesitah,f,"pieces of silver","[קְשִׂיטָה]׃|[kesitah]|[pieces] [of] [silver]",קְשִׂיטָֽה׃,Hfs
+,"pieces of money",קְשִׂיטָה|kesitah,f,"piece of silver","[קְשִׂיטָה]׃|[kesitah]|[piece] [of] [silver]",קְשִׂיטָֽה׃,Hfs
 "Gen 33:20 א: And he erected there an altar,",,,,,,,,
 ,erect,נָצֹב|natzov,V,position,"וַיַ[צִב]־|vaiya[tziv]|and he do [position]",וַיַּצֶּב־,HViCA3ms
 ,there,שָׁם|sham,,there,[שָׁם]|[sham]|[there],שָׁ֖ם,H
@@ -16982,7 +16982,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,come,בּוֹא|bo,V,come,"וַיָ[בֻּא]וּ|vaiya[bu]u|and they [come]",וַיָּבֹ֥אוּ,HViSA3mp
 ,upon,עַל|al,,upon,[עַל]־|[al]|[upon],עַל־,H
 ,city,עִיר|ir,f,"city (awaken you)","הַ[עִיר]|ha[ir]|the [city] (awaken you)",הָעִ֖יר,Hfs
-,boldly,בֶטַח|vetach,m,"secureness (trust)","[בֶטַח]|[vetach]|[secureness] (trust)",בֶּ֑טַח,Hms
+,boldly,בֶּטַח|betach,m,"secureness (trust)","[בֶּטַח]|[betach]|[secureness] (trust)",בֶּ֑טַח,Hms
 "Gen 34:25 ח: and slew all the males.",,,,,,,,
 ,slay,הָרֹג|harog,V,kill,"וַיִ[הְרְג]וּ|vaiyi[hreg]u|and they [kill]",וַיַּֽהַרְג֖וּ,HViSA3mp
 ,all,כָּל|kal,m,all,[כָּל]־|[kal]|[all],כָּל־,Hms
@@ -17075,7 +17075,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 34:30 ה: and I [being] few in number,",,,,,,,,
 ,I,אֲנִי|ani,c,"thus I","וְ[אֲנִי]|ve[ani]|and [thus] [I]",וַאֲנִי֙,Hcs
 ,few,מְת|met,m,few,[מְתֵ]י|[met]ei|[few],מְתֵ֣י,Hmp
-,number,מִסְפַּר|mispar,m,"of number (listing)","[מִסְפַּר]|[mispar]|[of] [number] (listing)",מִסְפָּ֔ר,Hms
+,number,מִסְפַּר|mispar,m,"number (listing) of","[מִסְפַּר]|[mispar]|[number] (listing) [of]",מִסְפָּ֔ר,Hms
 "Gen 34:30 ו: they shall gather themselves together against me, and slay me;",,,,,,,,
 ,"gather together",אָסֹף|asof,V,gather,"וְנֶ[אֱסַפ]וּ|vene[esaf]u|and they be [gathered]",וְנֶאֶסְפ֤וּ,HVpSP3cp
 ,against,עַל|al,,upon,"[עַלִ]י|[al]i|[upon] me",עָלַי֙,H
@@ -17677,7 +17677,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,not,לֹא|lo,,not,"וְ[לֹא]|ve[lo]|and [not]",וְלֹ֨א,H
 ,can,יָכֹל|yachol,V,"be able","[יָכַלָ]ה|[yachala]h|she [be] [able]",יָֽכְלָ֜ה,HVpSA3fs
 ,land,אָרֶץ|aretz,b,land,[אָרֶץ]|[aretz]|[land],אֶ֤רֶץ,Hbs
-,"wherein art a stranger",מְגוּר|megur,m,"of sojourning","[מְגוּרֵ]יהֶם|[megur]eihem|[of] [sojournings] them (m)",מְגֽוּרֵיהֶם֙,Hmp
+,"wherein art a stranger",מְגוּר|megur,m,"sojourning of","[מְגוּרֵ]יהֶם|[megur]eihem|[sojournings] [of] them (m)",מְגֽוּרֵיהֶם֙,Hmp
 "Gen 36:7 ג: bear them",,,,,,,,
 ,bear,נָשֹׂא|naso,V,"lift up","לְ[שֹׂאת]|le[sot]|to [lift] [up]",לָשֵׂ֣את,HVcSA
 ,,אֵת|et,,even,"[אֵתָ]ם|[et]am|[even] them (m)",אֹתָ֔ם,H
@@ -17934,7 +17934,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Shobal,שׁוֹבָּל|shobal,M,"Shobal (be flowed along)","[שׁוֹבָּל]|[shobal]|[Shobal] (be flowed along)",שׁוֹבָ֔ל,M
 "Gen 36:23 ב: Alvan, and Manahath, and Ebal, Shepho, and Onam.",,,,,,,,
 ,Alvan,עַלְוָן|alvan,M,"Alvan (of injustice them)","[עַלְוָן]|[alvan]|[Alvan] (of injustice them)",עַלְוָ֥ן,M
-,Manahath,מָנַחַת|manachat,M,"Manahath (of being at rest)","וּ[מָנַחַת]|u[manachat]|and [Manahath] (of being at rest)",וּמָנַ֖חַת,M
+,Manahath,מָנַחַת|manachat,M,"Manahath (being at rest of)","וּ[מָנַחַת]|u[manachat]|and [Manahath] (being at rest of)",וּמָנַ֖חַת,M
 ,Ebal,עֵיבָל|eival,M,"Ebal (be unjust you)","וְ[עֵיבָל]|ve[eival]|and [Ebal] (be unjust you)",וְעֵיבָ֑ל,M
 ,Shepho,שְׁפוֹ|shefo,M,"Shepho (protrude him)","[שְׁפוֹ]|[shefo]|[Shepho] (protrude him)",שְׁפ֖וֹ,M
 ,Onam,אוֹנָם|onam,M,"Onam (vitality people)","וְ[אוֹנָם]׃|ve[onam]|and [Onam] (vitality people)",וְאוֹנָֽם׃,M
@@ -18097,7 +18097,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,"in stead",תָחַת|tachat,,"in place of (below)","[תָחַתָי]ו|[tachata]v|[in] [place] [of] (below) him",תַּחְתָּ֔יו,H
 ,Samlah,שַׂמְלָה|samlah,M,"Samlah (apparel)","[שַׂמְלָה]|[samlah]|[Samlah] (apparel)",שַׂמְלָ֖ה,M
 "Gen 36:36 ג: of Masrekah",,,,,,,,
-,Masrekah,מַשְׂרֵקָה|masrekah,M,"Masrekah (of fine)","מִ[מַשְׂרֵקָה]׃|mi[masrekah]|from [Masrekah] (of fine)",מִמַּשְׂרֵקָֽה׃,M
+,Masrekah,מַשְׂרֵקָה|masrekah,M,"Masrekah (fine of)","מִ[מַשְׂרֵקָה]׃|mi[masrekah]|from [Masrekah] (fine of)",מִמַּשְׂרֵקָֽה׃,M
 "Gen 36:37 א: And Samlah died,",,,,,,,,
 ,die,מוֹת|mot,V,die,"וַיָ[מֻת]|vaiya[mut]|and he [die]",וַיָּ֖מָת,HViSA3ms
 ,Samlah,שַׂמְלָה|samlah,M,"Samlah (apparel)","[שַׂמְלָה]|[samlah]|[Samlah] (apparel)",שַׂמְלָ֑ה,M
@@ -18175,7 +18175,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Teman,תֵימָן|teiman,M,"Teman (on the right side)","[תֵימָן]|[teiman]|[Teman] (on the right side)",תֵּימָ֖ן,M
 "Gen 36:42 ג: duke Mibzar,",,,,,,,,
 ,duke,אַלוּף|aluf,m,guide,[אַלוּף]|[aluf]|[guide],אַלּ֥וּף,Hms
-,Mibzar,מִבְצָר|mivtzar,M,"Mibzar (of be fortified you)","[מִבְצָר]׃|[mivtzar]|[Mibzar] (of be fortified you)",מִבְצָֽר׃,M
+,Mibzar,מִבְצָר|mivtzar,M,"Mibzar (be fortified you of)","[מִבְצָר]׃|[mivtzar]|[Mibzar] (be fortified you of)",מִבְצָֽר׃,M
 "Gen 36:43 א: Duke Magdiel,",,,,,,,,
 ,duke,אַלוּף|aluf,m,guide,[אַלוּף]|[aluf]|[guide],אַלּ֥וּף,Hms
 ,Magdiel,מַגְדִיאֵל|magdiel,M,"Magdiel (choice me God)","[מַגְדִיאֵל]|[magdiel]|[Magdiel] (choice me God)",מַגְדִּיאֵ֖ל,M
@@ -18187,7 +18187,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,duke,אַלוּף|aluf,m,guide,[אַלוּפֵ]י|[aluf]ei|[guides],אַלּוּפֵ֣י,Hmp
 ,Edom,אֱדוֹם|edom,M,"Edom (make red)","[אֱדוֹם]|[edom]|[Edom] (make red)",אֱד֗וֹם,M
 "Gen 36:43 ד: according to their habitations in the land of their possession:",,,,,,,,
-,habitation,מוֹשֵׁב|moshev,m,"dwelling (of sitting down)","לְ[מֹשֵׁבֹ]תָם|le[moshev]otam|to [dwellings] (of sitting downs) them (m)",לְמֹֽשְׁבֹתָם֙,Hmp
+,habitation,מוֹשֵׁב|moshev,m,"dwelling (settle you of)","לְ[מֹשֵׁבֹ]תָם|le[moshev]otam|to [dwellings] (settle you ofs) them (m)",לְמֹֽשְׁבֹתָם֙,Hmp
 ,land,אָרֶץ|aretz,b,land,"בְּ[אָרֶץ]|be[aretz]|in [land]",בְּאֶ֣רֶץ,Hbs
 ,possession,אֲחֻזָה|achuzah,f,holdings,"[אֲחֻזַ]תָם|[achuza]tam|[holdings] them (m)",אֲחֻזָּתָ֔ם,Hfs
 "Gen 36:43 ה: he [is] Esau the father of the Edomites.",,,,,,,,
@@ -18199,7 +18199,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,dwell,יָשֹׁב|yashov,V,"settle (sit down)","וַיִ[שַׁב]|vaiyi[shav]|and he [settle] (sit down)",וַיֵּ֣שֶׁב,HViSA3ms
 ,Jacob,יַעֲקֹב|yaakov,M,"Jacob (he supplants)","[יַעֲקֹב]|[yaakov]|[Jacob] (he supplants)",יַעֲקֹ֔ב,M
 ,land,אָרֶץ|aretz,b,land,"בְּ[אָרֶץ]|be[aretz]|in [land]",בְּאֶ֖רֶץ,Hbs
-,"wherein art a stranger",מְגוּר|megur,m,"of sojourning","[מְגוּרֵ]י|[megur]ei|[of] [sojournings]",מְגוּרֵ֣י,Hmp
+,"wherein art a stranger",מְגוּר|megur,m,"sojourning of","[מְגוּרֵ]י|[megur]ei|[sojournings] [of]",מְגוּרֵ֣י,Hmp
 ,father,אָב|av,m,father,"[אָבִ]יו|[av]iv|[father] him",אָבִ֑יו,Hms
 "Gen 37:1 ב: in the land of Canaan.",,,,,,,,
 ,land,אָרֶץ|aretz,b,land,"בְּ[אָרֶץ]|be[aretz]|in [land]",בְּאֶ֖רֶץ,Hbs
@@ -18619,7 +18619,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 37:25 א: And they sat down to eat bread:",,,,,,,,
 ,"sit down",יָשֹׁב|yashov,V,"sit down","וַיִ[שְׁב]וּ|vaiyi[shv]u|and they [sit] [down]",וַיֵּשְׁבוּ֮,HViSA3mp
 ,eat,אָכֹל|achol,V,eat,"לְ[אְכֹל]־|le[echol]|to [eat]",לֶֽאֱכָל־,HVcSA
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶחֶם֒,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶחֶם֒,Hbs
 "Gen 37:25 ב: and they lifted up their eyes and looked, and, behold,",,,,,,,,
 ,"lift up",נָשֹׂא|naso,V,"lift up","וַיִ[שְׂא]וּ|vaiyi[s]u|and they [lift] [up]",וַיִּשְׂא֤וּ,HViSA3mp
 ,eye,עֵין|ein,b,eye,"[עֵינֵ]יהֶם|[ein]eihem|[eyes] them (m)",עֵֽינֵיהֶם֙,Hbd
@@ -19306,7 +19306,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 38:28 ד: This came out first.",,,,,,,,
 ,this,זֶה|zeh,m,"this here","[זֶה]|[zeh]|[this] [here]",זֶ֖ה,Hms
 ,"come out",יָצֹא|yatzo,V,"go out","[יָצַא]|[yatza]|he [go] [out]",יָצָ֥א,HVpSA3ms
-,first,רִאשׁוֹן|rishon,m,first,"[רִאשֹׁנָ]ה׃|[rishon]ah|[first] unto",רִאשֹׁנָֽה׃,Hms
+,first,רִאשׁוֹן|rishon,m,"first (head of)","[רִאשֹׁנָ]ה׃|[rishon]ah|[first] (head of) unto",רִאשֹׁנָֽה׃,Hms
 "Gen 38:29 א: And it came to pass, as he drew back his hand,",,,,,,,,
 ,"come to pass",הָיֹה|haiyoh,V,exist,"וַיְ[הִי]׀|vaiye[hi]|and he [exist]",וַיְהִ֣י׀,HViSA3ms
 ,"draw back",שׁוֹב|shov,V,"turn back","כְּמֵ[שִׁיב]|keme[shiv]|as do be [turning] [back]",כְּמֵשִׁ֣יב,HVrCAmsa
@@ -19454,7 +19454,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 39:6 ג: save the bread which he did eat.",,,,,,,,
 ,save,כִּי|ki,,"for that","[כִּי]|[ki]|[for] [that]",כִּ֥י,H
 ,,אִם|im,,"if then","[אִם]־|[im]|[if] [then]",אִם־,H
-,bread,לֶחֶם|lechem,b,"bread (is eating)","הַ[לֶחֶם]|ha[lechem]|the [bread] (is eating)",הַלֶּ֖חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","הַ[לֶחֶם]|ha[lechem]|the [bread] (be eating)",הַלֶּ֖חֶם,Hbs
 ,which,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]־|[asher]|[then] [that]",אֲשֶׁר־,H
 ,he,הוּא|hu,m,he,[הוּא]|[hu]|[he],ה֣וּא,Hms
 ,eat,אָכֹל|achol,V,eat,[אוֹכֵל]|[ochel]|[eating],אוֹכֵ֑ל,HVrSAmsa
@@ -19465,7 +19465,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,,תֹאַר|toar,m,"looking at","[תֹאַר]|[toar]|[looking] [at]",תֹ֖אַר,Hms
 "Gen 39:6 ה: and well favoured.",,,,,,,,
 ,well,יָפֵה|yafeh,m,handsome,"וַ[יָפֵה]|vai[yafeh]|and [handsome]",וִיפֵ֥ה,Hms
-,favoured,מַרְאֶה|mareh,m,"appearance (of seeing)","[מַרְאֶה]׃|[mareh]|[appearance] (of seeing)",מַרְאֶֽה׃,Hms
+,favoured,מַרְאֶה|mareh,m,"appearance (seeing of)","[מַרְאֶה]׃|[mareh]|[appearance] (seeing of)",מַרְאֶֽה׃,Hms
 "Gen 39:7 א: And it came to pass after these things,",,,,,,,,
 ,"come to pass",הָיֹה|haiyoh,V,exist,"וַיְ[הִי]|vaiye[hi]|and he [exist]",וַיְהִ֗י,HViSA3ms
 ,after,אַחֲר|achar,,after,[אַחֲר]|[achar]|[after],אַחַר֙,H
@@ -19811,7 +19811,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 40:3 א: And he put them in ward in the house of the captain of the guard,",,,,,,,,
 ,put,נָתֹן|naton,V,give,"וַיִ[תַן]|vaiyi[tan]|and he [give]",וַיִּתֵּ֨ן,HViSA3ms
 ,,אֵת|et,,even,"[אֵתָ]ם|[et]am|[even] them (m)",אֹתָ֜ם,H
-,ward,מִשְׁמָר|mishmar,m,"custody (of guarding)","בְּ[מִשְׁמָר]|be[mishmar]|in [custody] (of guarding)",בְּמִשְׁמַ֗ר,Hms
+,ward,מִשְׁמָר|mishmar,m,"custody (guarding of)","בְּ[מִשְׁמָר]|be[mishmar]|in [custody] (guarding of)",בְּמִשְׁמַ֗ר,Hms
 ,house,בֵּית|beit,m,house,[בֵּית]|[beit]|[house],בֵּ֛ית,Hms
 ,captain,שַׂר|sar,m,"head person","[שַׂר]|[sar]|[head] [person]",שַׂ֥ר,Hms
 ,guard,טַבָּח|tabach,m,"guard (butcher)","הַ[טַבָּחִ]ים|ha[tabach]im|the [guards] (butchers)",הַטַבָּחִ֖ים,Hmp
@@ -19838,7 +19838,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 40:4 ג: and they continued a season in ward.",,,,,,,,
 ,continue,הָיֹה|haiyoh,V,exist,"וַיִ[הִי]וּ|vaiyi[hiy]u|and they [exist]",וַיִּהְי֥וּ,HViSA3mp
 ,season,יוֹם|yom,m,day,[יֹמִ]ים|[yom]im|[days],יָמִ֖ים,Hmp
-,ward,מִשְׁמָר|mishmar,m,"custody (of guarding)","בְּ[מִשְׁמָר]׃|be[mishmar]|in [custody] (of guarding)",בְּמִשְׁמָֽר׃,Hms
+,ward,מִשְׁמָר|mishmar,m,"custody (guarding of)","בְּ[מִשְׁמָר]׃|be[mishmar]|in [custody] (guarding of)",בְּמִשְׁמָֽר׃,Hms
 "Gen 40:5 א: And they dreamed a dream both of them,",,,,,,,,
 ,dream,חָלֹם|chalom,V,dream,"וַיִ[חְלְמ]וּ|vaiyi[chlem]u|and they [dream]",וַיַּֽחַלְמוּ֩,HViSA3mp
 ,dream,חֲלוֹם|chalom,m,dream,[חֲלוֹם]|[chalom]|[dream],חֲל֨וֹם,Hms
@@ -19881,7 +19881,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 40:7 ב: that [were] with him in the ward of his lord’s house, saying,",,,,,,,,
 ,that,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֨ר,H
 ,with,אֵת|et,,"along with","[אֵת]וֹ|[et]o|[along] [with] him",אִתּ֧וֹ,H
-,ward,מִשְׁמָר|mishmar,m,"custody (of guarding)","בְּ[מִשְׁמָר]|be[mishmar]|in [custody] (of guarding)",בְמִשְׁמַ֛ר,Hms
+,ward,מִשְׁמָר|mishmar,m,"custody (guarding of)","בְּ[מִשְׁמָר]|be[mishmar]|in [custody] (guarding of)",בְמִשְׁמַ֛ר,Hms
 ,house,בֵּית|beit,m,house,[בֵּית]|[beit]|[house],בֵּ֥ית,Hms
 ,lord,אָדוֹן|adon,m,"lord (supreme)","[אָדֹנָ]יו|[adon]av|[lords] (supreme) him",אֲדֹנָ֖יו,Hmp
 ,say,אָמֹר|amor,V,say,"לְ[אְמֹר]|le[emor]|to [say]",לֵאמֹ֑ר,HVcSA
@@ -19994,7 +19994,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,hand,יָד|yad,b,hand,"בְּ[יָד]וֹ|bei[yad]o|in [hand] him",בְּיָד֔וֹ,Hbs
 "Gen 40:13 ד: after the former manner",,,,,,,,
 ,manner,מִשְׁפָּט|mishpat,m,judgment,"כְּ[מִשְׁפָּט]|ke[mishpat]|as [judgment]",כַּמִּשְׁפָּט֙,Hms
-,former,רִאשׁוֹן|rishon,m,first,"הַ[רִאשׁוֹן]|ha[rishon]|the [first]",הָֽרִאשׁ֔וֹן,Hms
+,former,רִאשׁוֹן|rishon,m,"first (head of)","הַ[רִאשׁוֹן]|ha[rishon]|the [first] (head of)",הָֽרִאשׁ֔וֹן,Hms
 "Gen 40:13 ה: when thou wast his butler.",,,,,,,,
 ,when,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֥ר,H
 ,be,הָיֹה|haiyoh,V,exist,"[הֵיַי]תָ|[heiya]ta|you [exist]",הָיִ֖יתָ,HVpSA2ms
@@ -20058,16 +20058,16 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,behold,הִנֵה|hineh,,behold,"וְ[הִנֵה]|ve[hineh]|and [behold]",וְהִנֵּ֗ה,H
 "Gen 40:16 ה: [I had] three white baskets on my head:",,,,,,,,
 ,three,שְׁלוֹשָׁה|sheloshah,m,"three (3)","[שְׁלֹשָׁה]|[sheloshah]|[three] (3)",שְׁלֹשָׁ֛ה,Hms
-,basket,סַל|sal,m,"basket (building up)","[סַלֵ]י|[sal]ei|[baskets] (building ups)",סַלֵּ֥י,Hmp
+,basket,סַל|sal,m,"basket (he build up)","[סַלֵ]י|[sal]ei|[baskets] (he build ups)",סַלֵּ֥י,Hmp
 ,white,חֹרִי|chori,m,"pale bread","[חֹרִי]|[chori]|[pale] [bread]",חֹרִ֖י,Hms
 ,on,עַל|al,,upon,[עַל]־|[al]|[upon],עַל־,H
 ,head,רֹאשׁ|rosh,m,head,"[רֹאשִׁ]י׃|[rosh]i|[head] me",רֹאשִֽׁי׃,Hms
 "Gen 40:17 א: And in the uppermost basket",,,,,,,,
-,basket,סַל|sal,m,"basket (building up)","וּבְ[סַל]|uve[sal]|and in [basket] (building up)",וּבַסַּ֣ל,Hms
+,basket,סַל|sal,m,"basket (he build up)","וּבְ[סַל]|uve[sal]|and in [basket] (he build up)",וּבַסַּ֣ל,Hms
 ,uppermost,עֶלְיוֹן|elyon,m,uppermost,"הַ[עֶלְיוֹן]|ha[elyon]|the [uppermost]",הָֽעֶלְי֔וֹן,Hms
 "Gen 40:17 ב: [there was] of all manner of bakemeats for Pharaoh;",,,,,,,,
 ,all,כָּל|kal,m,all,"מִ[כָּל]|mi[kal]|from [all]",מִכֹּ֛ל,Hms
-,meat,מַאֲכָל|maachal,m,"of food (of eating)","[מַאֲכָל]|[maachal]|[of] [food] (of eating)",מַאֲכַ֥ל,Hms
+,meat,מַאֲכָל|maachal,m,"food (eating) of","[מַאֲכָל]|[maachal]|[food] (eating) [of]",מַאֲכַ֥ל,Hms
 ,Pharaoh,פַּרְעֹה|paroh,M,"Pharaoh (he take the lead him)","[פַּרְעֹה]|[paroh]|[Pharaoh] (he take the lead him)",פַּרְעֹ֖ה,M
 ,,מַעֲשֶׂה|maaseh,m,"be doing","[מַעֲשֶׂה]|[maaseh]|[be] [doing]",מַעֲשֵׂ֣ה,Hms
 ,bake,אָפֹה|afoh,V,bake,[אֹפֵה]|[ofeh]|[baking],אֹפֶ֑ה,HVrSAmsa
@@ -20077,7 +20077,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,,אֵת|et,,even,"[אֵתָ]ם|[et]am|[even] them (m)",אֹתָ֛ם,H
 "Gen 40:17 ד: out of the basket upon my head.",,,,,,,,
 ,out,מִן|min,,from,[מִן]־|[min]|[from],מִן־,H
-,basket,סַל|sal,m,"basket (building up)","הַ[סַל]|ha[sal]|the [basket] (building up)",הַסַּ֖ל,Hms
+,basket,סַל|sal,m,"basket (he build up)","הַ[סַל]|ha[sal]|the [basket] (he build up)",הַסַּ֖ל,Hms
 ,upon,עַל|al,,upon,"מִ[עַל]|mi[al]|from [upon]",מֵעַ֥ל,H
 ,head,רֹאשׁ|rosh,m,head,"[רֹאשִׁ]י׃|[rosh]i|[head] me",רֹאשִֽׁי׃,Hms
 "Gen 40:18 א: And Joseph answered and said,",,,,,,,,
@@ -20089,7 +20089,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,interpretation,פִּתְרוֹן|pitron,m,interpretation,"[פִּתְרֹנ]וֹ|[pitron]o|[interpretation] him",פִּתְרֹנ֑וֹ,Hms
 "Gen 40:18 ג: The three baskets [are] three days:",,,,,,,,
 ,three,שְׁלוֹשָׁה|sheloshah,m,"three (3)","[שְׁלֹשַׁ]ת|[shelosha]t|[three] (3)",שְׁלֹ֨שֶׁת֙,Hms
-,basket,סַל|sal,m,"basket (building up)","הַ[סַלִ]ים|ha[sal]im|the [baskets] (building ups)",הַסַּלִּ֔ים,Hmp
+,basket,סַל|sal,m,"basket (he build up)","הַ[סַלִ]ים|ha[sal]im|the [baskets] (he build ups)",הַסַּלִּ֔ים,Hmp
 ,three,שְׁלוֹשָׁה|sheloshah,m,"three (3)","[שְׁלֹשַׁ]ת|[shelosha]t|[three] (3)",שְׁלֹ֥שֶׁת,Hms
 ,day,יוֹם|yom,m,day,[יֹמִ]ים|[yom]im|[days],יָמִ֖ים,Hmp
 ,are,הֵם|hem,m,they,[הֵם]׃|[hem]|[they],הֵֽם׃,Hmp
@@ -20125,7 +20125,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Pharaoh,פַּרְעֹה|paroh,M,"Pharaoh (he take the lead him)","[פַּרְעֹה]|[paroh]|[Pharaoh] (he take the lead him)",פַּרְעֹ֔ה,M
 "Gen 40:20 ג: that he made a feast unto all his servants:",,,,,,,,
 ,make,עָשֹׂה|asoh,V,make,"וַיַ[עֲשׂ]|vaiya[as]|that he [make]",וַיַּ֥עַשׂ,HViSA3ms
-,feast,מִשְׁתֶה|mishteh,m,"feast (of drinking)","[מִשְׁתֶה]|[mishteh]|[feast] (of drinking)",מִשְׁתֶּ֖ה,Hms
+,feast,מִשְׁתֶה|mishteh,m,"feast (drink you of)","[מִשְׁתֶה]|[mishteh]|[feast] (drink you of)",מִשְׁתֶּ֖ה,Hms
 ,all,כָּל|kal,m,all,"לְ[כָּל]־|le[kal]|to [all]",לְכָל־,Hms
 ,servant,עֲבָד|avad,m,servant,"[עֲבָדָ]יו|[avad]av|[servants] him",עֲבָדָ֑יו,Hmp
 "Gen 40:20 ד: and he lifted up the head of the chief butler",,,,,,,,
@@ -20196,7 +20196,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,kine,פָּרָה|parah,f,"heifer (nullifying)","[פָּר]וֹת|[par]ot|[heifers] (nullifyings)",פָּר֔וֹת,Hfp
 "Gen 41:2 ב: well favoured [...] and fatfleshed;",,,,,,,,
 ,well,יָפָה|yafah,f,beautiful,[יָפ]וֹת|[yaf]ot|[beautiful],יְפ֥וֹת,Hfp
-,favoured,מַרְאֶה|mareh,m,"sight (of seeing)","[מַרְאֶה]|[mareh]|[sight] (of seeing)",מַרְאֶ֖ה,Hms
+,favoured,מַרְאֶה|mareh,m,"sight (seeing of)","[מַרְאֶה]|[mareh]|[sight] (seeing of)",מַרְאֶ֖ה,Hms
 ,fat,בְּרִיאָה|beriah,f,"fat (filled up)","וּ[בְּרִיאֹ]ת|u[berio]t|and [fat] (filled up)",וּבְרִיאֹ֣ת,Hfp
 ,fleshed,בְּשָׂר|besar,m,"flesh (bearing tidings)","[בְּשָׂר]|[besar]|[flesh] (bearing tidings)",בָּשָׂ֑ר,Hms
 "Gen 41:2 ג: and they fed in a meadow.",,,,,,,,
@@ -20214,7 +20214,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,river,יְאֹר|yeor,m,"river (light)","הַ[יְאֹר]|hai[yeor]|the [river] (light)",הַיְאֹ֔ר,Hms
 "Gen 41:3 ג: ill favoured and leanfleshed;",,,,,,,,
 ,ill,רָעָה|raah,f,bad,[רָע]וֹת|[ra]ot|[bad],רָע֥וֹת,Hfp
-,favoured,מַרְאֶה|mareh,m,"sight (of seeing)","[מַרְאֶה]|[mareh]|[sight] (of seeing)",מַרְאֶ֖ה,Hms
+,favoured,מַרְאֶה|mareh,m,"sight (seeing of)","[מַרְאֶה]|[mareh]|[sight] (seeing of)",מַרְאֶ֖ה,Hms
 ,lean,דַקָה|dakah,f,pulverized,"וְ[דַק]וֹת|ve[dak]ot|and [pulverized]",וְדַקּ֣וֹת,Hfp
 ,fleshed,בְּשָׂר|besar,m,"flesh (bearing tidings)","[בְּשָׂר]|[besar]|[flesh] (bearing tidings)",בָּשָׂ֑ר,Hms
 "Gen 41:3 ד: and stood by the [other] kine",,,,,,,,
@@ -20230,7 +20230,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,kine,פָּרָה|parah,f,"heifer (nullifying)","הַ[פָּר]וֹת|ha[par]ot|the [heifers] (nullifyings)",הַפָּר֗וֹת,Hfp
 "Gen 41:4 ב: ill favoured and leanfleshed",,,,,,,,
 ,ill,רָעָה|raah,f,bad,[רָע]וֹת|[ra]ot|[bad],רָע֤וֹת,Hfp
-,favoured,מַרְאֶה|mareh,m,"sight (of seeing)","הַ[מַרְאֶה]|ha[mareh]|the [sight] (of seeing)",הַמַּרְאֶה֙,Hms
+,favoured,מַרְאֶה|mareh,m,"sight (seeing of)","הַ[מַרְאֶה]|ha[mareh]|the [sight] (seeing of)",הַמַּרְאֶה֙,Hms
 ,lean,דַקָה|dakah,f,pulverized,"וְ[דַקֹ]ת|ve[dako]t|and [pulverized]",וְדַקֹּ֣ת,Hfp
 ,fleshed,בְּשָׂר|besar,m,"flesh (bearing tidings)","הַ[בְּשָׂר]|ha[besar]|the [flesh] (bearing tidings)",הַבָּשָׂ֔ר,Hms
 "Gen 41:4 ג: the seven [...] kine.",,,,,,,,
@@ -20239,7 +20239,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,kine,פָּרָה|parah,f,"heifer (nullifying)","הַ[פָּר]וֹת|ha[par]ot|the [heifers] (nullifyings)",הַפָּר֔וֹת,Hfp
 "Gen 41:4 ד: well favoured and fat",,,,,,,,
 ,well,יָפָה|yafah,f,beautiful,[יָפֹ]ת|[yafo]t|[beautiful],יְפֹ֥ת,Hfp
-,favoured,מַרְאֶה|mareh,m,"sight (of seeing)","הַ[מַרְאֶה]|ha[mareh]|the [sight] (of seeing)",הַמַּרְאֶ֖ה,Hms
+,favoured,מַרְאֶה|mareh,m,"sight (seeing of)","הַ[מַרְאֶה]|ha[mareh]|the [sight] (seeing of)",הַמַּרְאֶ֖ה,Hms
 ,fat,בְּרִיאָה|beriah,f,"fat (filled up)","וְהַ[בְּרִיאֹ]ת|veha[berio]t|and the [fat] (filled up)",וְהַבְּרִיאֹ֑ת,Hfp
 "Gen 41:4 ה: So Pharaoh awoke.",,,,,,,,
 ,awake,יָקֹץ|yakotz,V,awake,"וַיִ[יקַץ]|vaiyi[katz]|and he [awake]",וַיִּיקַ֖ץ,HViSA3ms
@@ -20333,7 +20333,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 41:10 ב: and put me in ward in the captain of the guard’s house,",,,,,,,,
 ,put,נָתֹן|naton,V,give,"וַיִ[תַן]|vaiyi[tan]|and he [give]",וַיִּתֵּ֨ן,HViSA3ms
 ,,אֵת|et,,even,"[אֵתִ]י|[et]i|[even] me",אֹתִ֜י,H
-,ward,מִשְׁמָר|mishmar,m,"custody (of guarding)","בְּ[מִשְׁמָר]|be[mishmar]|in [custody] (of guarding)",בְּמִשְׁמַ֗ר,Hms
+,ward,מִשְׁמָר|mishmar,m,"custody (guarding of)","בְּ[מִשְׁמָר]|be[mishmar]|in [custody] (guarding of)",בְּמִשְׁמַ֗ר,Hms
 ,house,בֵּית|beit,m,house,[בֵּית]|[beit]|[house],בֵּ֚ית,Hms
 ,captain,שַׂר|sar,m,"head person","[שַׂר]|[sar]|[head] [person]",שַׂ֣ר,Hms
 ,guard,טַבָּח|tabach,m,"guard (butcher)","הַ[טַבָּחִ]ים|ha[tabach]im|the [guards] (butchers)",הַטַּבָּחִ֔ים,Hmp
@@ -20509,7 +20509,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,seven,שֶׁבַע|sheva,f,"seven (7)","[שֶׁבַע]|[sheva]|[seven] (7)",שֶׁ֧בַע,Hfs
 ,kine,פָּרָה|parah,f,"heifer (nullifying)","הַ[פָּר]וֹת|ha[par]ot|the [heifers] (nullifyings)",הַפָּר֛וֹת,Hfp
 "Gen 41:20 ד: the first [...] fat",,,,,,,,
-,first,רִאשׁוֹנָה|rishonah,f,first,"הַ[רִאשֹׁנ]וֹת|ha[rishon]ot|the [firsts]",הָרִאשֹׁנ֖וֹת,Hfp
+,first,רִאשׁוֹנָה|rishonah,f,"first (head of)","הַ[רִאשֹׁנ]וֹת|ha[rishon]ot|the [firsts] (head of)",הָרִאשֹׁנ֖וֹת,Hfp
 ,fat,בְּרִיאָה|beriah,f,"fat (filled up)","הַ[בְּרִיאֹ]ת׃|ha[berio]t|the [fat] (filled up)",הַבְּרִיאֹֽת׃,Hfp
 "Gen 41:21 א: And when they had eaten them up,",,,,,,,,
 ,eat,בּוֹא|bo,V,come,"וְתָ[בֻּאְ]נָה|veta[bu]nah|and they [come]",וַתָּבֹ֣אנָה,HViSA3fp
@@ -20523,7 +20523,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,,אֵלֶי|elei,,unto,[אֵל]־|[el]|[unto],אֶל־,H
 ,,קִרֵב|kirev,m,among,"[קִרֵב]נָה|[kirev]nah|[among] them (f)",קִרְבֶּ֔נָה,Hms
 "Gen 41:21 ג: but they [were] still ill favoured, as at the beginning.",,,,,,,,
-,favoured,מַרְאֶה|mareh,m,"appearance (of seeing)","וּ[מַרְאֶי]הֶן|u[marei]hen|and [appearance] (of seeing) them (f)",וּמַרְאֵיהֶ֣ן,Hms
+,favoured,מַרְאֶה|mareh,m,"appearance (seeing of)","וּ[מַרְאֶי]הֶן|u[marei]hen|and [appearance] (seeing of) them (f)",וּמַרְאֵיהֶ֣ן,Hms
 ,ill,רָע|ra,m,bad,[רָע]|[ra]|[bad],רַ֔ע,Hms
 ,at,אֲשֶׁר|asher,,"then that","כְּ[אֲשֶׁר]|ke[asher]|as [then] [that]",כַּאֲשֶׁ֖ר,H
 ,beginning,תְחִלָה|techilah,f,start,"בְּ[תְחִלָה]|be[techilah]|in [start]",בַּתְּחִלָּ֑ה,Hfs
@@ -20926,7 +20926,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Asenath,אָסְנַת|asenat,M,"Asenath (let me be thorny)","[אָסְנַת]|[asenat]|[Asenath] (let me be thorny)",אָֽסְנַ֗ת,M
 "Gen 41:45 ג: the daughter of Poti–pherah priest of On.",,,,,,,,
 ,daughter,בֵּנָה|benah,f,daughter,[בַּ]ת־|[ba]t|[daughter],בַּת־,Hfs
-,Poti–pherah,"פּוֹטִי פֶרַע|poti fera",M,"Potiphera (bow and arrow me let loose you)","[פּוֹטִי פֶרַע]|[poti fera]|[Potiphera] (bow and arrow me let loose you)","פּ֥וֹטִי פֶ֛רַע",M
+,Poti–pherah,"פּוֹטִי פֶּרַע|poti pera",M,"Potiphera (bow and arrow me let loose you)","[פּוֹטִי פֶּרַע]|[poti pera]|[Potiphera] (bow and arrow me let loose you)","פּ֥וֹטִי פֶ֛רַע",M
 ,priest,כֹּהֵן|kohen,m,priest,[כֹּהֵן]|[kohen]|[priest],כֹּהֵ֥ן,Hms
 ,On,אוֹן|on,M,"On (vitality)","[אֹן]|[on]|[On] (vitality)",אֹ֖ן,M
 "Gen 41:45 ד: wife",,,,,,,,
@@ -21009,7 +21009,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 41:49 ד: for [it was] without number.",,,,,,,,
 ,for,כִּי|ki,,for,[כִּי]־|[ki]|[for],כִּי־,H
 ,without,אֵין|ein,,"not there","[אֵין]|[ein]|[not] [there]",אֵ֥ין,H
-,number,מִסְפַּר|mispar,m,"of number (listing)","[מִסְפַּר]׃|[mispar]|[of] [number] (listing)",מִסְפָּֽר׃,Hms
+,number,מִסְפַּר|mispar,m,"number (listing) of","[מִסְפַּר]׃|[mispar]|[number] (listing) [of]",מִסְפָּֽר׃,Hms
 "Gen 41:50 א: And unto Joseph were born two sons",,,,,,,,
 ,Joseph,יוֹסֵף|yosef,M,"Joseph (Yah add you)","וּלְ[יוֹסֵף]|ule[iosef]|and to [Joseph] (Yah add you)",וּלְיוֹסֵ֤ף,M
 ,"be born",יָלֹד|yalod,V,bear,"[יֻלַד]|[yulad]|he be [born] !",יֻלַּד֙,HVpIP3ms
@@ -21027,7 +21027,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Asenath,אָסְנַת|asenat,M,"Asenath (let me be thorny)","[אָסְנַת]|[asenat]|[Asenath] (let me be thorny)",אָֽסְנַ֔ת,M
 "Gen 41:50 ד: the daughter of Poti–pherah priest of On",,,,,,,,
 ,daughter,בֵּנָה|benah,f,daughter,[בַּ]ת־|[ba]t|[daughter],בַּת־,Hfs
-,Poti–pherah,"פּוֹטִי פֶרַע|poti fera",M,"Potiphera (bow and arrow me let loose you)","[פּוֹטִי פֶרַע]|[poti fera]|[Potiphera] (bow and arrow me let loose you)","פּ֥וֹטִי פֶ֖רַע",M
+,Poti–pherah,"פּוֹטִי פֶּרַע|poti pera",M,"Potiphera (bow and arrow me let loose you)","[פּוֹטִי פֶּרַע]|[poti pera]|[Potiphera] (bow and arrow me let loose you)","פּ֥וֹטִי פֶ֖רַע",M
 ,priest,כֹּהֵן|kohen,m,priest,[כֹּהֵן]|[kohen]|[priest],כֹּהֵ֥ן,Hms
 ,On,אוֹן|on,M,"On (vitality)","[אוֹן]׃|[on]|[On] (vitality)",אֽוֹן׃,M
 "Gen 41:51 א: And Joseph called the name of the firstborn Manasseh:",,,,,,,,
@@ -21091,7 +21091,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,land,אָרֶץ|aretz,b,land,[אָרֶץ]|[aretz]|[land],אֶ֥רֶץ,Hbs
 ,Egypt,מִצְרַיִם|mitzraiyim,M,"Egypt (confiners)","[מִצְרַיִם]|[mitzraiyim]|[Egypt] (confiners)",מִצְרַ֖יִם,M
 ,was,הָיֹה|haiyoh,V,exist,"[הָיַה]|[haiyah]|he [exist]",הָ֥יָה,HVpSA3ms
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]׃|[lechem]|[bread] (is eating)",לָֽחֶם׃,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]׃|[lechem]|[bread] (be eating)",לָֽחֶם׃,Hbs
 "Gen 41:55 א: And when all the land of Egypt was famished,",,,,,,,,
 ,"be famished",רָעֹב|raov,V,"be hungry","וְתִ[רְעַב]|veti[rav]|and she [be] [hungry]",וַתִּרְעַב֙,HViSA3fs
 ,all,כָּל|kal,m,all,[כָּל]־|[kal]|[all],כָּל־,Hms
@@ -21102,7 +21102,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,people,עַם|am,m,people,"הַ[עַם]|ha[am]|the [people]",הָעָ֛ם,Hms
 ,to,אֵלֶי|elei,,unto,[אֵל]־|[el]|[unto],אֶל־,H
 ,Pharaoh,פַּרְעֹה|paroh,M,"Pharaoh (he take the lead him)","[פַּרְעֹה]|[paroh]|[Pharaoh] (he take the lead him)",פַּרְעֹ֖ה,M
-,bread,לֶחֶם|lechem,b,"bread (is eating)","לְ[לֶחֶם]|le[lechem]|for [bread] (is eating)",לַלָּ֑חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","לְ[לֶחֶם]|le[lechem]|for [bread] (be eating)",לַלָּ֑חֶם,Hbs
 "Gen 41:55 ג: and Pharaoh said unto all the Egyptians,",,,,,,,,
 ,say,אָמֹר|amor,V,say,"וַיֹ[אמֵר]|vaiyo[mer]|and he [say]",וַיֹּ֨אמֶר,HViSA3ms
 ,Pharaoh,פַּרְעֹה|paroh,M,"Pharaoh (he take the lead him)","[פַּרְעֹה]|[paroh]|[Pharaoh] (he take the lead him)",פַּרְעֹ֤ה,M
@@ -21424,7 +21424,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,,אֵת|et,,even,"[אֵתָ]ם|[et]am|[even] them (m)",אֹתָ֛ם,H
 "Gen 42:17 ב: into ward three days.",,,,,,,,
 ,into,אֵלֶי|elei,,unto,[אֵל]־|[el]|[unto],אֶל־,H
-,ward,מִשְׁמָר|mishmar,m,"of guarding","[מִשְׁמָר]|[mishmar]|[of] [guarding]",מִשְׁמָ֖ר,Hms
+,ward,מִשְׁמָר|mishmar,m,"guarding of","[מִשְׁמָר]|[mishmar]|[guarding] [of]",מִשְׁמָ֖ר,Hms
 ,three,שְׁלוֹשָׁה|sheloshah,m,"three (3)","[שְׁלֹשַׁ]ת|[shelosha]t|[three] (3)",שְׁלֹ֥שֶׁת,Hms
 ,day,יוֹם|yom,m,day,[יֹמִ]ים׃|[yom]im|[days],יָמִֽים׃,Hmp
 "Gen 42:18 א: And Joseph said unto them the third day,",,,,,,,,
@@ -21451,7 +21451,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,one,אֶחָד|echad,m,"one (1)","[אֶחָד]|[echad]|[one] (1)",אֶחָ֔ד,Hms
 ,"be bound",אָסֹר|asor,V,imprison,"יֵ[אָסֵר]|ye[aser]|he be [imprisoned]",יֵאָסֵ֖ר,HViSP3ms
 ,house,בֵּית|beit,m,house,"בַּ[בֵּית]|ba[beit]|in [house]",בְּבֵ֣ית,Hms
-,prison,מִשְׁמָר|mishmar,m,"of guarding","[מִשְׁמָר]כֶם|[mishmar]chem|[of] [guarding] you all (m)",מִשְׁמַרְכֶ֑ם,Hms
+,prison,מִשְׁמָר|mishmar,m,"guarding of","[מִשְׁמָר]כֶם|[mishmar]chem|[guarding] [of] you all (m)",מִשְׁמַרְכֶ֑ם,Hms
 "Gen 42:19 ג: go ye,",,,,,,,,
 ,,אַתֶם|atem,m,"you all (m)","וְ[אַתֶם]|ve[atem]|and [you] [all] (m)",וְאַתֶּם֙,Hmp
 ,go,יָלֹך|yaloch,V,"be going","[לְכ]וּ|[lech]u|[be] [going] you all",לְכ֣וּ,HVvSA2mp
@@ -21826,7 +21826,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,"be dead",מוֹת|mot,V,die,"[מֹת]|[mot]|he [die]",מֵ֜ת,HVpSA3ms
 "Gen 42:38 ג: and he is left alone:",,,,,,,,
 ,he,הוּא|hu,m,he,"וְ[הוּא]|ve[hu]|and [he]",וְה֧וּא,Hms
-,alone,בַד|vad,m,aloneness,"לְ[בַד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֣וֹ,Hms
+,alone,בָד|vad,m,aloneness,"לְ[בָד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֣וֹ,Hms
 ,leave,שָׁאֹר|shaor,V,"leave behind","נִ[שְׁאָר]|ni[shar]|being [left] [behind]",נִשְׁאָ֗ר,HVrSPmsa
 "Gen 42:38 ד: if mischief befall him by the way in the which ye go,",,,,,,,,
 ,befall,קָרֹא|karo,V,encounter,"וְ[קָרַא]הוּ|ve[kara]hu|when he [encounter] him",וּקְרָאָ֤הוּ,HVpSA3ms
@@ -22065,7 +22065,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,hand,יָד|yad,b,hand,"בְּ[יָד]כֶם|bei[yad]chem|in [hand] you all (m)",בְיֶדְכֶ֔ם,Hbs
 "Gen 43:12 ד: peradventure it [was] an oversight:",,,,,,,,
 ,peradventure,אוּלַי|ulai,,suppose,[אוּלַי]|[ulai]|[suppose],אוּלַ֥י,H
-,oversight,מִשְׁגֶה|mishgeh,m,"error (be straying)","[מִשְׁגֶה]|[mishgeh]|[error] (be straying)",מִשְׁגֶּ֖ה,Hms
+,oversight,מִשְׁגֶה|mishgeh,m,"error (stray you of)","[מִשְׁגֶה]|[mishgeh]|[error] (stray you of)",מִשְׁגֶּ֖ה,Hms
 ,it,הוּא|hu,m,he,[הוּא]׃|[hu]|[he],הֽוּא׃,Hms
 "Gen 43:13 א: Take also your brother, and",,,,,,,,
 ,and,אֵת|et,,even,"וְ[אֵת]־|ve[et]|and [even]",וְאֶת־,H
@@ -22271,7 +22271,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 43:23 ד: hath given you treasure in your sacks:",,,,,,,,
 ,given,נָתֹן|naton,V,give,"[נָתַן]|[natan]|he [give]",נָתַ֨ן,HVpSA3ms
 ,,|,,,"לְכֶם|lechem|to you all (m)",לָכֶ֤ם,
-,treasure,מַטְמוֹן|matmon,m,"hidden treasure (of covering up)","[מַטְמוֹן]|[matmon]|[hidden] [treasure] (of covering up)",מַטְמוֹן֙,Hms
+,treasure,מַטְמוֹן|matmon,m,"hidden treasure (cover up of)","[מַטְמוֹן]|[matmon]|[hidden] [treasure] (cover up of)",מַטְמוֹן֙,Hms
 ,sack,אַמְתְחָה|amtechah,f,sack,"בְּ[אַמְתְחֹ]תֵיכֶם|be[amtecho]teichem|in [sacks] you all (m)",בְּאַמְתְּחֹ֣תֵיכֶ֔ם,Hfp
 "Gen 43:23 ה: I had your money.",,,,,,,,
 ,money,כֶּסֶף|kesef,m,silver,"[כֶּסֶפ]כֶם|[kesef]chem|[silver] you all (m)",כַּסְפְּכֶ֖ם,Hms
@@ -22315,7 +22315,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,that,כִּי|ki,,that,[כִּי]־|[ki]|[that],כִּי־,H
 ,there,שָׁם|sham,,there,[שָׁם]|[sham]|[there],שָׁ֖ם,H
 ,eat,אָכֹל|achol,V,eat,"יֹ[אכֵל]וּ|yo[chel]u|they [eat]",יֹ֥אכְלוּ,HViSA3mp
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]׃|[lechem]|[bread] (is eating)",לָֽחֶם׃,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]׃|[lechem]|[bread] (be eating)",לָֽחֶם׃,Hbs
 "Gen 43:26 א: And when Joseph came home,",,,,,,,,
 ,come,בּוֹא|bo,V,come,"וַיָ[בֻּא]|vaiya[bu]|and he [come]",וַיָּבֹ֤א,HViSA3ms
 ,Joseph,יוֹסֵף|yosef,M,"Joseph (Yah add you)","[יוֹסֵף]|[yosef]|[Joseph] (Yah add you)",יוֹסֵף֙,M
@@ -22411,19 +22411,19 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,say,אָמֹר|amor,V,say,"וַיֹ[אמֵר]|vaiyo[mer]|and he [say]",וַיֹּ֖אמֶר,HViSA3ms
 "Gen 43:31 ג: Set on bread.",,,,,,,,
 ,"set on",שׂוֹם|som,V,put,"[שִׂימ]וּ|[sim]u|[put] you all",שִׂ֥ימוּ,HVvSA2mp
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]׃|[lechem]|[bread] (is eating)",לָֽחֶם׃,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]׃|[lechem]|[bread] (be eating)",לָֽחֶם׃,Hbs
 "Gen 43:32 א: And they set on for him by himself,",,,,,,,,
 ,"set on",שׂוֹם|som,V,put,"וַיָ[שִׂימ]וּ|vaiya[sim]u|and they [put]",וַיָּשִׂ֥ימוּ,HViSA3mp
 ,,|,,,"לוֹ|lo|to him",ל֛וֹ,
-,"by self",בַד|vad,m,aloneness,"לְ[בַד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֖וֹ,Hms
+,"by self",בָד|vad,m,aloneness,"לְ[בָד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֖וֹ,Hms
 "Gen 43:32 ב: and for them by themselves,",,,,,,,,
 ,,|,,,"וּלְהֶם|ulehem|and to them (m)",וְלָהֶ֣ם,
-,"by self",בַד|vad,m,aloneness,"לְ[בַדָ]ם|le[vad]am|to [aloneness] them (m)",לְבַדָּ֑ם,Hms
+,"by self",בָד|vad,m,aloneness,"לְ[בָדָ]ם|le[vad]am|to [aloneness] them (m)",לְבַדָּ֑ם,Hms
 "Gen 43:32 ג: and for the Egyptians, which did eat with him, by themselves:",,,,,,,,
 ,Egyptian,מִצְרִי|mitzri,M,"Egyptian (confiner)","וּלְ[מִצְרִים]|ule[mitzrim]|and to [Egyptian] (confiner)",וְלַמִּצְרִ֞ים,M
 ,eat,אָכֹל|achol,V,eat,"הַ[אֹכֵלִ]ים|ha[ocheli]m|the [eating]",הָאֹכְלִ֤ים,HVrSAmpa
 ,with,אֵת|et,,"along with","[אֵת]וֹ|[et]o|[along] [with] him",אִתּוֹ֙,H
-,"by self",בַד|vad,m,aloneness,"לְ[בַדָ]ם|le[vad]am|to [aloneness] them (m)",לְבַדָּ֔ם,Hms
+,"by self",בָד|vad,m,aloneness,"לְ[בָדָ]ם|le[vad]am|to [aloneness] them (m)",לְבַדָּ֔ם,Hms
 "Gen 43:32 ד: because the Egyptians might not",,,,,,,,
 ,because,כִּי|ki,,"for that","[כִּי]|[ki]|[for] [that]",כִּי֩,H
 ,not,לֹא|lo,,not,[לֹא]|[lo]|[not],לֹ֨א,H
@@ -22433,7 +22433,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,eat,אָכֹל|achol,V,eat,"לְ[אְכֹל]|le[echol]|to [eat]",לֶאֱכֹ֤ל,HVcSA
 ,with,אֵת|et,,"along with","[אֵת]־|[et]|[along] [with]",אֶת־,H
 ,Hebrew,עִבְרִי|ivri,M,"Hebrew (he cross over me)","הַ[עִבְרִים]|ha[ivrim]|the [Hebrew] (he cross over me)",הָֽעִבְרִים֙,M
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶ֔חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶ֔חֶם,Hbs
 "Gen 43:32 ו: for that [is] an abomination unto the Egyptians.",,,,,,,,
 ,for,כִּי|ki,,for,[כִּי]־|[ki]|[for],כִּי־,H
 ,abomination,תוֹעֲבָה|toavah,f,abomination,[תוֹעֲבָה]|[toavah]|[abomination],תוֹעֵבָ֥ה,Hfs
@@ -22455,15 +22455,15 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,another,רֵע|rea,m,fellow,"[רֵעֵ]הוּ׃|[ree]hu|[fellow] him",רֵעֵֽהוּ׃,Hms
 "Gen 43:34 א: And he took [and sent] messes unto them from before him:",,,,,,,,
 ,take,נָשֹׂא|naso,V,"lift up","וַיִ[שַׂא]|vaiyi[sa]|and he [lift] [up]",וַיִּשָּׂ֨א,HViSA3ms
-,mess,מַשְׂאָה|masah,f,"of up lifting","[מַשְׂאֹ]ת|[maso]t|[of] [up] [liftings]",מַשְׂאֹ֜ת,Hfp
+,mess,מַשְׂאָה|masah,f,"lifting up of","[מַשְׂאֹ]ת|[maso]t|[lifting] [up] [ofs]",מַשְׂאֹ֜ת,Hfp
 ,,אֵת|et,,even,"מִ[אֵת]|mi[et]|from [even]",מֵאֵ֣ת,H
 ,before,פָּן|pan,b,"before (face)","[פָּנָ]יו|[pan]av|[before] (faces) him",פָּנָיו֮,Hbp
 ,unto,אֵלֶי|elei,,unto,"[אֵל]הֶם|[el]hem|[unto] them (m)",אֲלֵהֶם֒,H
 "Gen 43:34 ב: but Benjamin’s mess was five times so much as any of theirs.",,,,,,,,
 ,"so much as",רָבֹה|ravoh,V,exceed,"וְתִ[רְב]|veti[rev]|and she [exceed]",וַתֵּ֜רֶב,HViSA3fs
-,mess,מַשְׂאָה|masah,f,"of up lifting","[מַשְׂאַ]ת|[masa]t|[of] [up] [lifting]",מַשְׂאַ֧ת,Hfs
+,mess,מַשְׂאָה|masah,f,"lifting up of","[מַשְׂאַ]ת|[masa]t|[lifting] [up] [of]",מַשְׂאַ֧ת,Hfs
 ,Benjamin,בִּנְיָמִין|binyamin,M,"Benjamin (son right hand)","[בִּנְיָמִן]|[binyamin]|[Benjamin] (son right hand)",בִּנְיָמִ֛ן,M
-,,מַשְׂאָה|masah,f,"of up lifting","מִ[מַשְׂאֹ]ת|mi[maso]t|more than [of] [up] [liftings]",מִמַּשְׂאֹ֥ת,Hfp
+,,מַשְׂאָה|masah,f,"lifting up of","מִ[מַשְׂאֹ]ת|mi[maso]t|more than [lifting] [up] [ofs]",מִמַּשְׂאֹ֥ת,Hfp
 ,any,כָּל|kal,m,all,"[כָּלָ]ם|[kal]am|[all] them (m)",כֻּלָּ֖ם,Hms
 ,five,חֲמֵשׁ|chamesh,f,"five (5)","[חֲמֵשׁ]|[chamesh]|[five] (5)",חָמֵ֣שׁ,Hfs
 ,time,יָד|yad,b,hand,[יָד]וֹת|[yad]ot|[hands],יָד֑וֹת,Hbp
@@ -22730,7 +22730,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,God,אֱלֹה|eloh,M,"God (mighty one)","הַ[אֱלֹהִ]ים|ha[eloh]im|the [God] (mighty one)",הָאֱלֹהִ֗ים,Mp
 ,"find out",מָצֹא|matzo,V,find,"[מָצַא]|[matza]|he [find]",מָצָא֙,HVpSA3ms
 ,,אֵת|et,,even,[אֵת]־|[et]|[even],אֶת־,H
-,iniquity,עֲוֹן|on,b,"consequence (twistedness) of","[עֲוֹן]|[on]|[consequence] (twistedness) [of]",עֲוֺ֣ן,Hbs
+,iniquity,עֲוֹן|on,b,"of consequence (twistedness)","[עֲוֹן]|[on]|[of] [consequence] (twistedness)",עֲוֺ֣ן,Hbs
 ,servant,עֲבָד|avad,m,servant,"[עֲבָדֵ]יךָ|[avad]eicha|[servants] you (m)",עֲבָדֶ֔יךָ,Hmp
 "Gen 44:16 ו: behold, we [are] my lord’s servants,",,,,,,,,
 ,behold,הִן|hin,,"here be","[הִנֵ]נוּ|[hin]enu|[here] [be] us",הִנֶּנּ֤וּ,H
@@ -22823,7 +22823,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 44:20 ה: and he alone is left of his mother,",,,,,,,,
 ,"be left",יָתֹר|yator,V,remain,"וַיִ[וָּתֵר]|vaiyi[vater]|and he be [remained]",וַיִּוָּתֵ֨ר,HViSP3ms
 ,he,הוּא|hu,m,he,[הוּא]|[hu]|[he],ה֧וּא,Hms
-,alone,בַד|vad,m,aloneness,"לְ[בַד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֛וֹ,Hms
+,alone,בָד|vad,m,aloneness,"לְ[בָד]וֹ|le[vad]o|to [aloneness] him",לְבַדּ֛וֹ,Hms
 ,mother,אִם|im,f,mother,"לְ[אִמ]וֹ|le[im]o|to [mother] him",לְאִמּ֖וֹ,Hfs
 "Gen 44:20 ו: and his father loveth him.",,,,,,,,
 ,father,אָב|av,m,father,"וְ[אָבִ]יו|ve[av]iv|and [father] him",וְאָבִ֥יו,Hms
@@ -23171,7 +23171,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,preserve,שׂוֹם|som,V,put,"לְ[שׂוּם]|le[sum]|to [put]",לָשׂ֥וּם,HVcSA
 ,,|,,,"לְכֶם|lechem|to you all (m)",לָכֶ֛ם,
 ,posterity,שְׁאֵרִית|sheerit,f,"left behind","[שְׁאֵרִית]|[sheerit]|[left] [behind]",שְׁאֵרִ֖ית,Hfs
-,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|in [earth] (land)",בָּאָ֑רֶץ,Hbs
+,earth,אָרֶץ|aretz,b,"earth (land)","בְּ[אָרֶץ]|be[aretz]|on [earth] (land)",בָּאָ֑רֶץ,Hbs
 "Gen 45:7 ג: and to save your lives by a great deliverance.",,,,,,,,
 ,"save lives",חָי|chai,V,"keep alive","וּלְהָ[חְי]וֹת|uleha[chei]ot|and to do [keep] [alive]",וּלְהַחֲי֣וֹת,HVcCA
 ,,|,,,"לְכֶם|lechem|to you all (m)",לָכֶ֔ם,
@@ -23464,7 +23464,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,laden,נָשֹׂא|naso,V,"lift up","[נֹשֵׂאֹ]ת|[noseo]t|[lifting] [up]",נֹֽ֠שְׂאֹת,HVrSAfpa
 ,corn,בָּר|bar,m,grain,[בָּר]|[bar]|[grain],בָּ֣ר,Hms
 "Gen 45:23 ד: and bread and meat for his father by the way.",,,,,,,,
-,bread,לֶחֶם|lechem,b,"bread (is eating)","וְ[לֶחֶם]|ve[lechem]|and [bread] (is eating)",וָלֶ֧חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","וְ[לֶחֶם]|ve[lechem]|and [bread] (be eating)",וָלֶ֧חֶם,Hbs
 ,meat,מָזוֹן|mazon,m,nourishment,"וּ[מָזוֹן]|u[mazon]|and [nourishment]",וּמָז֛וֹן,Hms
 ,father,אָב|av,m,father,"לְ[אָבִ]יו|le[av]iv|to [father] him",לְאָבִ֖יו,Hms
 ,way,דָרֶך|darech,b,way,"לְ[דָרֶך]׃|le[darech]|for [way]",לַדָּֽרֶךְ׃,Hbs
@@ -23843,7 +23843,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,Asenath,אָסְנַת|asenat,M,"Asenath (let me be thorny)","[אָסְנַת]|[asenat]|[Asenath] (let me be thorny)",אָֽסְנַ֔ת,M
 "Gen 46:20 ג: the daughter of Poti–pherah priest of On",,,,,,,,
 ,daughter,בֵּנָה|benah,f,daughter,[בַּ]ת־|[ba]t|[daughter],בַּת־,Hfs
-,Poti–pherah,"פּוֹטִי פֶרַע|poti fera",M,"Potiphera (bow and arrow me let loose you)","[פּוֹטִי פֶרַע]|[poti fera]|[Potiphera] (bow and arrow me let loose you)","פּ֥וֹטִי פֶ֖רַע",M
+,Poti–pherah,"פּוֹטִי פֶּרַע|poti pera",M,"Potiphera (bow and arrow me let loose you)","[פּוֹטִי פֶּרַע]|[poti pera]|[Potiphera] (bow and arrow me let loose you)","פּ֥וֹטִי פֶ֖רַע",M
 ,priest,כֹּהֵן|kohen,m,priest,[כֹּהֵן]|[kohen]|[priest],כֹּהֵ֣ן,Hms
 ,On,אוֹן|on,M,"On (vitality)","[אֹן]|[on]|[On] (vitality)",אֹ֑ן,M
 "Gen 46:20 ד: Manasseh and Ephraim,",,,,,,,,
@@ -23920,7 +23920,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,"come out of",יָצֹא|yatzo,V,"go out","[יֹצֵאֵ]י|[yotzee]i|[going] [out]",יֹצְאֵ֣י,HVrSAmpc
 ,loins,יְרֵך|yerech,f,thigh,"[יְרֵכ]וֹ|[yerech]o|[thigh] him",יְרֵכ֔וֹ,Hfs
 "Gen 46:26 ג: besides Jacob’s sons’ wives,",,,,,,,,
-,besides,בַד|vad,m,besides,"מִלְ[בַד]|mil[vad]|from to [besides]",מִלְּבַ֖ד,Hms
+,besides,בָד|vad,m,besides,"מִלְ[בָד]|mil[vad]|from to [besides]",מִלְּבַ֖ד,Hms
 ,wife,נָשַׁה|nashah,f,woman,[נָשֵׁ]י|[nashe]i|[women],נְשֵׁ֣י,Hfp
 ,son,בֵּן|ben,m,son,[בֵּנֵ]י־|[ben]ei|[sons],בְנֵי־,Hmp
 ,Jacob,יַעֲקֹב|yaakov,M,"Jacob (he supplants)","[יַעֲקֹב]|[yaakov]|[Jacob] (he supplants)",יַעֲקֹ֑ב,M
@@ -24183,7 +24183,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,before,פָּן|pan,b,"before (face)","לְ[פָּנֵ]יךָ|le[pan]eicha|to [before] (faces) you (m)",לְפָנֶ֣יךָ,Hbp
 ,is,הִוא|hiv,f,she,[הִוא]|[hiv]|[she],הִ֔וא,Hfs
 "Gen 47:6 ב: in the best of the land",,,,,,,,
-,best,מֵיטַב|meitav,m,"best (of be well)","בְּ[מֵיטַב]|be[meitav]|in [best] (of be well)",בְּמֵיטַ֣ב,Hms
+,best,מֵיטַב|meitav,m,"best (be well of)","בְּ[מֵיטַב]|be[meitav]|in [best] (be well of)",בְּמֵיטַ֣ב,Hms
 ,land,אָרֶץ|aretz,b,land,"הַ[אָרֶץ]|ha[aretz]|the [land]",הָאָ֔רֶץ,Hbs
 "Gen 47:6 ג: make thy father and brethren to dwell;",,,,,,,,
 ,dwell,יָשֹׁב|yashov,V,"settle (sit down)","הוֹ[שִׁב]|ho[shiv]|do [settle] (sit down) you",הוֹשֵׁ֥ב,HVvCA2ms
@@ -24242,7 +24242,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 47:9 ב: The days of the years of my pilgrimage [are] an hundred and thirty years:",,,,,,,,
 ,day,יוֹם|yom,m,day,[יֹמֵ]י|[yom]ei|[days],יְמֵי֙,Hmp
 ,years,שְׁנֵי|shenei,m,years,[שְׁנֵי]|[shenei]|[years],שְׁנֵ֣י,Hmd
-,"of pilgrimage",מְגוּר|megur,m,"of sojourning","[מְגוּרִ]י|[megur]i|[of] [sojournings] me",מְגוּרַ֔י,Hmp
+,"of pilgrimage",מְגוּר|megur,m,"sojourning of","[מְגוּרִ]י|[megur]i|[sojournings] [of] me",מְגוּרַ֔י,Hmp
 ,thirty,שְׁלוֹשִׁים|sheloshim,b,"thirty (30)","[שְׁלֹשִׁים]|[sheloshim]|[thirty] (30)",שְׁלֹשִׁ֥ים,Hbp
 ,hundred,מֵאָה|meah,b,"hundred (100)","וּ[מֵאַ]ת|u[mea]t|and [hundred] (100)",וּמְאַ֖ת,Hbs
 ,year,שְׁנָה|shenah,f,year,[שְׁנָה]|[shenah]|[year],שָׁנָ֑ה,Hfs
@@ -24263,7 +24263,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,father,אָב|av,m,father,"[אָבֹ]תִי|[av]oti|[fathers] me",אֲבֹתַ֔י,Hmp
 "Gen 47:9 ה: in the days of their pilgrimage.",,,,,,,,
 ,day,יוֹם|yom,m,day,"בְּ[יֹמֵ]י|bei[yom]ei|in [days]",בִּימֵ֖י,Hmp
-,"of pilgrimage",מְגוּר|megur,m,"of sojourning","[מְגוּרֵ]יהֶם׃|[megur]eihem|[of] [sojournings] them (m)",מְגוּרֵיהֶֽם׃,Hmp
+,"of pilgrimage",מְגוּר|megur,m,"sojourning of","[מְגוּרֵ]יהֶם׃|[megur]eihem|[sojournings] [of] them (m)",מְגוּרֵיהֶֽם׃,Hmp
 "Gen 47:10 א: And Jacob blessed Pharaoh,",,,,,,,,
 ,bless,בָּרֹך|baroch,V,bless,"וַיְ[בַּרֵך]|vaiye[barech]|and he [bless] !",וַיְבָ֥רֶךְ,HViIA3ms
 ,Jacob,יַעֲקֹב|yaakov,M,"Jacob (he supplants)","[יַעֲקֹב]|[yaakov]|[Jacob] (he supplants)",יַעֲקֹ֖ב,M
@@ -24287,7 +24287,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,land,אָרֶץ|aretz,b,land,"בְּ[אָרֶץ]|be[aretz]|in [land]",בְּאֶ֣רֶץ,Hbs
 ,Egypt,מִצְרַיִם|mitzraiyim,M,"Egypt (confiners)","[מִצְרַיִם]|[mitzraiyim]|[Egypt] (confiners)",מִצְרַ֔יִם,M
 "Gen 47:11 ג: in the best of the land,",,,,,,,,
-,best,מֵיטַב|meitav,m,"best (of be well)","בְּ[מֵיטַב]|be[meitav]|in [best] (of be well)",בְּמֵיטַ֥ב,Hms
+,best,מֵיטַב|meitav,m,"best (be well of)","בְּ[מֵיטַב]|be[meitav]|in [best] (be well of)",בְּמֵיטַ֥ב,Hms
 ,land,אָרֶץ|aretz,b,land,"הַ[אָרֶץ]|ha[aretz]|the [land]",הָאָ֖רֶץ,Hbs
 "Gen 47:11 ד: in the land of Rameses,",,,,,,,,
 ,land,אָרֶץ|aretz,b,land,"בְּ[אָרֶץ]|be[aretz]|in [land]",בְּאֶ֣רֶץ,Hbs
@@ -24309,11 +24309,11 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,household,בֵּית|beit,m,house,[בֵּית]|[beit]|[house],בֵּ֣ית,Hms
 ,father,אָב|av,m,father,"[אָבִ]יו|[av]iv|[father] him",אָבִ֑יו,Hms
 "Gen 47:12 ג: with bread, according to [their] families.",,,,,,,,
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶ֖חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶ֖חֶם,Hbs
 ,according,פִּי|pi,m,mouth,"לְ[פִּי]|le[pi]|for [mouth]",לְפִ֥י,Hms
 ,families,טַף|taf,m,children,"הַ[טַף]׃|ha[taf]|the [children]",הַטָּֽף׃,Hms
 "Gen 47:13 א: And [there was] no bread in all the land;",,,,,,,,
-,bread,לֶחֶם|lechem,b,"bread (is eating)","וְ[לֶחֶם]|ve[lechem]|and [bread] (is eating)",וְלֶ֤חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","וְ[לֶחֶם]|ve[lechem]|and [bread] (be eating)",וְלֶ֤חֶם,Hbs
 ,no,אֵין|ein,,"not there","[אֵין]|[ein]|[not] [there]",אֵין֙,H
 ,all,כָּל|kal,m,all,"בְּ[כָּל]־|be[kal]|in [all]",בְּכָל־,Hms
 ,land,אָרֶץ|aretz,b,land,"הַ[אָרֶץ]|ha[aretz]|the [land]",הָאָ֔רֶץ,Hbs
@@ -24374,7 +24374,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 47:15 ד: Give us bread:",,,,,,,,
 ,give,יָהֹב|yahov,V,grant,"[הְבָ]ה־|[hev]ah|[grant] you eh",הָֽבָה־,HVvSA2ms
 ,,|,,,"לֵנוּ|lenu|to us",לָּ֣נוּ,
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶ֔חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶ֔חֶם,Hbs
 "Gen 47:15 ה: for why should we die in thy presence?",,,,,,,,
 ,why,מָה|mah,,why,"וּלְ[מָה]|ule[mah]|then to [why]",וְלָ֥מָּה,H
 ,die,מוֹת|mot,V,die,"נָ[מוּת]|na[mut]|we [die]",נָמ֖וּת,HViSA1cp
@@ -24407,7 +24407,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,give,נָתֹן|naton,V,give,"וַיִ[תַן]|vaiyi[tan]|and he [give]",וַיִּתֵּ֣ן,HViSA3ms
 ,,|,,,"לְהֶם|lehem|to them (m)",לָהֶם֩,
 ,Joseph,יוֹסֵף|yosef,M,"Joseph (Yah add you)","[יוֹסֵף]|[yosef]|[Joseph] (Yah add you)",יוֹסֵ֨ף,M
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶם]|[lechem]|[bread] (is eating)",לֶ֜חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶם]|[lechem]|[bread] (be eating)",לֶ֜חֶם,Hbs
 "Gen 47:17 ג: [in exchange] for horses, and for the flocks, and for the cattle of the herds, and for the asses:",,,,,,,,
 ,horse,סוּס|sus,m,"horse (be flinched)","בְּ[סוּסִ]ים|be[sus]im|in [horses] (are flinched)",בַּסּוּסִ֗ים,Hmp
 ,cattle,מִקְנֵה|mikneh,m,livestock,"וּבְ[מִקְנֵה]|uve[mikneh]|and in [livestock]",וּבְמִקְנֵ֥ה,Hms
@@ -24417,7 +24417,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,ass,חֲמוֹר|chamor,b,"donkey (be roiled up)","וּבְ[חֲמֹרִ]ים|uve[chamor]im|and in [donkeys] (are roiled up)",וּבַחֲמֹרִ֑ים,Hbp
 "Gen 47:17 ד: and he fed them with bread for all their cattle",,,,,,,,
 ,feed,נָהֹל|nahol,V,lead,"וַיְ[נַהֵלָ]ם|vaiye[nahel]am|and he [lead] ! them (m)",וַיְנַהֲלֵ֤ם,HViIA3ms
-,bread,לֶחֶם|lechem,b,"bread (is eating)","בְּ[לֶחֶם]|be[lechem]|in [bread] (is eating)",בַּלֶּ֨חֶם֙,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","בְּ[לֶחֶם]|be[lechem]|in [bread] (be eating)",בַּלֶּ֨חֶם֙,Hbs
 ,all,כָּל|kal,m,all,"בְּ[כָּל]־|be[kal]|in [all]",בְּכָל־,Hms
 ,cattle,מִקְנֵה|mikneh,m,livestock,"[מִקְנ]הֶם|[mikn]hem|[livestock] them (m)",מִקְנֵהֶ֔ם,Hms
 "Gen 47:17 ה: for that year.",,,,,,,,
@@ -24473,7 +24473,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,,אֵת|et,,even,"[אֵתֵ]נוּ|[et]enu|[even] us",אֹתָ֥נוּ,H
 ,and,אֵת|et,,even,"וְ[אֵת]־|ve[et]|and [even]",וְאֶת־,H
 ,land,אֲדָמָה|adamah,f,ground,"[אֲדָמַ]תֵנוּ|[adama]tenu|[ground] us",אַדְמָתֵ֖נוּ,Hfs
-,bread,לֶחֶם|lechem,b,"bread (is eating)","בְּ[לֶחֶם]|be[lechem]|in [bread] (is eating)",בַּלָּ֑חֶם,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","בְּ[לֶחֶם]|be[lechem]|in [bread] (be eating)",בַּלָּ֑חֶם,Hbs
 "Gen 47:19 ד: and we and our land will be servants unto Pharaoh:",,,,,,,,
 ,be,הָיֹה|haiyoh,V,exist,"וְנִ[הְיֶה]|veni[hyeh]|and we [exist]",וְנִֽהְיֶ֞ה,HViSA1cp
 ,we,אֲנַחְנוּ|anachnu,c,we,[אֲנַחְנוּ]|[anachnu]|[we],אֲנַ֤חְנוּ,Hcp
@@ -24630,7 +24630,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,except,רַק|rak,,"be only","[רַק]|[rak]|[be] [only]",רַ֞ק,H
 ,land,אֲדָמָה|adamah,f,ground,[אֲדָמַ]ת|[adama]t|[ground],אַדְמַ֤ת,Hfs
 ,priest,כֹּהֵן|kohen,m,priest,"הַ[כֹּהֵנִ]ים|ha[kohen]im|the [priests]",הַכֹּֽהֲנִים֙,Hmp
-,only,בַד|vad,m,aloneness,"לְ[בַדָ]ם|le[vad]am|to [aloneness] them (m)",לְבַדָּ֔ם,Hms
+,only,בָד|vad,m,aloneness,"לְ[בָדָ]ם|le[vad]am|to [aloneness] them (m)",לְבַדָּ֔ם,Hms
 "Gen 47:26 ו: [which] became not Pharaoh’s.",,,,,,,,
 ,not,לֹא|lo,,not,[לֹא]|[lo]|[not],לֹ֥א,H
 ,become,הָיֹה|haiyoh,V,exist,"[הָיָתָ]ה|[haiyata]h|she [exist]",הָיְתָ֖ה,HVpSA3fs
@@ -25245,7 +25245,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 49:5 ב: instruments of cruelty [are in] their habitations.",,,,,,,,
 ,instrument,כְּלִי|keli,m,"thing (concluding)","[כְּלֵ]י|[kele]i|[things] (concludings)",כְּלֵ֥י,Hmp
 ,cruelty,חָמָס|chamas,m,"being cruel","[חָמָס]|[chamas]|[being] [cruel]",חָמָ֖ס,Hms
-,habitation,מְכֵרָה|mecherah,f,"of excavation","[מְכֵרֹ]תֵיהֶם׃|[mechero]teihem|[of] [excavations] them (m)",מְכֵרֹתֵיהֶֽם׃,Hfp
+,habitation,מְכֵרָה|mecherah,f,"excavation of","[מְכֵרֹ]תֵיהֶם׃|[mechero]teihem|[excavations] [of] them (m)",מְכֵרֹתֵיהֶֽם׃,Hfp
 "Gen 49:6 א: O my soul, come not thou into their secret;",,,,,,,,
 ,secret,סוֹד|sod,m,"close confidence","בְּ[סֹדָ]ם|be[sod]am|in [close] [confidence] them (m)",בְּסֹדָם֙,Hms
 ,not,אַל|al,,"not then","[אַל]־|[al]|[not] [then]",אַל־,H
@@ -25278,7 +25278,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,divide,חָלֹק|chalok,V,apportion,"אֲ[חַלֵקָ]ם|a[chalek]am|I [apportion] ! them (m)",אֲחַלְּקֵ֣ם,HViIA1cs
 ,Jacob,יַעֲקֹב|yaakov,M,"Jacob (he supplants)","בְּ[יַעֲקֹב]|bei[yaakov]|in [Jacob] (he supplants)",בְּיַעֲקֹ֔ב,M
 "Gen 49:7 ד: and scatter them in Israel.",,,,,,,,
-,scatter,פּוֹץ|potz,V,"scatter abroad","וְאַ[פִּיצָ]ם|vea[pitz]am|and I do [scatter] [abroad] them (m)",וַאֲפִיצֵ֖ם,HViCA1cs
+,scatter,פוֹץ|fotz,V,"scatter abroad","וְאַ[פִיצָ]ם|vea[fitz]am|and I do [scatter] [abroad] them (m)",וַאֲפִיצֵ֖ם,HViCA1cs
 ,Israel,יִשְׂרָאֵל|yisrael,M,"Israel (let him persist God)","בְּ[יִשְׂרָאֵל]׃ס|bei[yisrael]|in [Israel] (let him persist God)",בְּיִשְׂרָאֵֽל׃ס,M
 "Gen 49:8 א: Judah, thou [art he] whom thy brethren shall praise:",,,,,,,,
 ,Judah,יְהוּדָה|yehudah,M,"Judah (Yah causes to be thrown hands)","[יְהוּדָה]|[yehudah]|[Judah] (Yah causes to be thrown hands)",יְהוּדָ֗ה,M
@@ -25416,7 +25416,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 49:17 ד: so that his rider shall fall backward.",,,,,,,,
 ,fall,נָפֹל|nafol,V,fall,"וַיִ[פַל]|vaiyi[fal]|and he [fall]",וַיִּפֹּ֥ל,HViSA3ms
 ,rider,רָכֹב|rachov,V,ride,"[רֹכֵב]וֹ|[rochev]o|[riding] him",רֹכְב֖וֹ,HVrSAmsc
-,backward,אָחוֹר|achor,m,behind,[אָחוֹר]׃|[achor]|[behind],אָחֽוֹר׃,Hms
+,backward,אָחוֹר|achor,m,"behind (delay)","[אָחוֹר]׃|[achor]|[behind] (delay)",אָחֽוֹר׃,Hms
 "Gen 49:18 א: I have waited for thy salvation, O LORD.",,,,,,,,
 ,salvation,יְשׁוּעָה|yeshuah,f,rescue,"לְ[יְשׁוּעַ]תךָ|lei[yeshua]tcha|for [rescue] you (m)",לִֽישׁוּעָתְךָ֖,Hfs
 ,wait,קָוֹה|koh,V,"wait expectantly","[קִוִי]תִי|[kivi]ti|I [wait] [expectantly] !",קִוִּ֥יתִי,HVpIA1cs
@@ -25432,7 +25432,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 49:20 א: Out of Asher his bread [shall be] fat,",,,,,,,,
 ,Asher,אָשֵׁר|asher,M,"Asher (happiness)","מִ[אָשֵׁר]|mi[asher]|from [Asher] (happiness)",מֵאָשֵׁ֖ר,M
 ,fat,שְׁמֵנָה|shemenah,f,oily,[שְׁמֵנָה]|[shemenah]|[oily],שְׁמֵנָ֣ה,Hfs
-,bread,לֶחֶם|lechem,b,"bread (is eating)","[לֶחֶמ]וֹ|[lechem]o|[bread] (is eating) him",לַחְמ֑וֹ,Hbs
+,bread,לֶחֶם|lechem,b,"bread (be eating)","[לֶחֶמ]וֹ|[lechem]o|[bread] (be eating) him",לַחְמ֑וֹ,Hbs
 "Gen 49:20 ב: and he shall yield royal dainties.",,,,,,,,
 ,he,הוּא|hu,m,he,"וְ[הוּא]|ve[hu]|and [he]",וְה֥וּא,Hms
 ,yield,נָתֹן|naton,V,give,"יִ[תַן]|yi[tan]|he [give]",יִתֵּ֖ן,HViSA3ms
@@ -25579,13 +25579,13 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,father,אָב|av,m,father,"[אָבֹ]תִי|[av]oti|[fathers] me",אֲבֹתָ֑י,Hmp
 "Gen 49:29 ד: in the cave that [is] in the field of Ephron the Hittite,",,,,,,,,
 ,in,אֵלֶי|elei,,unto,[אֵל]־|[el]|[unto],אֶל־,H
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","הַ[מְעֻרָה]|ha[meurah]|the [cave] (of being naked)",הַ֨מְּעָרָ֔ה,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","הַ[מְעֻרָה]|ha[meurah]|the [cave] (is made naked)",הַ֨מְּעָרָ֔ה,Hfs
 ,that,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֥ר,H
 ,field,שָׂדֶה|sadeh,m,field,"בְּ[שָׂדֶה]|be[sadeh]|in [field]",בִּשְׂדֵ֖ה,Hms
 ,Ephron,עֶפְרוֹן|efron,M,"Ephron (he kick up in)","[עֶפְרוֹן]|[efron]|[Ephron] (he kick up in)",עֶפְר֥וֹן,M
 ,Hittite,חִתִי|chiti,M,"Hittite (you be dismayed)","הַ[חִתִי]׃|ha[chiti]|the [Hittite] (you be dismayed)",הַֽחִתִּֽי׃,M
 "Gen 49:30 א: In the cave that [is] in the field of Machpelah,",,,,,,,,
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","בְּ[מְעֻרָה]|be[meurah]|in [cave] (of being naked)",בַּמְּעָרָ֞ה,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","בְּ[מְעֻרָה]|be[meurah]|in [cave] (is made naked)",בַּמְּעָרָ֞ה,Hfs
 ,that,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]|[asher]|[then] [that]",אֲשֶׁ֨ר,H
 ,field,שָׂדֶה|sadeh,m,field,"בְּ[שָׂדֶה]|be[sadeh]|in [field]",בִּשְׂדֵ֧ה,Hms
 ,Machpelah,מַכְפִלָה|machfilah,M,"Machpelah (do be doubling)","הַ[מַכְפִלָה]|ha[machfilah]|the [Machpelah] (do be doubling)",הַמַּכְפֵּלָ֛ה,M
@@ -25637,7 +25637,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 ,"purchase of",מִקְנֵה|mikneh,m,livestock,[מִקְנֵה]|[mikneh]|[livestock],מִקְנֵ֧ה,Hms
 ,field,שָׂדֶה|sadeh,m,field,"הַ[שָׂדֶה]|ha[sadeh]|the [field]",הַשָּׂדֶ֛ה,Hms
 "Gen 49:32 ב: and of the cave that [is] therein [was]",,,,,,,,
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","וְהַ[מְעֻרָה]|veha[meurah]|and the [cave] (of being naked)",וְהַמְּעָרָ֥ה,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","וְהַ[מְעֻרָה]|veha[meurah]|and the [cave] (is made naked)",וְהַמְּעָרָ֥ה,Hfs
 ,that,אֲשֶׁר|asher,,"then that","[אֲשֶׁר]־|[asher]|[then] [that]",אֲשֶׁר־,H
 ,,|,,,"בּוֹ|bo|in him",בּ֖וֹ,
 "Gen 49:32 ג: from the children of Heth.",,,,,,,,
@@ -25885,7 +25885,7 @@ kjv,gist,root,type,meaning,kjgv,original,morph
 "Gen 50:13 ב: and buried him in the cave of the field of Machpelah,",,,,,,,,
 ,bury,קָבֹר|kavor,V,bury,"וַיִ[קְבְר]וּ|vaiyi[kver]u|and they [bury]",וַיִּקְבְּר֣וּ,HViSA3mp
 ,,אֵת|et,,even,"[אֵת]וֹ|[et]o|[even] him",אֹת֔וֹ,H
-,cave,מְעֻרָה|meurah,f,"cave (of being naked)","בְּ[מְעֻרַ]ת|be[meura]t|in [cave] (of being naked)",בִּמְעָרַ֖ת,Hfs
+,cave,מְעֻרָה|meurah,f,"cave (is made naked)","בְּ[מְעֻרַ]ת|be[meura]t|in [cave] (is made naked)",בִּמְעָרַ֖ת,Hfs
 ,field,שָׂדֶה|sadeh,m,field,[שָׂדֶה]|[sadeh]|[field],שְׂדֵ֣ה,Hms
 ,Machpelah,מַכְפִלָה|machfilah,M,"Machpelah (do be doubling)","הַ[מַכְפִלָה]|ha[machfilah]|the [Machpelah] (do be doubling)",הַמַּכְפֵּלָ֑ה,M
 "Gen 50:13 ג: which Abraham bought with the field for a possession of a buryingplace",,,,,,,,
