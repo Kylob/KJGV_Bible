@@ -23,8 +23,8 @@ The **KJGV Bible** is a multi‑volume, programmatically generated translation o
 - **Hebraic‑perspective**  
   Preserves the form and the way ancient Hebrews expressed themselves — **the structure, the worldview, the meaning**.
 
-- **Comprehensive glossaries**  
-  Includes both Hebrew→English and English→Hebrew glossaries.
+- **Comprehensive concordances**  
+  Includes both Hebrew→English and English→Hebrew translation concordances.
 
 ## **Design Tradeoffs**
 This translation prioritizes structural transparency over idiomatic smoothing. As a result, the English may feel unfamiliar at times. This is intentional: the goal is to reveal the internal logic of Biblical Hebrew.
