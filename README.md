@@ -11,7 +11,7 @@ This repository contains the complete text of:
 Presented with full morphological transparency and a consistent, rule‑driven methodology.
 
 ## **Purpose**
-The purpose of this translation is to present the Hebrew text of the Westminster Leningrad Codex in an English form that preserves its structure, reflects its lexical precision, and exposes its underlying patterns without interpretive smoothing or doctrinal framing.
+To preserve the structure, flow, and meaning of the original Hebrew text without idiomatic smoothing or doctrinal framing.
 
 ## **Features**
 - **Programmatic translation**  
@@ -37,16 +37,16 @@ The purpose of this translation is to present the Hebrew text of the Westminster
 
 ## **Philosophy**
 - **Accuracy**  
-  This translation reflects the precise grammatical and lexical information present in the Hebrew text without adding interpretive smoothing or doctrinal framing.
+  This translation reflects the precise grammatical and lexical information present in the Hebrew text without interpretive smoothing.
 - **Consistency**  
-  Each Hebrew root is mapped to a stable English rendering, allowing readers to follow meaning across contexts without contextual reinterpretation.
+  Each Hebrew root is mapped to a stable English rendering, allowing readers to follow usage across contexts.
 - **Transparency**  
-  All translation decisions are exposed through structural fidelity, morphological clarity, and concordances that show how meanings have been rendered throughout the text.
+  By exposing the Hebrew structure, the translation process becomes fully transparent.
 
 ## **Usage**
 This translation enables you to:
 - study word usage with morphological clarity
-- engage the text with with a fresh, unfiltered perspective
+- engage the text with a fresh, unfiltered perspective
 - follow meanings across contexts without interpretive paraphrasing
 
 ## **License**
