@@ -8,6 +8,7 @@ This repository contains the complete text of:
 - **Genesis** (bereshit) in beginning
 - **Job** (iyov) be hostile
 - **Exodus** (shemot) names
+- **Leviticus** (vaiyikra) and he call
 
 Presented with full morphological transparency and a consistent, rule‑driven methodology.
 
