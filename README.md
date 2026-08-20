@@ -9,6 +9,7 @@ This repository contains the complete text of:
 - **Job** (iyov) be hostile
 - **Exodus** (shemot) names
 - **Leviticus** (vaiyikra) and he call
+- **Numbers** (bemidbar) in wilderness
 
 Presented with full morphological transparency and a consistent, rule‑driven methodology.
 
