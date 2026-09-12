@@ -10,6 +10,7 @@ This repository contains the complete text of:
 - **Exodus** (shemot) names
 - **Leviticus** (vaiyikra) and he call
 - **Numbers** (bemidbar) in wilderness
+- **Deuteronomy** (devarim) words
 
 Presented with full morphological transparency and a consistent, rule‑driven methodology.
 
