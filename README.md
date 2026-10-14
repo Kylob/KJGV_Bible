@@ -40,6 +40,14 @@ To preserve the structure, flow, and meaning of the original Hebrew text without
 - **Comprehensive concordances**  
   Both Hebrew→English and English→Hebrew translation concordances are included to trace and compare how meanings have been rendered throughout the text.
 
+
+## **Download**
+
+- [EPUB](https://raw.githubusercontent.com/Kylob/KJGV_Bible/main/KJGV_Bible.epub)
+- [PDF (dark theme)](https://raw.githubusercontent.com/Kylob/KJGV_Bible/main/KJGV_Bible_dark.pdf)
+- [PDF (light theme)](https://raw.githubusercontent.com/Kylob/KJGV_Bible/main/KJGV_Bible_light.pdf)
+- [Source CSV (canonical data)](https://raw.githubusercontent.com/Kylob/KJGV_Bible/main/KJGV_Bible.csv)
+
 ## **Philosophy**
 - **Accuracy**  
   This translation reflects the precise grammatical and lexical information present in the Hebrew text without interpretive smoothing.
