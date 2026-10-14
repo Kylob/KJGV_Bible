@@ -11,6 +11,7 @@ This repository contains the complete text of:
 - **Leviticus** (vaiyikra) and he call
 - **Numbers** (bemidbar) in wilderness
 - **Deuteronomy** (devarim) words
+- **Joshua** (yehoshua) Yah save you
 
 Presented with full morphological transparency and a consistent, rule‑driven methodology.
 
