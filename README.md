@@ -12,6 +12,7 @@ This repository contains the complete text of:
 - **Numbers** (bemidbar) in wilderness
 - **Deuteronomy** (devarim) words
 - **Joshua** (yehoshua) Yah save you
+- **Judges** (shofetim) be judging
 
 Presented with full morphological transparency and a consistent, rule‑driven methodology.
 
