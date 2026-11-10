@@ -13,6 +13,7 @@ This repository contains the complete text of:
 - **Deuteronomy** (devarim) words
 - **Joshua** (yehoshua) Yah save you
 - **Judges** (shofetim) be judging
+- **Ruth** (rut) be fed
 
 Presented with full morphological transparency and a consistent, rule‑driven methodology.
 
